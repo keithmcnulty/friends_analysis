@@ -1,4 +1,4 @@
-raw_results <- data.frame(season = integer(), episode = integer(), from = character(), to = character())
+raw_results <- data.frame(from = character(), to = character())
 
 for (season in 1:10) {
   for (episode in 1:25) {
@@ -25,22 +25,23 @@ for (season in 1:10) {
     }
     
    raw_results <- raw_results %>% 
-     dplyr::mutate(season = season,
-                   episode = episode) %>% 
      dplyr::bind_rows(result)
      
   }
+  
+  raw_results <- raw_results %>% 
+    dplyr::mutate(season = season)
 }
 
 
 for (i in 1: nrow(raw_results)) {
   
-  raw_results[i, ] <- sort(raw_results[i, ])
+  raw_results[i, c("from", "to")] <- sort(raw_results[i, c("from", "to")])
   
 }
 
 edges <- raw_results %>% 
-  dplyr::count(from, to, name = "weight")
+  dplyr::count(season, from, to, name = "weight")
 
 if (!dir.exists("data")) {
   dir.create("data")

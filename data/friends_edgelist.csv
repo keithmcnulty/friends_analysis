@@ -1,1731 +1,1823 @@
-"from","to","weight"
-"A Crew Member","Alex",1
-"A Crew Member","Chandler",1
-"A Crew Member","Joey",1
-"A Crew Member","The Director",1
-"A Drunken Gambler","Chandler",1
-"A Drunken Gambler","Drunken Gambler",1
-"A Drunken Gambler","Monica",1
-"A Drunken Gambler","The Croupier",1
-"A Female Student","Monica",1
-"A Female Student","Phoebe",1
-"A Student","Rachel",1
-"A Student","Ross",1
-"A Waiter","Joey",1
-"A Waiter","Monica",1
-"A Waiter","The Waiter",1
-"A Waiter in Drag","Chandler",1
-"A Waiter in Drag","Helena",1
-"A Waiter in Drag","Monica",1
-"A Waiter in Drag","Waiter in Drag",1
-"Airline Employee","Chandler",1
-"Airline Employee","Monica",1
-"Alan","Chandler",1
-"Alan","Joey",1
-"Alan","Monica",2
-"Alan","Phoebe",1
-"Alan","Rachel",1
-"Alan","Ross",1
-"Alex","Chandler",1
-"Alex","Joey",1
-"Alex","The Director",1
-"Alice","Chandler",4
-"Alice","Dan",1
-"Alice","Dr. Harad",1
-"Alice","Dr. Zane",1
-"Alice","Frank",7
-"Alice","Joey",3
-"Alice","Joey's Doctor",1
-"Alice","Monica",4
-"Alice","Phoebe",9
-"Alice","Phoebe Sr",1
-"Alice","Rachel",4
-"Alice","Ross",2
-"Amanda","Ross",1
-"Anchorwoman","Chandler",1
-"Anchorwoman","Joey",1
-"Anchorwoman","Ross",1
-"Andrea","Chandler",1
-"Andrea","Joey",1
-"Andrea","Monica",1
-"Andrea","Mr. Geller",1
-"Andrea","Mrs. Geller",1
-"Andrea","Mrs. Geller ",1
-"Andrea","Phoebe",1
-"Andrea","Rachel",1
-"Andrea","Rachel ",1
-"Andrea","Ross",1
-"Angela","Bob",1
-"Angela","Chandler",1
-"Angela","Joey",3
-"Angela","Monica",4
-"Angela","Phoebe",1
-"Angela","Rachel",1
-"Angela","Ross",1
-"Annabelle","Customer",1
-"Annabelle","Hombre Man",3
-"Annabelle","Joey",3
-"Annabelle","Store Guy",1
-"Another Scientist","Another Tour Guide",1
-"Another Scientist","Joey",1
-"Another Scientist","Older Scientist",1
-"Another Scientist","Ross",1
-"Another Scientist","Tour Guide",1
-"Another Tour Guide","Joey",1
-"Another Tour Guide","Older Scientist",1
-"Another Tour Guide","Ross",1
-"Another Tour Guide","Tour Guide",1
-"Anxious Wedding Guest","Chandler",1
-"Anxious Wedding Guest","Ross",1
-"Aunt Iris","Monica",1
-"Aunt Iris","Phoebe",1
-"Aunt Iris","Rachel",1
-"Aunt Lillian","Monica",1
-"Aunt Lillian","Mr. Geller",1
-"Aunt Lillian","Mrs. Geller",2
-"Aunt Lillian","Nurse",1
-"Aunt Lillian","Ross",2
-"Aunt Lisa","Chandler",2
-"Aunt Lisa","Joey",2
-"Aunt Lisa","Man",2
-"Aunt Lisa","Monica",2
-"Aunt Lisa","Mr. Geller",2
-"Aunt Lisa","Mrs. Geller",2
-"Aunt Lisa","Parker",2
-"Aunt Lisa","Phoebe",2
-"Aunt Lisa","Rachel",2
-"Aunt Lisa","Ross",2
-"Aunt Lisa","Uncle Dan",1
-"Aunt Lisa","Woman",2
-"Aurora","Chandler",3
-"Aurora","Joey",2
-"Aurora","Monica",2
-"Aurora","Phoebe",2
-"Aurora","Rachel",1
-"Aurora","Ross",2
-"Ballerina","Chandler",1
-"Ballerina","Cowgirl",1
-"Ballerina","Eric",1
-"Ballerina","Girl",1
-"Ballerina","Joey",1
-"Ballerina","Kids",1
-"Ballerina","Mona",1
-"Ballerina","Monica",1
-"Ballerina","Phoebe",1
-"Ballerina","Rachel",1
-"Ballerina","Ross",1
-"Ballerina","Ursula",1
-"Bandleader","Chandler",2
-"Bandleader","Dennis Phillips",2
-"Bandleader","Fat Girl",1
-"Bandleader","Gert",1
-"Bandleader","Joey",2
-"Bandleader","Little Girl",1
-"Bandleader","Mona",2
-"Bandleader","Monica",2
-"Bandleader","Mr. Geller",1
-"Bandleader","Mrs. Bing",1
-"Bandleader","Phoebe",2
-"Bandleader","Rachel",2
-"Bandleader","Ross",2
-"Bandleader","Second Girl",1
-"Bank Officer","Chandler",1
-"Bank Officer","Ms. Lambert",1
-"Bank Officer","Ross",1
-"Barry","Bernice",2
-"Barry","Bobby",1
-"Barry","Carol",1
-"Barry","Mindy",1
-"Barry","Rachel",5
-"Barry","Robbie",2
-"Barry","Ross",1
-"Barry","Susan",1
-"Bass Singer","Julio",1
-"Bass Singer","Man",1
-"Bass Singer","Quartet",1
-"Ben","Carol",3
-"Ben","Chandler",5
-"Ben","Joey",4
-"Ben","Monica",5
-"Ben","Phoebe",7
-"Ben","Rachel",9
-"Ben","Ross",10
-"Ben","The Teacher",1
-"Bernice","Bobby",1
-"Bernice","Mindy",1
-"Bernice","Rachel",2
-"Big Nosed Rachel","Chandler",1
-"Big Nosed Rachel","Fat Monica",1
-"Big Nosed Rachel","Monica",1
-"Big Nosed Rachel","Mr. Geller",1
-"Big Nosed Rachel","Mrs. Geller",1
-"Big Nosed Rachel","Ross",1
-"Blackjack Dealer","Chandler",1
-"Blackjack Dealer","Joey",1
-"Blackjack Dealer","Phoebe",1
-"Bob","Chandler",5
-"Bob","Joey",2
-"Bob","Monica",1
-"Bob","Mr. Franklin",2
-"Bob","Phoebe",1
-"Bob","Ross",1
-"Bobby","Dina",2
-"Bobby","Joey",2
-"Bobby","Rachel",3
-"Bonnie","Rachel",1
-"Bonnie","Ross",1
-"Both","Chandler",2
-"Both","Joey",1
-"Both","Monica",1
-"Both","Receptionist",1
-"Both","Ross",1
-"Boy in the Cape","Chandler",1
-"Boy in the Cape","Gunther",1
-"Boy in the Cape","Joey",1
-"Boy in the Cape","Kid",1
-"Boy in the Cape","Monica",1
-"Boy in the Cape","Rachel",1
-"Brenda","Chandler",2
-"Brenda","Monica",3
-"Brenda","Rachel",1
-"Buffay, the Vampire Layer","Chandler",1
-"Buffay, the Vampire Layer","Joey",1
-"Buffay, the Vampire Layer","Monica",1
-"Buffay, the Vampire Layer","Phoebe",1
-"Buffay, the Vampire Layer","Rachel",1
-"Buffay, the Vampire Layer","Ross",1
-"Buffay, the Vampire Layer","The Vampire",1
-"Burt","Elizabeth",2
-"Burt","Lydia",1
-"Burt","Mel",1
-"Burt","Ross",3
-"C.H.E.E.S.E","Chandler",1
-"C.H.E.E.S.E","Joey",1
-"C.H.E.E.S.E","Mac",1
-"C.H.E.E.S.E","Monica",1
-"C.H.E.E.S.E","Phoebe",1
-"C.H.E.E.S.E","Rachel",1
-"C.H.E.E.S.E","Ross",1
-"C.H.E.E.S.E.","Joey",2
-"C.H.E.E.S.E.","The Producer",1
-"C.H.E.E.S.E.","Wayne",1
-"Caitlin","Chandler",3
-"Caitlin","Grandma Tribbiani",1
-"Caitlin","Joey",2
-"Caitlin","Monica",2
-"Caitlin","Phoebe",2
-"Caitlin","Rachel",3
-"Caitlin","Ross",3
-"Carl","Rachel",1
-"Carl","Ross",1
-"Carol","Chandler",8
-"Carol","Dr. Franzblau",4
-"Carol","Dr. Oberman",1
-"Carol","Emily",2
-"Carol","Joey",9
-"Carol","Kristin",1
-"Carol","Marsha",1
-"Carol","Monica",9
-"Carol","Nurse",2
-"Carol","Phoebe",7
-"Carol","Rachel",10
-"Carol","Raymond",1
-"Carol","Robbie",1
-"Carol","Ross",29
-"Carol","Susan",17
-"Carol","The Casting Director",2
-"Casey","Chandler",1
-"Casey","Joey",1
-"Cashier","Rachel",1
-"Cashier","Ross",1
-"Casting Director #1","Joey",1
-"Casting Director #2","Joey",1
-"Casting Director #3","Joey",1
-"Celia","Ross",2
-"Chandler","Claudia",1
-"Chandler","Cookie",2
-"Chandler","Cop",1
-"Chandler","Cowgirl",1
-"Chandler","Customer",1
-"Chandler","Cynthia",1
-"Chandler","Dan",3
-"Chandler","Dana",2
-"Chandler","Danny",2
-"Chandler","David",2
-"Chandler","Delivery Room Nurse",1
-"Chandler","Dennis Phillips",2
-"Chandler","Dick Clark",1
-"Chandler","Don",2
-"Chandler","Doug",6
-"Chandler","Dr. Baldhara",1
-"Chandler","Dr. Franzblau",2
-"Chandler","Dr. Harad",4
-"Chandler","Drew",1
-"Chandler","Drunken Gambler",2
-"Chandler","Eldad",1
-"Chandler","Elizabeth",2
-"Chandler","Emeril",1
-"Chandler","Emily",10
-"Chandler","Eric",3
-"Chandler","Estelle",2
-"Chandler","Everyone",1
-"Chandler","Fat Girl",1
-"Chandler","Fat Monica",2
-"Chandler","Fireman #1",1
-"Chandler","Frank",7
-"Chandler","Frank Sr.",1
-"Chandler","Friend No. 1",2
-"Chandler","Friend No. 2",2
-"Chandler","Front Desk Clerk",2
-"Chandler","Fun Bobby",1
-"Chandler","Gary",14
-"Chandler","Gavin",1
-"Chandler","Gerston",1
-"Chandler","Gert",1
-"Chandler","Ginger",3
-"Chandler","Girl",1
-"Chandler","Girls",1
-"Chandler","Grandma Tribbiani",2
-"Chandler","Gunther",25
-"Chandler","Guru Saj",1
-"Chandler","Guy",2
-"Chandler","Guys",2
-"Chandler","Gym Employee",1
-"Chandler","Helena",3
-"Chandler","Her Friends",1
-"Chandler","Hooker",2
-"Chandler","Host",1
-"Chandler","Hotel Clerk",1
-"Chandler","Hums While He Pees",1
-"Chandler","Interviewer",1
-"Chandler","Jake",1
-"Chandler","Janice",23
-"Chandler","Janine",9
-"Chandler","Jay Leno",1
-"Chandler","Jill",8
-"Chandler","Joanna",2
-"Chandler","Joanne",1
-"Chandler","Joey",610
-"Chandler","Joey's Doctor",1
-"Chandler","Joeys Grandmother",1
-"Chandler","Joeys Sister",1
-"Chandler","Joeys Sisters",2
-"Chandler","Joshua",3
-"Chandler","Julie",3
-"Chandler","Kara",3
-"Chandler","Kathy",12
-"Chandler","Kathy's Co-Star",1
-"Chandler","Katie",1
-"Chandler","Ken",1
-"Chandler","Kid",1
-"Chandler","Kids",1
-"Chandler","Kim",1
-"Chandler","Kori",1
-"Chandler","Krista",1
-"Chandler","Kristen",1
-"Chandler","Leslie",1
-"Chandler","Lisa",1
-"Chandler","Little Girl",1
-"Chandler","Lorraine",2
-"Chandler","Lowell",1
-"Chandler","Lowell ",1
-"Chandler","Luisa",1
-"Chandler","Lydia",1
-"Chandler","Mac",1
-"Chandler","Maitre d'",1
-"Chandler","Male Jeweler",1
-"Chandler","Man",3
-"Chandler","Man At The Wedding",1
-"Chandler","Margha",2
-"Chandler","Mary-Angela",1
-"Chandler","Mary-Theresa",1
-"Chandler","Matire'd",1
-"Chandler","Matress King",1
-"Chandler","Max",3
-"Chandler","Melanie",1
-"Chandler","Mike",3
-"Chandler","Minister",1
-"Chandler","Molly",3
-"Chandler","Mona",5
-"Chandler","Monica",614
-"Chandler","Mr. Bing",2
-"Chandler","Mr. Franklin",2
-"Chandler","Mr. Geller",26
-"Chandler","Mr. Heckles",2
-"Chandler","Mr. Treeger",1
-"Chandler","Mr. Tribbiani",3
-"Chandler","Mr. Waltham",2
-"Chandler","Mrs. Bing",6
-"Chandler","Mrs. Geller",19
-"Chandler","Mrs. Geller ",1
-"Chandler","Mrs. Tedlock",1
-"Chandler","Mrs. Waltham",2
-"Chandler","Ms. Lambert",1
-"Chandler","Ms. McKenna",3
-"Chandler","Nurse",4
-"Chandler","Others",2
-"Chandler","Paolo",2
-"Chandler","Parker",3
-"Chandler","Patrick",1
-"Chandler","Paul",5
-"Chandler","Pete",4
-"Chandler","Pete's Mom",1
-"Chandler","Peter",1
-"Chandler","Petrie",1
-"Chandler","Phoebe",484
-"Chandler","Phoebe Sr.",1
-"Chandler","Photographer",2
-"Chandler","Rachel",459
-"Chandler","Rachel ",1
-"Chandler","Receptionist",2
-"Chandler","Richard",3
-"Chandler","Robert",4
-"Chandler","Roger",2
-"Chandler","Ronni",3
-"Chandler","Ross",496
-"Chandler","Sandy",1
-"Chandler","Santos",1
-"Chandler","Sarah",2
-"Chandler","Sebastian",1
-"Chandler","Second Girl",1
-"Chandler","Shelley",2
-"Chandler","Shelley ",1
-"Chandler","Singer",2
-"Chandler","Sister 1",1
-"Chandler","Sophie",1
-"Chandler","Stripper",1
-"Chandler","Susan",6
-"Chandler","Tag",8
-"Chandler","The Cigarette Guy",1
-"Chandler","The Croupier",1
-"Chandler","The Director",1
-"Chandler","The Doctor",2
-"Chandler","The Girls",2
-"Chandler","The Guys",2
-"Chandler","The Interviewer",1
-"Chandler","The Man",1
-"Chandler","The Museum Official",2
-"Chandler","The Paramedic",1
-"Chandler","The Photographer",1
-"Chandler","The Potential Roommate",1
-"Chandler","The Rabbi",1
-"Chandler","The Stripper",2
-"Chandler","The Vampire",1
-"Chandler","The Woman",1
-"Chandler","Ticket Agent",1
-"Chandler","Ticket Counter Attendant",2
-"Chandler","Tim",1
-"Chandler","Tom",1
-"Chandler","Tony",1
-"Chandler","Uncle Dan",1
-"Chandler","Ursula",2
-"Chandler","Vince",1
-"Chandler","Voice",1
-"Chandler","Waiter in Drag",1
-"Chandler","Waitress",1
-"Chandler","Wayne",1
-"Chandler","Wendy",4
-"Chandler","Will",2
-"Chandler","Woman",11
-"Chandler","Woman At The Wedding",1
-"Chandler","Woman No. 1",1
-"Chandler","Woman No. 2",1
-"Charlton Heston","Joey",1
-"Chip","Monica",4
-"Chip","Rachel",2
-"Chip","Ross",1
-"Chloe","Rachel",1
-"Chloe","Ross",1
-"Claudia","Ken",1
-"Claudia","Others",1
-"Claudia","Wendy",1
-"Clerk","Monica",1
-"Clerk","Richard",1
-"Coma Guy","Monica",1
-"Coma Guy","Phoebe",1
-"Cookie","Gunther",1
-"Cookie","Joey",2
-"Cookie","Joeys Grandmother",1
-"Cookie","Joeys Sister",1
-"Cookie","Joeys Sisters",1
-"Cookie","Mary-Angela",1
-"Cookie","Mary-Theresa",1
-"Cookie","Monica",1
-"Cookie","Phoebe",1
-"Cookie","Rachel",1
-"Cookie","Ross",1
-"Cookie","Sister 1",1
-"Cop","Gary",1
-"Cop","Guy",1
-"Cop","Joey",1
-"Cop","Monica",1
-"Cop","Phoebe",2
-"Cop","Rachel",1
-"Cowgirl","Eric",1
-"Cowgirl","Girl",1
-"Cowgirl","Joey",1
-"Cowgirl","Kids",1
-"Cowgirl","Mona",1
-"Cowgirl","Monica",1
-"Cowgirl","Phoebe",1
-"Cowgirl","Rachel",1
-"Cowgirl","Ross",1
-"Cowgirl","Ursula",1
-"Customer","Gunther",1
-"Customer","Hombre Man",1
-"Customer","Joey",2
-"Customer","Monica",1
-"Customer","Phoebe",1
-"Customer","Rachel",1
-"Customer","Ross",1
-"Customer","Store Guy",1
-"Customer","Woman",1
-"Cynthia","Joey",1
-"Cynthia","Rachel",1
-"Dan","Delivery Room Nurse",1
-"Dan","Dr. Harad",2
-"Dan","Frank",2
-"Dan","Joey",1
-"Dan","Joey's Doctor",1
-"Dan","Monica",3
-"Dan","Nurse",1
-"Dan","Phoebe",2
-"Dan","Rachel",2
-"Dan","Ross",1
-"Danny","Joey",3
-"Danny","Krista",3
-"Danny","Monica",7
-"Danny","Phoebe",2
-"Danny","Rachel",10
-"Danny","Tom",1
-"Dave","Joey",1
-"Dave","Monica",1
-"Dave","Rachel",1
-"Dave","Ross",1
-"David","Dick Clark",1
-"David","Fun Bobby",1
-"David","Janice",1
-"David","Joey",3
-"David","Max",3
-"David","Monica",3
-"David","Phoebe",7
-"David","Rachel",2
-"David","Ross",2
-"David","Sandy",1
-"Delivery Room Nurse","Dr. Harad",1
-"Delivery Room Nurse","Frank",1
-"Delivery Room Nurse","Joey",1
-"Delivery Room Nurse","Monica",1
-"Delivery Room Nurse","Nurse",1
-"Delivery Room Nurse","Phoebe",1
-"Delivery Room Nurse","Rachel",1
-"Delivery Room Nurse","Ross",1
-"Dennis Phillips","Fat Girl",1
-"Dennis Phillips","Gert",1
-"Dennis Phillips","Joey",2
-"Dennis Phillips","Little Girl",1
-"Dennis Phillips","Mona",2
-"Dennis Phillips","Monica",2
-"Dennis Phillips","Mr. Geller",1
-"Dennis Phillips","Mrs. Bing",1
-"Dennis Phillips","Phoebe",2
-"Dennis Phillips","Rachel",2
-"Dennis Phillips","Ross",2
-"Dennis Phillips","Second Girl",1
-"Devon","Emily",1
-"Devon","Liam",1
-"Devon","Ross",1
-"Dick Clark","Fun Bobby",1
-"Dick Clark","Janice",1
-"Dick Clark","Joey",1
-"Dick Clark","Max",1
-"Dick Clark","Monica",1
-"Dick Clark","Phoebe",1
-"Dick Clark","Rachel",1
-"Dick Clark","Ross",1
-"Dick Clark","Sandy",1
-"Dina","Joey",4
-"Dina","Rachel",4
-"Director","Dr. Drake Ramoray",1
-"Director","Janine",1
-"Director","Joey",9
-"Director","Joey's Co-Star",1
-"Director","Kash",1
-"Director","Monica",3
-"Director","Rachel",1
-"Director","Ross",4
-"Doctor","Dr. Timothy Burke",1
-"Doctor","Joey",1
-"Doctor","Monica",1
-"Doctor","Nurse",1
-"Doctor","Rachel",2
-"Doctor","Ross",1
-"Don","Monica",2
-"Don","Phoebe",2
-"Doug","Kara",3
-"Doug","Monica",4
-"Dr Green","Dr. Green",1
-"Dr Green","Rachel",1
-"Dr Green","Ross",1
-"Dr. Baldhara","Joey",1
-"Dr. Baldhara","Ross",1
-"Dr. Drake Ramoray","Joey",1
-"Dr. Drake Ramoray","Joey's Co-Star",1
-"Dr. Drake Ramoray","Kash",1
-"Dr. Drake Ramoray","Rachel",1
-"Dr. Franzblau","Joey",1
-"Dr. Franzblau","Monica",1
-"Dr. Franzblau","Nurse",2
-"Dr. Franzblau","Phoebe",1
-"Dr. Franzblau","Rachel",4
-"Dr. Franzblau","Ross",2
-"Dr. Franzblau","Susan",2
-"Dr. Green","Joey",2
-"Dr. Green","Mona",3
-"Dr. Green","Phoebe",3
-"Dr. Green","Rachel",6
-"Dr. Green","Ross",6
-"Dr. Green","Waiter",1
-"Dr. Harad","Frank",4
-"Dr. Harad","Joey",3
-"Dr. Harad","Joey's Doctor",1
-"Dr. Harad","Monica",3
-"Dr. Harad","Nurse",1
-"Dr. Harad","Phoebe",5
-"Dr. Harad","Rachel",4
-"Dr. Harad","Ross",3
-"Dr. Johnson","Dr. Rhodes",1
-"Dr. Johnson","Ross",1
-"Dr. Ledbetter","Ross",1
-"Dr. Leedbetter","Joey",1
-"Dr. Leedbetter","Monica",1
-"Dr. Leedbetter","Phoebe",1
-"Dr. Leedbetter","Rachel",1
-"Dr. Leedbetter","Ross",2
-"Dr. Long","Joey",1
-"Dr. Long","Nurse",1
-"Dr. Long","Rachel",3
-"Dr. Long","Ross",3
-"Dr. Miller","Monica",1
-"Dr. Miller","Rachel",1
-"Dr. Oberman","Frank",1
-"Dr. Oberman","Phoebe",1
-"Dr. Oberman","Ross",2
-"Dr. Oberman","Susan",1
-"Dr. Rhodes","Ross",2
-"Dr. Schiff","Nurse",1
-"Dr. Schiff","Rachel",1
-"Dr. Stryker Remoray","Joey",1
-"Dr. Stryker Remoray","Nurse #1",1
-"Dr. Stryker Remoray","Nurse #2",1
-"Dr. Stryker Remoray","Terry",1
-"Dr. Timothy Burke","Monica",1
-"Dr. Timothy Burke","Nurse",1
-"Dr. Timothy Burke","Rachel",1
-"Dr. Zane","Frank",1
-"Dr. Zane","Phoebe",2
-"Drew","Mike",1
-"Drunken Gambler","Monica",2
-"Drunken Gambler","The Croupier",1
-"Earl","Marge",1
-"Earl","Phoebe",4
-"Earl","Supervisor",1
-"Earl","The ""Hey Guy"" Guy",1
-"Eldad","Monica",1
-"Eldad","Patrick",1
-"Eldad","Phoebe",1
-"Eldad","Rachel",1
-"Elizabeth","First Dorm Guy",1
-"Elizabeth","Joey",1
-"Elizabeth","Lydia",1
-"Elizabeth","Mel",1
-"Elizabeth","Monica",2
-"Elizabeth","Paul",7
-"Elizabeth","Phoebe",2
-"Elizabeth","Rachel",8
-"Elizabeth","Ross",18
-"Elizabeth","Sarah",1
-"Elizabeth","Second Dorm Guy",1
-"Elizabeth","Zoe",1
-"Emeril","Monica",1
-"Emily","Gunther",1
-"Emily","Joey",12
-"Emily","Joshua",2
-"Emily","Liam",2
-"Emily","Minister",1
-"Emily","Monica",11
-"Emily","Mr. Geller",1
-"Emily","Mr. Waltham",1
-"Emily","Mrs. Geller",2
-"Emily","Mrs. Waltham",1
-"Emily","Phoebe",12
-"Emily","Rachel",11
-"Emily","Ross",20
-"Emily","Susan",2
-"Employee","Monica",1
-"Employee","Pete",1
-"Employee","Secretary",1
-"Eric","Girl",1
-"Eric","Joey",2
-"Eric","Kids",1
-"Eric","Mona",2
-"Eric","Monica",3
-"Eric","Mr. Heckles",1
-"Eric","Phoebe",7
-"Eric","Rachel",3
-"Eric","Ross",4
-"Eric","Ursula",2
-"Erin","Joey",1
-"Erin","Man",1
-"Erin","Ray",1
-"Estelle","Joey",3
-"Estelle","Monica",2
-"Estelle","Phoebe",2
-"Estelle","Rachel",1
-"Everyone","Joey",1
-"Everyone","Monica",1
-"Everyone","Phoebe",1
-"Everyone","Rachel",1
-"Fake Monica","Monica",3
-"Fake Monica","Phoebe",1
-"Fake Monica","Rachel",2
-"Fake Monica","Teacher",1
-"Fake Monica","Woman",1
-"Fat Girl","Gert",1
-"Fat Girl","Joey",1
-"Fat Girl","Little Girl",1
-"Fat Girl","Mona",1
-"Fat Girl","Monica",1
-"Fat Girl","Mr. Geller",1
-"Fat Girl","Phoebe",1
-"Fat Girl","Rachel",1
-"Fat Girl","Ross",1
-"Fat Girl","Second Girl",1
-"Fat Monica","Joey",1
-"Fat Monica","Monica",2
-"Fat Monica","Mr. Geller",1
-"Fat Monica","Mrs. Geller",1
-"Fat Monica","Phoebe",1
-"Fat Monica","Rachel",1
-"Fat Monica","Ross",2
-"Female Clerk","Joey",1
-"Female Jeweler","Male Jeweler",1
-"Female Jeweler","Phoebe",1
-"Fireman","Phoebe",1
-"Fireman","Vince",1
-"Fireman #1","Joey",1
-"Fireman #1","Monica",1
-"Fireman #1","Phoebe",1
-"Fireman #1","Rachel",1
-"Fireman #2","Phoebe",1
-"Fireman #2","Rachel",1
-"Fireman No. 1","Fireman No. 2",2
-"Fireman No. 1","Fireman No. 3",2
-"Fireman No. 1","Monica",1
-"Fireman No. 1","Rachel",1
-"Fireman No. 2","Fireman No. 3",2
-"Fireman No. 2","Monica",1
-"Fireman No. 2","Rachel",1
-"Fireman No. 3","Monica",2
-"Fireman No. 3","Phoebe",1
-"Fireman No. 3","Rachel",2
-"First Dorm Guy","Ross",1
-"First Dorm Guy","Sarah",1
-"First Dorm Guy","Second Dorm Guy",1
-"First Dorm Guy","Zoe",1
-"Flight Attendant","Man",1
-"Flight Attendant","Rachel",3
-"Flight Attendant","Ross",3
-"Frank","Girl",1
-"Frank","Jasmine",1
-"Frank","Joey",7
-"Frank","Joey's Doctor",1
-"Frank","Monica",7
-"Frank","Nurse",1
-"Frank","Phoebe",17
-"Frank","Phoebe Sr",1
-"Frank","Rachel",8
-"Frank","Ross",8
-"Frank Sr.","Joey",1
-"Frank Sr.","Monica",1
-"Frank Sr.","Phoebe",2
-"Frank Sr.","Rachel",1
-"Frank Sr.","Ross",1
-"Frannie","Monica",2
-"Frannie","Ross",1
-"Friend No. 1","Friend No. 2",2
-"Friend No. 1","Her Friends",1
-"Friend No. 1","Monica",1
-"Friend No. 1","Rachel",2
-"Friend No. 1","Waitress",1
-"Friend No. 2","Her Friends",1
-"Friend No. 2","Monica",1
-"Friend No. 2","Rachel",2
-"Friend No. 2","Waitress",1
-"Front Desk Clerk","Joey",1
-"Front Desk Clerk","Man",1
-"Front Desk Clerk","Monica",2
-"Front Desk Clerk","Phoebe",1
-"Front Desk Clerk","Rachel",1
-"Front Desk Clerk","Woman",1
-"Fun Bobby","Janice",1
-"Fun Bobby","Joey",1
-"Fun Bobby","Max",1
-"Fun Bobby","Monica",1
-"Fun Bobby","Phoebe",1
-"Fun Bobby","Rachel",1
-"Fun Bobby","Ross",1
-"Fun Bobby","Sandy",1
-"Gary","Joey",7
-"Gary","Monica",8
-"Gary","Phoebe",11
-"Gary","Rachel",2
-"Gary","Ross",6
-"Gary Collins","Joey",2
-"Gary Collins","PBS Volunteer",1
-"Gary Collins","Phoebe",2
-"Gary Collins","Stage Director",1
-"Gavin","Heather",1
-"Gavin","Monica",2
-"Gavin","Phoebe",1
-"Gavin","Rachel",3
-"Gerston","Petrie",1
-"Gerston","Phoebe",1
-"Gerston","Santos",1
-"Gert","Joey",1
-"Gert","Little Girl",1
-"Gert","Mona",1
-"Gert","Monica",1
-"Gert","Mr. Geller",1
-"Gert","Phoebe",1
-"Gert","Rachel",1
-"Gert","Ross",1
-"Gert","Second Girl",1
-"Ginger","Gunther",1
-"Ginger","Joey",1
-"Ginger","Phoebe",1
-"Ginger","Woman",1
-"Girl","Jasmine",1
-"Girl","Joey",1
-"Girl","Kids",1
-"Girl","Leader",1
-"Girl","Mona",1
-"Girl","Monica",1
-"Girl","Phoebe",2
-"Girl","Rachel",1
-"Girl","Ross",2
-"Girl","Ursula",1
-"Girls","Guys",1
-"Girls","Joey",1
-"Girls","Monica",1
-"Girls","Phoebe",1
-"Girls","Rachel",1
-"Girls","Ross",1
-"Grandma Tribbiani","Joey",2
-"Grandma Tribbiani","Monica",1
-"Grandma Tribbiani","Phoebe",2
-"Grandma Tribbiani","Rachel",2
-"Grandma Tribbiani","Ross",2
-"Guest #1","Phoebe",1
-"Guest #1","Ross",1
-"Guest #1","Steve",1
-"Guest #2","Guest #3",1
-"Guest #2","Phoebe",1
-"Guest #2","Ross",1
-"Guest #2","Steve",1
-"Guest #3","Phoebe",1
-"Guest #3","Ross",1
-"Guest #3","Steve",1
-"Gunther","Janice",2
-"Gunther","Jill",1
-"Gunther","Joey",31
-"Gunther","Joeys Sisters",1
-"Gunther","Joshua",1
-"Gunther","Kathy",1
-"Gunther","Kid",1
-"Gunther","Larry",1
-"Gunther","Mark",1
-"Gunther","Melissa",1
-"Gunther","Monica",18
-"Gunther","Mr. Geller",1
-"Gunther","Mrs. Geller",1
-"Gunther","Patron",1
-"Gunther","Phoebe",20
-"Gunther","Rachel",24
-"Gunther","Robert",1
-"Gunther","Ross",29
-"Gunther","Sister 1",1
-"Gunther","The Fan",1
-"Gunther","The Stripper",1
-"Gunther","Woman",2
-"Guru Saj","Joey",1
-"Guru Saj","Ross",1
-"Guy","Helena",1
-"Guy","Jim",1
-"Guy","Joey",5
-"Guy","Lydia",1
-"Guy","Monica",6
-"Guy","Phoebe",8
-"Guy","Rachel",3
-"Guy","Ross",2
-"Guy #1","Joey",1
-"Guy #1","Woman",1
-"Guy #2","Joey",1
-"Guy #2","The Porsche Owner",1
-"Guys","Joey",2
-"Guys","Monica",2
-"Guys","Phoebe",2
-"Guys","Rachel",2
-"Guys","Ross",2
-"Gym Employee","Ross",1
-"Gym Employee","Woman",1
-"Heather","Rachel",1
-"Helena","Monica",3
-"Helena","Waiter in Drag",1
-"Her Friends","Rachel",1
-"Hilda","Rachel",1
-"Hilda","Tag",1
-"Hombre Man","Joey",3
-"Hombre Man","Store Guy",1
-"Hooker","Joey",2
-"Hooker","Monica",1
-"Host","Joey",1
-"Host","Mike",1
-"Host","Phoebe",1
-"Host","Rachel",1
-"Host","Ross",1
-"Hotel Clerk","Monica",1
-"Hums While He Pees","Monica",1
-"Hums While He Pees","Phoebe",1
-"Hums While He Pees","Ross",1
-"Hypnosis Tape","Joey",1
-"Intercom","Monica",1
-"Intercom","Rachel",1
-"Interviewer","Monica",1
-"Interviewer","Phoebe",1
-"Isabella","Monica",1
-"Isabella","Rachel",1
-"Isabella","Ross",1
-"Jake","Joey",1
-"Jake","Man",1
-"Jake","Monica",1
-"Jake","Phoebe",2
-"Janice","Jester",1
-"Janice","Joey",17
-"Janice","Lorraine",2
-"Janice","Matress King",1
-"Janice","Max",1
-"Janice","Monica",7
-"Janice","Phoebe",12
-"Janice","Rachel",8
-"Janice","Ross",7
-"Janice","Sandy",1
-"Janice","Ticket Counter Attendant",2
-"Janine","Joey",11
-"Janine","Monica",8
-"Janine","Phoebe",2
-"Janine","Rachel",4
-"Janine","Ross",6
-"Janitor","Phoebe",1
-"Janitor","Ross",1
-"Janitor","Susan",1
-"Jasmine","Phoebe",1
-"Jason","Phoebe",3
-"Jason","Vince",1
-"Jay Leno","Joey",1
-"Jay Leno","Monica",1
-"Jay Leno","Mrs. Bing",1
-"Jay Leno","Paolo",1
-"Jay Leno","Phoebe",1
-"Jay Leno","Rachel",1
-"Jay Leno","Ross",1
-"Jeannine","Julio",1
-"Jeannine","Monica",1
-"Jen","Joey",1
-"Jen","Ross",2
-"Jen","The Hot Girl",1
-"Jen","The Man",1
-"Jessica Ashley","Joey",1
-"Jessica Ashley","Rachel",1
-"Jester","Joey",1
-"Jester","Monica",1
-"Jill","Joey",3
-"Jill","Monica",3
-"Jill","Phoebe",2
-"Jill","Rachel",8
-"Jill","Ross",6
-"Jill","Woman",2
-"Jim","Phoebe",2
-"Joanna","Mr. Posner",1
-"Joanna","Mrs. Lynch",1
-"Joanna","Rachel",7
-"Joanna","Sophie",4
-"Joanne","Joey",1
-"Joanne","Kiki",1
-"Joanne","Monica",1
-"Joanne","Phoebe",1
-"Joanne","Rachel",2
-"Joanne","Ross",1
-"Joey","Joey's Co-Star",1
-"Joey","Joey's Date",1
-"Joey","Joey's Doctor",3
-"Joey","Joey's Hand Twin",2
-"Joey","Joeys Grandmother",1
-"Joey","Joeys Sister",1
-"Joey","Joeys Sisters",2
-"Joey","Joshua",3
-"Joey","Julie",2
-"Joey","Kash",2
-"Joey","Kate",6
-"Joey","Kathy",5
-"Joey","Katie",3
-"Joey","Kid",1
-"Joey","Kids",1
-"Joey","Kitchen Worker",1
-"Joey","Krista",1
-"Joey","Kristen",2
-"Joey","Lauren",3
-"Joey","Leslie",1
-"Joey","Liam",1
-"Joey","Little Girl",1
-"Joey","Lorraine",2
-"Joey","Luisa",1
-"Joey","Lydia",3
-"Joey","Mac",1
-"Joey","Man",4
-"Joey","Margha",2
-"Joey","Mary-Angela",1
-"Joey","Mary-Theresa",1
-"Joey","Matress King",1
-"Joey","Max",3
-"Joey","Melanie",2
-"Joey","Melissa",1
-"Joey","Mike",2
-"Joey","Mindy",1
-"Joey","Minister",1
-"Joey","Molly",4
-"Joey","Mona",8
-"Joey","Monica",490
-"Joey","Mr. Bing",1
-"Joey","Mr. Bowmont",1
-"Joey","Mr. Geller",16
-"Joey","Mr. Heckles",2
-"Joey","Mr. Thompson",3
-"Joey","Mr. Treeger",6
-"Joey","Mr. Tribbiani",5
-"Joey","Mr. Waltham",1
-"Joey","Mr. Zelner",1
-"Joey","Mrs. Bing",5
-"Joey","Mrs. Geller",15
-"Joey","Mrs. Geller ",1
-"Joey","Mrs. Tribbiani",1
-"Joey","Mrs. Waltham",1
-"Joey","Nurse",6
-"Joey","Nurse #1",1
-"Joey","Nurse #2",1
-"Joey","Older Scientist",1
-"Joey","Others",1
-"Joey","Paolo",2
-"Joey","Parker",3
-"Joey","Passerby",1
-"Joey","Patron",1
-"Joey","Paul",4
-"Joey","PBS Volunteer",1
-"Joey","Pete",4
-"Joey","Pete's Mom",1
-"Joey","Peter",1
-"Joey","Phoebe",470
-"Joey","Phoebe Sr.",1
-"Joey","Photographer",1
-"Joey","Rachel",488
-"Joey","Rachel ",1
-"Joey","Ray",1
-"Joey","Raymond",1
-"Joey","Receptionist",2
-"Joey","Richard",6
-"Joey","Robert",2
-"Joey","Roger",2
-"Joey","Ronni",3
-"Joey","Ross",496
-"Joey","Sandy",1
-"Joey","Sarah",1
-"Joey","Second Girl",1
-"Joey","Singer",2
-"Joey","Sister 1",1
-"Joey","Smart Kid",1
-"Joey","Stage Director",2
-"Joey","Stanley",1
-"Joey","Store Guy",1
-"Joey","Stripper",1
-"Joey","Student",2
-"Joey","Susan",4
-"Joey","Tag",9
-"Joey","Terry",2
-"Joey","The A.D",1
-"Joey","The Acting Teacher",1
-"Joey","The Assistant Director",2
-"Joey","The Casting Director",3
-"Joey","The Cooking Teacher",3
-"Joey","The Director",11
-"Joey","The Doctor",1
-"Joey","The Dry Cleaner",3
-"Joey","The Fan",1
-"Joey","The Food Critic",1
-"Joey","The Girls",2
-"Joey","The Grip",1
-"Joey","The Guys",2
-"Joey","The Little Girl",1
-"Joey","The Man",1
-"Joey","The Man In The Sportscar",1
-"Joey","The Old Man",1
-"Joey","The Porsche Owner",1
-"Joey","The Potential Roommate",2
-"Joey","The Presenter",1
-"Joey","The Producer",1
-"Joey","The Rabbi",1
-"Joey","The Security Guard",1
-"Joey","The Singing Man",2
-"Joey","The Stripper",2
-"Joey","The Vampire",1
-"Joey","The Waiter",3
-"Joey","The Woman",1
-"Joey","Tim",1
-"Joey","Tony",1
-"Joey","Tour Guide",2
-"Joey","Uncle Dan",1
-"Joey","Ursula",2
-"Joey","Vince",1
-"Joey","Voice",1
-"Joey","Waiter",1
-"Joey","Waitress",2
-"Joey","Wayne",3
-"Joey","Wendy",1
-"Joey","Will",2
-"Joey","Woman",13
-"Joey","Woman No. 1",1
-"Joey","Woman No. 2",1
-"Joey","Young Ethan",1
-"Joey's Co-Star","Kash",1
-"Joey's Co-Star","Rachel",1
-"Joey's Doctor","Monica",2
-"Joey's Doctor","Phoebe",1
-"Joey's Doctor","Rachel",1
-"Joey's Doctor","Ross",2
-"Joey's Hand Twin","Phoebe",1
-"Joey's Hand Twin","The Security Guard",1
-"Joeys Grandmother","Joeys Sister",1
-"Joeys Grandmother","Mary-Angela",1
-"Joeys Grandmother","Mary-Theresa",1
-"Joeys Sister","Mary-Angela",1
-"Joeys Sister","Mary-Theresa",1
-"Joeys Sisters","Monica",1
-"Joeys Sisters","Phoebe",1
-"Joeys Sisters","Rachel",1
-"Joeys Sisters","Ross",1
-"Joeys Sisters","Sister 1",1
-"Josh","Monica",2
-"Josh","Phoebe",2
-"Josh","Rachel",2
-"Josh","Ross",1
-"Joshua","Monica",2
-"Joshua","Mr. Burgin",2
-"Joshua","Mr. Waltham",3
-"Joshua","Mrs. Burgin",2
-"Joshua","Phoebe",2
-"Joshua","Rachel",10
-"Joshua","Ross",3
-"Judge","Rachel",1
-"Judge","Ross",1
-"Julie","Man",1
-"Julie","Monica",3
-"Julie","Phoebe",4
-"Julie","Rachel",6
-"Julie","Ross",4
-"Julio","Man",1
-"Julio","Monica",2
-"Julio","Quartet",1
-"Kara","Monica",3
-"Karin","Meg",1
-"Karin","Phoebe",1
-"Karin","Ross",1
-"Karin","Stephanie",1
-"Kash","Rachel",2
-"Kash","Ross",1
-"Kate","Lauren",3
-"Kate","The Director",5
-"Kate","Woman",1
-"Kathy","Kathy's Co-Star",1
-"Kathy","Monica",5
-"Kathy","Phoebe",4
-"Kathy","Rachel",5
-"Kathy","Ross",6
-"Kathy","Tag",1
-"Kathy's Co-Star","Ross",1
-"Katie","Monica",1
-"Katie","Phoebe",1
-"Katie","Rachel",4
-"Katie","Ross",3
-"Ken","Others",1
-"Ken","Wendy",1
-"Kid","Monica",1
-"Kid","Rachel",1
-"Kids","Mona",1
-"Kids","Monica",1
-"Kids","Phoebe",1
-"Kids","Rachel",1
-"Kids","Ross",1
-"Kids","Ursula",1
-"Kiki","Rachel",1
-"Kim","Nancy",4
-"Kim","Rachel",4
-"Kitchen Worker","Monica",1
-"Kitchen Worker","The Waiter",1
-"Kori","Monica",1
-"Kori","Ross",1
-"Kori","Tom",1
-"Krista","Monica",1
-"Krista","Rachel",3
-"Kristen","Ross",3
-"Kristin","Ross",2
-"Kristin","Susan",1
-"Kyle","Phoebe",1
-"Kyle","Ross",1
-"Kyle","Whitney",1
-"Larry","Monica",1
-"Larry","Phoebe",3
-"Lauren","The Director",2
-"Lauren","Woman",1
-"Leader","Ross",1
-"Lecturer","Rachel",1
-"Lecturer","Ross",1
-"Leslie","Monica",1
-"Leslie","Phoebe",4
-"Leslie","Singer",1
-"Lewis","Morse",1
-"Lewis","Ross",2
-"Liam","Phoebe",1
-"Liam","Ross",2
-"Lisa","Monica",1
-"Lisa","Richard",1
-"Little Girl","Mona",1
-"Little Girl","Monica",1
-"Little Girl","Mr. Geller",1
-"Little Girl","Phoebe",1
-"Little Girl","Rachel",1
-"Little Girl","Ross",1
-"Little Girl","Second Girl",1
-"Lizzie","Phoebe",2
-"Lowell","Lowell ",1
-"Luisa","Monica",1
-"Luisa","Mr. Heckles",1
-"Luisa","Phoebe",1
-"Luisa","Rachel",1
-"Luisa","Ross",1
-"Luisa","Woman No. 1",1
-"Luisa","Woman No. 2",1
-"Lydia","Mel",1
-"Lydia","Monica",1
-"Lydia","Nurse",1
-"Lydia","Ross",1
-"Mac","Monica",1
-"Mac","Phoebe",1
-"Mac","Rachel",1
-"Mac","Ross",1
-"Maitre d'","Monica",1
-"Malcom","Phoebe",2
-"Male Jeweler","Phoebe",2
-"Man","Mark",1
-"Man","Monica",3
-"Man","Mr. Geller",2
-"Man","Mrs. Geller",2
-"Man","Parker",2
-"Man","Phoebe",3
-"Man","Quartet",2
-"Man","Rachel",5
-"Man","Ray",1
-"Man","Ross",5
-"Man","The Bass Barber",1
-"Man","Uncle Dan",1
-"Man","Woman",3
-"Man At The Wedding","Ross",1
-"Man At The Wedding","Woman At The Wedding",1
-"Manny","Mike",1
-"Manny","Monica",1
-"Manny","Phoebe",1
-"Manny","Strange man",1
-"Marge","Phoebe",1
-"Margha","Monica",2
-"Margha","Phoebe",2
-"Margha","Rachel",2
-"Margha","Ross",2
-"Margha","The Guys",1
-"Margha","Woman",1
-"Mark","Quartet",1
-"Mark","Rachel",7
-"Mark","Ross",5
-"Mark","The Bass Barber",1
-"Mark","Woman",1
-"Marsha","Ross",1
-"Mary-Angela","Mary-Theresa",1
-"Matire'd","Monica",1
-"Matire'd","Richard",1
-"Matress King","Monica",1
-"Matress King","Phoebe",1
-"Matress King","Ross",1
-"Max","Monica",3
-"Max","Phoebe",4
-"Max","Rachel",3
-"Max","Ross",3
-"Max","Sandy",1
-"Meg","Phoebe",1
-"Meg","Ross",1
-"Meg","Stephanie",1
-"Megan","Monica",2
-"Megan","Phoebe",2
-"Megan","Rachel",2
-"Mel","Ross",1
-"Melanie","Monica",1
-"Melanie","Phoebe",1
-"Melanie","Rachel",1
-"Melanie","Ross",1
-"Melissa","Monica",1
-"Melissa","Phoebe",3
-"Melissa","Rachel",5
-"Melissa","Ross",1
-"Melissa","Tag",1
-"Mike","Molly",1
-"Mike","Monica",3
-"Mike","Phoebe",7
-"Mike","Rachel",2
-"Mike","Ross",2
-"Mike","Strange man",1
-"Mindy","Rachel",2
-"Minister","Mrs. Geller",1
-"Minister","Rachel",1
-"Minister","Ross",1
-"Molly","Monica",2
-"Molly","Phoebe",1
-"Molly","Rachel",3
-"Molly","Ross",4
-"Molly","Woman",1
-"Mona","Mona's Date",1
-"Mona","Monica",5
-"Mona","Mr. Geller",1
-"Mona","Mrs. Bing",1
-"Mona","Phoebe",5
-"Mona","Rachel",5
-"Mona","Ross",18
-"Mona","Second Girl",1
-"Mona","Ursula",2
-"Mona's Date","Ross",1
-"Monica","Mr. Bing",3
-"Monica","Mr. Geller",30
-"Monica","Mr. Heckles",3
-"Monica","Mr. Treeger",2
-"Monica","Mr. Tribbiani",3
-"Monica","Mr. Waltham",2
-"Monica","Mrs. Bing",6
-"Monica","Mrs. Chatracus",1
-"Monica","Mrs. Geller",22
-"Monica","Mrs. Geller ",1
-"Monica","Mrs. Green",5
-"Monica","Mrs. Waltham",2
-"Monica","Nurse",5
-"Monica","Others",1
-"Monica","Paolo",2
-"Monica","Parker",3
-"Monica","Patrick",1
-"Monica","Paul",6
-"Monica","Paula",2
-"Monica","Pete",12
-"Monica","Pete's Mom",1
-"Monica","Phoebe",549
-"Monica","Phoebe Sr",1
-"Monica","Photographer",1
-"Monica","Rachel",540
-"Monica","Rachel ",1
-"Monica","Richard",13
-"Monica","Richards Date",1
-"Monica","Roger",2
-"Monica","Ronni",1
-"Monica","Ross",432
-"Monica","Sandy",1
-"Monica","Sebastian",1
-"Monica","Second Girl",1
-"Monica","Secretary",1
-"Monica","Singer",2
-"Monica","Sister 1",1
-"Monica","Spokeswoman",1
-"Monica","Steve",1
-"Monica","Strange man",1
-"Monica","Stu",1
-"Monica","Susan",7
-"Monica","Tag",7
-"Monica","Teacher",2
-"Monica","The Acting Teacher",1
-"Monica","The Cigarette Guy",1
-"Monica","The Cooking Teacher",3
-"Monica","The Croupier",2
-"Monica","The Doctor",1
-"Monica","The Food Critic",1
-"Monica","The Girls",2
-"Monica","The Guys",3
-"Monica","The Man",2
-"Monica","The Museum Official",2
-"Monica","The Paramedic",1
-"Monica","The Photographer",1
-"Monica","The Professor",1
-"Monica","The Rabbi",1
-"Monica","The Singing Man",1
-"Monica","The Teacher",1
-"Monica","The Vampire",1
-"Monica","The Waiter",2
-"Monica","The Woman",1
-"Monica","Ticket Agent",1
-"Monica","Tim",4
-"Monica","Tom",2
-"Monica","Uncle Dan",1
-"Monica","Ursula",2
-"Monica","Vince",1
-"Monica","Waiter in Drag",1
-"Monica","Waitress",2
-"Monica","Wendy",1
-"Monica","Will",2
-"Monica","Woman",11
-"Monica","Woman No. 1",1
-"Monica","Woman No. 2",1
-"Monica","Young Ethan",3
-"Morse","Ross",2
-"Mr. Bing","Mr. Geller",3
-"Mr. Bing","Mrs. Bing",3
-"Mr. Bing","Mrs. Geller",3
-"Mr. Bing","Phoebe",3
-"Mr. Bing","Rachel",2
-"Mr. Bing","Ross",3
-"Mr. Bing","The Rabbi",1
-"Mr. Bing","Woman",1
-"Mr. Bowmont","Phoebe",1
-"Mr. Bowmont","Rachel",1
-"Mr. Burgin","Mrs. Burgin",2
-"Mr. Burgin","Rachel",2
-"Mr. Franklin","Ross",1
-"Mr. Geller","Mr. Waltham",1
-"Mr. Geller","Mrs. Bing",3
-"Mr. Geller","Mrs. Geller",20
-"Mr. Geller","Mrs. Geller ",1
-"Mr. Geller","Mrs. Waltham",1
-"Mr. Geller","Nurse",1
-"Mr. Geller","Parker",2
-"Mr. Geller","Phoebe",18
-"Mr. Geller","Rachel",16
-"Mr. Geller","Rachel ",1
-"Mr. Geller","Ross",27
-"Mr. Geller","Second Girl",1
-"Mr. Geller","Tag",1
-"Mr. Geller","The Doctor",1
-"Mr. Geller","The Paramedic",1
-"Mr. Geller","The Rabbi",1
-"Mr. Geller","Uncle Dan",1
-"Mr. Geller","Woman",3
-"Mr. Heckles","Phoebe",4
-"Mr. Heckles","Rachel",3
-"Mr. Heckles","Ross",3
-"Mr. Heckles","Woman No. 1",1
-"Mr. Heckles","Woman No. 2",1
-"Mr. Kaplan","Rachel",1
-"Mr. Posner","Mrs. Lynch",1
-"Mr. Posner","Rachel",1
-"Mr. Simon","Mrs. Potter",1
-"Mr. Simon","Phoebe",1
-"Mr. Simon","Rick",1
-"Mr. Thompson","Phoebe",3
-"Mr. Thompson","Rachel",3
-"Mr. Treeger","Phoebe",3
-"Mr. Treeger","Rachel",2
-"Mr. Treeger","Ross",2
-"Mr. Tribbiani","Phoebe",2
-"Mr. Tribbiani","Rachel",2
-"Mr. Tribbiani","Roger",1
-"Mr. Tribbiani","Ronni",2
-"Mr. Tribbiani","Ross",1
-"Mr. Waltham","Mrs. Geller",1
-"Mr. Waltham","Mrs. Waltham",2
-"Mr. Waltham","Phoebe",1
-"Mr. Waltham","Rachel",6
-"Mr. Waltham","Ross",2
-"Mr. Zelner","Rachel",4
-"Mr. Zelner","Tag",1
-"Mrs. Bing","Mrs. Geller",3
-"Mrs. Bing","Paolo",1
-"Mrs. Bing","Phoebe",6
-"Mrs. Bing","Rachel",5
-"Mrs. Bing","Ross",7
-"Mrs. Bing","The Housekeeper",1
-"Mrs. Bing","The Rabbi",1
-"Mrs. Bing","Woman",1
-"Mrs. Burgin","Rachel",2
-"Mrs. Chatracus","Rachel",1
-"Mrs. Geller","Mrs. Geller ",1
-"Mrs. Geller","Mrs. Waltham",1
-"Mrs. Geller","Nurse",1
-"Mrs. Geller","Parker",2
-"Mrs. Geller","Phoebe",15
-"Mrs. Geller","Rachel",18
-"Mrs. Geller","Rachel ",1
-"Mrs. Geller","Ross",21
-"Mrs. Geller","Tag",1
-"Mrs. Geller","The Doctor",1
-"Mrs. Geller","The Paramedic",1
-"Mrs. Geller","The Rabbi",1
-"Mrs. Geller","Uncle Dan",1
-"Mrs. Geller","Woman",3
-"Mrs. Geller ","Phoebe",1
-"Mrs. Geller ","Rachel",1
-"Mrs. Geller ","Rachel ",1
-"Mrs. Geller ","Ross",1
-"Mrs. Green","Phoebe",5
-"Mrs. Green","Rachel",5
-"Mrs. Green","Ross",2
-"Mrs. Green","Woman",1
-"Mrs. Lynch","Rachel",2
-"Mrs. Lynch","Sophie",1
-"Mrs. Potter","Phoebe",1
-"Mrs. Potter","Rick",1
-"Mrs. Tedlock","Woman",1
-"Mrs. Verhoeven's Daughter","Rachel",1
-"Mrs. Verhoeven's Daughter","Ross",2
-"Mrs. Waltham","Phoebe",1
-"Mrs. Waltham","Rachel",2
-"Mrs. Waltham","Ross",2
-"Ms. Lambert","Ross",1
-"Nancy","Rachel",4
-"Nurse","Phoebe",3
-"Nurse","Rachel",8
-"Nurse","Ross",6
-"Nurse","Susan",1
-"Nurse #1","Nurse #2",1
-"Nurse #1","Terry",1
-"Nurse #2","Terry",1
-"Older Scientist","Ross",1
-"Older Scientist","Tour Guide",1
-"Others","Phoebe",1
-"Others","Rachel",1
-"Others","Ross",1
-"Others","Wendy",2
-"Paolo","Phoebe",1
-"Paolo","Rachel",2
-"Paolo","Ross",2
-"Parker","Phoebe",4
-"Parker","Rachel",3
-"Parker","Ross",3
-"Parker","Uncle Dan",1
-"Parker","Woman",2
-"Passerby","Rachel",1
-"Passerby","Ross",1
-"Patrick","Phoebe",1
-"Patrick","Rachel",1
-"Paul","Phoebe",4
-"Paul","Rachel",16
-"Paul","Ross",11
-"PBS Volunteer","Phoebe",1
-"PBS Volunteer","Stage Director",1
-"Pete","Pete's Mom",1
-"Pete","Phoebe",4
-"Pete","Rachel",3
-"Pete","Ross",3
-"Pete","Secretary",1
-"Pete","Spokeswoman",1
-"Pete's Mom","Phoebe",1
-"Pete's Mom","Rachel",1
-"Pete's Mom","Ross",1
-"Peter","Tony",1
-"Petrie","Phoebe",1
-"Petrie","Santos",1
-"Phoebe","Phoebe Sr",2
-"Phoebe","Phoebe Sr.",3
-"Phoebe","Photographer",2
-"Phoebe","Rachel",514
-"Phoebe","Rachel ",1
-"Phoebe","Rick",2
-"Phoebe","Robert",4
-"Phoebe","Roger",3
-"Phoebe","Ross",441
-"Phoebe","Sandy",1
-"Phoebe","Santos",1
-"Phoebe","Sebastian",1
-"Phoebe","Second Girl",1
-"Phoebe","Singer",2
-"Phoebe","Sister 1",1
-"Phoebe","Stage Director",1
-"Phoebe","Stephanie",1
-"Phoebe","Steve",5
-"Phoebe","Strange man",1
-"Phoebe","Supervisor",2
-"Phoebe","Susan",9
-"Phoebe","Tag",10
-"Phoebe","Teacher",1
-"Phoebe","The ""Hey Guy"" Guy",1
-"Phoebe","The Cigarette Guy",1
-"Phoebe","The Croupier",1
-"Phoebe","The Dry Cleaner",2
-"Phoebe","The Fan",1
-"Phoebe","The Fireman",1
-"Phoebe","The Girls",1
-"Phoebe","The Guys",3
-"Phoebe","The Lurker",2
-"Phoebe","The Man",1
-"Phoebe","The Museum Official",1
-"Phoebe","The Rabbi",1
-"Phoebe","The Security Guard",2
-"Phoebe","The Smoking Woman",1
-"Phoebe","The Teacher",3
-"Phoebe","The Vampire",1
-"Phoebe","The Waiter",1
-"Phoebe","Tim",4
-"Phoebe","Trudie Styler",1
-"Phoebe","Uncle Dan",1
-"Phoebe","Ursula",6
-"Phoebe","Vince",3
-"Phoebe","Waiter",1
-"Phoebe","Waitress",1
-"Phoebe","Wendy",1
-"Phoebe","Whitney",2
-"Phoebe","Will",2
-"Phoebe","Woman",10
-"Phoebe","Woman No. 1",1
-"Phoebe","Woman No. 2",1
-"Phoebe Sr","Rachel",1
-"Photographer","Rachel",2
-"Photographer","Ross",1
-"Policeman","Rachel",2
-"Policeman","Ross",2
-"Quartet","Rachel",1
-"Quartet","Ross",1
-"Quartet","The Bass Barber",1
-"Rachel","Rachel ",1
-"Rachel","Richard",1
-"Rachel","Robbie",2
-"Rachel","Robert",1
-"Rachel","Roger",2
-"Rachel","Ronni",1
-"Rachel","Ross",539
-"Rachel","Russell",1
-"Rachel","Sandy",1
-"Rachel","Sebastian",1
-"Rachel","Second Girl",1
-"Rachel","Sister 1",1
-"Rachel","Sophie",5
-"Rachel","Steve",1
-"Rachel","Susan",6
-"Rachel","Tag",25
-"Rachel","Teacher",1
-"Rachel","Terry",1
-"Rachel","The Bass Barber",1
-"Rachel","The Cigarette Guy",1
-"Rachel","The Doctor",1
-"Rachel","The Girls",2
-"Rachel","The Guys",3
-"Rachel","The Museum Official",1
-"Rachel","The Paramedic",1
-"Rachel","The Presenter",1
-"Rachel","The Professor",1
-"Rachel","The Rabbi",2
-"Rachel","The Salesman",1
-"Rachel","The Singing Man",1
-"Rachel","The Teacher",2
-"Rachel","The Vampire",1
-"Rachel","The Woman",1
-"Rachel","Tim",1
-"Rachel","Tom",1
-"Rachel","Uncle Dan",1
-"Rachel","Ursula",2
-"Rachel","Vince",1
-"Rachel","Waiter",2
-"Rachel","Waitress",2
-"Rachel","Wendy",1
-"Rachel","Will",2
-"Rachel","Woman",13
-"Rachel","Woman No. 1",2
-"Rachel","Woman No. 2",2
-"Rachel","Young Ethan",1
-"Rachel ","Ross",1
-"Raymond","Ross",1
-"Raymond","The Casting Director",1
-"Receptionist","Ross",2
-"Richard","Richards Date",1
-"Richard","The Assistant Director",2
-"Richard","The Director",5
-"Richard","Waitress",1
-"Robbie","Ross",1
-"Robbie","Susan",1
-"Robert","Ross",4
-"Roger","Ross",2
-"Ross","Russell",1
-"Ross","Salesman",1
-"Ross","Sandy",1
-"Ross","Sarah",4
-"Ross","Sebastian",1
-"Ross","Second Dorm Guy",1
-"Ross","Second Girl",1
-"Ross","Singer",1
-"Ross","Sister 1",1
-"Ross","Stephanie",1
-"Ross","Steve",3
-"Ross","Student",1
-"Ross","Susan",22
-"Ross","Tag",8
-"Ross","The Bass Barber",1
-"Ross","The Casting Director",2
-"Ross","The Conductor",1
-"Ross","The Doctor",2
-"Ross","The Girls",1
-"Ross","The Guys",2
-"Ross","The Hot Girl",1
-"Ross","The Little Girl",1
-"Ross","The Man",1
-"Ross","The Man In The Sportscar",1
-"Ross","The Old Man",1
-"Ross","The Paramedic",1
-"Ross","The Professor",1
-"Ross","The Rabbi",1
-"Ross","The Salesman",1
-"Ross","The Saleswoman",1
-"Ross","The Stripper",2
-"Ross","The Vampire",1
-"Ross","Tim",1
-"Ross","Tom",1
-"Ross","Tour Guide",2
-"Ross","Uncle Dan",1
-"Ross","Ursula",2
-"Ross","Vince",1
-"Ross","Wendy",1
-"Ross","Whitney",2
-"Ross","Will",2
-"Ross","Woman",15
-"Ross","Woman At The Wedding",1
-"Ross","Woman No. 1",1
-"Ross","Woman No. 2",1
-"Ross","Woman On Train",1
-"Ross","Young Ethan",1
-"Ross","Zoe",1
-"Sarah","Second Dorm Guy",1
-"Sarah","Zoe",1
-"Second Dorm Guy","Zoe",1
-"Shelley","Shelley ",1
-"Stanley","The Grip",1
-"Supervisor","The ""Hey Guy"" Guy",1
-"Teacher","Woman",1
-"The Assistant Director","The Director",2
-"The Conductor","Woman On Train",1
-"The Cooking Teacher","The Food Critic",1
-"The Director","Woman",1
-"The Doctor","The Paramedic",1
-"The Hot Girl","The Man",1
-"The Little Girl","The Old Man",1
-"The Lurker","The Security Guard",1
-"The Producer","Wayne",1
-"Ticket Agent","Woman",1
-"Uncle Dan","Woman",1
-"Waiter","Waiter No. 2",1
-"Waitress","Woman",1
-"Woman No. 1","Woman No. 2",2
+"season","from","to","weight"
+1,"Alan","Chandler",1
+1,"Alan","Joey",1
+1,"Alan","Monica",2
+1,"Alan","Phoebe",1
+1,"Alan","Rachel",1
+1,"Alan","Ross",1
+1,"Andrea","Chandler",1
+1,"Andrea","Joey",1
+1,"Andrea","Monica",1
+1,"Andrea","Mr. Geller",1
+1,"Andrea","Mrs. Geller",1
+1,"Andrea","Mrs. Geller ",1
+1,"Andrea","Phoebe",1
+1,"Andrea","Rachel",1
+1,"Andrea","Rachel ",1
+1,"Andrea","Ross",1
+1,"Angela","Bob",1
+1,"Angela","Chandler",1
+1,"Angela","Joey",3
+1,"Angela","Monica",4
+1,"Angela","Phoebe",1
+1,"Angela","Rachel",1
+1,"Angela","Ross",1
+1,"Aunt Iris","Monica",1
+1,"Aunt Iris","Phoebe",1
+1,"Aunt Iris","Rachel",1
+1,"Aunt Lillian","Monica",1
+1,"Aunt Lillian","Mr. Geller",1
+1,"Aunt Lillian","Mrs. Geller",2
+1,"Aunt Lillian","Nurse",1
+1,"Aunt Lillian","Ross",2
+1,"Aurora","Chandler",3
+1,"Aurora","Joey",2
+1,"Aurora","Monica",2
+1,"Aurora","Phoebe",2
+1,"Aurora","Rachel",1
+1,"Aurora","Ross",2
+1,"Barry","Bernice",2
+1,"Barry","Bobby",1
+1,"Barry","Carol",1
+1,"Barry","Mindy",1
+1,"Barry","Rachel",5
+1,"Barry","Robbie",2
+1,"Barry","Ross",1
+1,"Barry","Susan",1
+1,"Bernice","Bobby",1
+1,"Bernice","Mindy",1
+1,"Bernice","Rachel",2
+1,"Bob","Joey",2
+1,"Bob","Monica",1
+1,"Bobby","Rachel",1
+1,"Both","Chandler",1
+1,"Both","Joey",1
+1,"Both","Receptionist",1
+1,"Both","Ross",1
+1,"Carl","Rachel",1
+1,"Carl","Ross",1
+1,"Carol","Chandler",4
+1,"Carol","Dr. Franzblau",4
+1,"Carol","Dr. Oberman",1
+1,"Carol","Joey",2
+1,"Carol","Kristin",1
+1,"Carol","Marsha",1
+1,"Carol","Monica",3
+1,"Carol","Nurse",2
+1,"Carol","Phoebe",3
+1,"Carol","Rachel",6
+1,"Carol","Robbie",1
+1,"Carol","Ross",13
+1,"Carol","Susan",10
+1,"Celia","Ross",2
+1,"Chandler","David",2
+1,"Chandler","Dick Clark",1
+1,"Chandler","Dr. Baldhara",1
+1,"Chandler","Dr. Franzblau",2
+1,"Chandler","Fun Bobby",1
+1,"Chandler","Gerston",1
+1,"Chandler","Girls",1
+1,"Chandler","Guys",2
+1,"Chandler","Janice",9
+1,"Chandler","Jay Leno",1
+1,"Chandler","Jill",6
+1,"Chandler","Joanne",1
+1,"Chandler","Joey",118
+1,"Chandler","Lorraine",2
+1,"Chandler","Lowell",1
+1,"Chandler","Lowell ",1
+1,"Chandler","Luisa",1
+1,"Chandler","Lydia",1
+1,"Chandler","Max",3
+1,"Chandler","Melanie",1
+1,"Chandler","Monica",93
+1,"Chandler","Mr. Geller",2
+1,"Chandler","Mr. Heckles",2
+1,"Chandler","Mr. Tribbiani",3
+1,"Chandler","Mrs. Bing",3
+1,"Chandler","Mrs. Geller",3
+1,"Chandler","Mrs. Geller ",1
+1,"Chandler","Mrs. Tedlock",1
+1,"Chandler","Nurse",2
+1,"Chandler","Paolo",2
+1,"Chandler","Paul",2
+1,"Chandler","Petrie",1
+1,"Chandler","Phoebe",90
+1,"Chandler","Rachel",91
+1,"Chandler","Rachel ",1
+1,"Chandler","Receptionist",2
+1,"Chandler","Roger",2
+1,"Chandler","Ronni",3
+1,"Chandler","Ross",104
+1,"Chandler","Sandy",1
+1,"Chandler","Santos",1
+1,"Chandler","Shelley",2
+1,"Chandler","Shelley ",1
+1,"Chandler","Susan",3
+1,"Chandler","Woman",1
+1,"Chandler","Woman No. 1",1
+1,"Chandler","Woman No. 2",1
+1,"Coma Guy","Monica",1
+1,"Coma Guy","Phoebe",1
+1,"David","Dick Clark",1
+1,"David","Fun Bobby",1
+1,"David","Janice",1
+1,"David","Joey",2
+1,"David","Max",3
+1,"David","Monica",2
+1,"David","Phoebe",4
+1,"David","Rachel",2
+1,"David","Ross",2
+1,"David","Sandy",1
+1,"Dick Clark","Fun Bobby",1
+1,"Dick Clark","Janice",1
+1,"Dick Clark","Joey",1
+1,"Dick Clark","Max",1
+1,"Dick Clark","Monica",1
+1,"Dick Clark","Phoebe",1
+1,"Dick Clark","Rachel",1
+1,"Dick Clark","Ross",1
+1,"Dick Clark","Sandy",1
+1,"Director","Joey",1
+1,"Dr. Baldhara","Joey",1
+1,"Dr. Baldhara","Ross",1
+1,"Dr. Franzblau","Joey",1
+1,"Dr. Franzblau","Monica",1
+1,"Dr. Franzblau","Nurse",2
+1,"Dr. Franzblau","Phoebe",1
+1,"Dr. Franzblau","Rachel",4
+1,"Dr. Franzblau","Ross",2
+1,"Dr. Franzblau","Susan",2
+1,"Dr. Oberman","Ross",1
+1,"Dr. Oberman","Susan",1
+1,"Fake Monica","Monica",3
+1,"Fake Monica","Phoebe",1
+1,"Fake Monica","Rachel",2
+1,"Fake Monica","Teacher",1
+1,"Fake Monica","Woman",1
+1,"Fireman No. 1","Fireman No. 2",2
+1,"Fireman No. 1","Fireman No. 3",2
+1,"Fireman No. 1","Monica",1
+1,"Fireman No. 1","Rachel",1
+1,"Fireman No. 2","Fireman No. 3",2
+1,"Fireman No. 2","Monica",1
+1,"Fireman No. 2","Rachel",1
+1,"Fireman No. 3","Monica",2
+1,"Fireman No. 3","Phoebe",1
+1,"Fireman No. 3","Rachel",2
+1,"Flight Attendant","Man",1
+1,"Flight Attendant","Rachel",1
+1,"Flight Attendant","Ross",1
+1,"Frannie","Monica",1
+1,"Fun Bobby","Janice",1
+1,"Fun Bobby","Joey",1
+1,"Fun Bobby","Max",1
+1,"Fun Bobby","Monica",1
+1,"Fun Bobby","Phoebe",1
+1,"Fun Bobby","Rachel",1
+1,"Fun Bobby","Ross",1
+1,"Fun Bobby","Sandy",1
+1,"Gerston","Petrie",1
+1,"Gerston","Phoebe",1
+1,"Gerston","Santos",1
+1,"Girls","Guys",1
+1,"Girls","Joey",1
+1,"Girls","Monica",1
+1,"Girls","Phoebe",1
+1,"Girls","Rachel",1
+1,"Girls","Ross",1
+1,"Guy","Lydia",1
+1,"Guys","Joey",2
+1,"Guys","Monica",2
+1,"Guys","Phoebe",2
+1,"Guys","Rachel",2
+1,"Guys","Ross",2
+1,"Intercom","Monica",1
+1,"Intercom","Rachel",1
+1,"Janice","Joey",5
+1,"Janice","Lorraine",2
+1,"Janice","Max",1
+1,"Janice","Monica",2
+1,"Janice","Phoebe",4
+1,"Janice","Rachel",2
+1,"Janice","Ross",1
+1,"Janice","Sandy",1
+1,"Janitor","Phoebe",1
+1,"Janitor","Ross",1
+1,"Janitor","Susan",1
+1,"Jay Leno","Joey",1
+1,"Jay Leno","Monica",1
+1,"Jay Leno","Mrs. Bing",1
+1,"Jay Leno","Paolo",1
+1,"Jay Leno","Phoebe",1
+1,"Jay Leno","Rachel",1
+1,"Jay Leno","Ross",1
+1,"Joanne","Joey",1
+1,"Joanne","Kiki",1
+1,"Joanne","Monica",1
+1,"Joanne","Phoebe",1
+1,"Joanne","Rachel",2
+1,"Joanne","Ross",1
+1,"Joey","Lorraine",2
+1,"Joey","Luisa",1
+1,"Joey","Lydia",3
+1,"Joey","Max",3
+1,"Joey","Melanie",2
+1,"Joey","Mindy",1
+1,"Joey","Monica",98
+1,"Joey","Mr. Geller",2
+1,"Joey","Mr. Heckles",2
+1,"Joey","Mr. Tribbiani",5
+1,"Joey","Mrs. Bing",3
+1,"Joey","Mrs. Geller",3
+1,"Joey","Mrs. Geller ",1
+1,"Joey","Mrs. Tribbiani",1
+1,"Joey","Nurse",2
+1,"Joey","Paolo",2
+1,"Joey","Paul",2
+1,"Joey","Phoebe",84
+1,"Joey","Rachel",92
+1,"Joey","Rachel ",1
+1,"Joey","Receptionist",2
+1,"Joey","Roger",2
+1,"Joey","Ronni",3
+1,"Joey","Ross",102
+1,"Joey","Sandy",1
+1,"Joey","Susan",1
+1,"Joey","Woman No. 1",1
+1,"Joey","Woman No. 2",1
+1,"Joey","Young Ethan",1
+1,"Julie","Man",1
+1,"Julie","Rachel",1
+1,"Julie","Ross",1
+1,"Kiki","Rachel",1
+1,"Kristin","Ross",2
+1,"Kristin","Susan",1
+1,"Lizzie","Phoebe",2
+1,"Lowell","Lowell ",1
+1,"Luisa","Monica",1
+1,"Luisa","Mr. Heckles",1
+1,"Luisa","Phoebe",1
+1,"Luisa","Rachel",1
+1,"Luisa","Ross",1
+1,"Luisa","Woman No. 1",1
+1,"Luisa","Woman No. 2",1
+1,"Lydia","Monica",1
+1,"Lydia","Nurse",1
+1,"Man","Rachel",2
+1,"Man","Ross",2
+1,"Marsha","Ross",1
+1,"Max","Monica",3
+1,"Max","Phoebe",4
+1,"Max","Rachel",3
+1,"Max","Ross",3
+1,"Max","Sandy",1
+1,"Melanie","Monica",1
+1,"Melanie","Phoebe",1
+1,"Melanie","Rachel",1
+1,"Melanie","Ross",1
+1,"Mindy","Rachel",2
+1,"Monica","Mr. Geller",4
+1,"Monica","Mr. Heckles",2
+1,"Monica","Mr. Tribbiani",3
+1,"Monica","Mrs. Bing",2
+1,"Monica","Mrs. Geller",4
+1,"Monica","Mrs. Geller ",1
+1,"Monica","Nurse",2
+1,"Monica","Paolo",2
+1,"Monica","Paul",4
+1,"Monica","Paula",2
+1,"Monica","Phoebe",104
+1,"Monica","Rachel",117
+1,"Monica","Rachel ",1
+1,"Monica","Roger",2
+1,"Monica","Ronni",1
+1,"Monica","Ross",89
+1,"Monica","Sandy",1
+1,"Monica","Steve",1
+1,"Monica","Susan",2
+1,"Monica","Teacher",2
+1,"Monica","Woman",1
+1,"Monica","Woman No. 1",1
+1,"Monica","Woman No. 2",1
+1,"Monica","Young Ethan",3
+1,"Mr. Geller","Mrs. Geller",3
+1,"Mr. Geller","Mrs. Geller ",1
+1,"Mr. Geller","Nurse",1
+1,"Mr. Geller","Phoebe",2
+1,"Mr. Geller","Rachel",2
+1,"Mr. Geller","Rachel ",1
+1,"Mr. Geller","Ross",3
+1,"Mr. Heckles","Phoebe",3
+1,"Mr. Heckles","Rachel",3
+1,"Mr. Heckles","Ross",2
+1,"Mr. Heckles","Woman No. 1",1
+1,"Mr. Heckles","Woman No. 2",1
+1,"Mr. Tribbiani","Phoebe",2
+1,"Mr. Tribbiani","Rachel",2
+1,"Mr. Tribbiani","Roger",1
+1,"Mr. Tribbiani","Ronni",2
+1,"Mr. Tribbiani","Ross",1
+1,"Mrs. Bing","Paolo",1
+1,"Mrs. Bing","Phoebe",2
+1,"Mrs. Bing","Rachel",2
+1,"Mrs. Bing","Ross",3
+1,"Mrs. Geller","Mrs. Geller ",1
+1,"Mrs. Geller","Nurse",1
+1,"Mrs. Geller","Phoebe",3
+1,"Mrs. Geller","Rachel",3
+1,"Mrs. Geller","Rachel ",1
+1,"Mrs. Geller","Ross",6
+1,"Mrs. Geller ","Phoebe",1
+1,"Mrs. Geller ","Rachel",1
+1,"Mrs. Geller ","Rachel ",1
+1,"Mrs. Geller ","Ross",1
+1,"Mrs. Tedlock","Woman",1
+1,"Nurse","Phoebe",1
+1,"Nurse","Rachel",1
+1,"Nurse","Ross",2
+1,"Nurse","Susan",1
+1,"Paolo","Phoebe",1
+1,"Paolo","Rachel",2
+1,"Paolo","Ross",2
+1,"Paul","Phoebe",1
+1,"Paul","Rachel",2
+1,"Paul","Ross",1
+1,"Petrie","Phoebe",1
+1,"Petrie","Santos",1
+1,"Phoebe","Rachel",101
+1,"Phoebe","Rachel ",1
+1,"Phoebe","Roger",3
+1,"Phoebe","Ross",92
+1,"Phoebe","Sandy",1
+1,"Phoebe","Santos",1
+1,"Phoebe","Steve",2
+1,"Phoebe","Susan",7
+1,"Phoebe","Teacher",1
+1,"Phoebe","Woman",1
+1,"Phoebe","Woman No. 1",1
+1,"Phoebe","Woman No. 2",1
+1,"Rachel","Rachel ",1
+1,"Rachel","Robbie",2
+1,"Rachel","Roger",2
+1,"Rachel","Ronni",1
+1,"Rachel","Ross",101
+1,"Rachel","Sandy",1
+1,"Rachel","Steve",1
+1,"Rachel","Susan",4
+1,"Rachel","Teacher",1
+1,"Rachel","Terry",1
+1,"Rachel","Woman",3
+1,"Rachel","Woman No. 1",1
+1,"Rachel","Woman No. 2",1
+1,"Rachel","Young Ethan",1
+1,"Rachel ","Ross",1
+1,"Receptionist","Ross",2
+1,"Robbie","Ross",1
+1,"Robbie","Susan",1
+1,"Roger","Ross",2
+1,"Ross","Sandy",1
+1,"Ross","Susan",15
+1,"Ross","Woman",2
+1,"Ross","Woman No. 1",1
+1,"Ross","Woman No. 2",1
+1,"Ross","Young Ethan",1
+1,"Shelley","Shelley ",1
+1,"Teacher","Woman",1
+1,"Woman No. 1","Woman No. 2",1
+NA,"A Crew Member","Alex",1
+NA,"A Crew Member","Chandler",1
+NA,"A Crew Member","Joey",1
+NA,"A Crew Member","The Director",1
+NA,"A Drunken Gambler","Chandler",1
+NA,"A Drunken Gambler","Drunken Gambler",1
+NA,"A Drunken Gambler","Monica",1
+NA,"A Drunken Gambler","The Croupier",1
+NA,"A Female Student","Monica",1
+NA,"A Female Student","Phoebe",1
+NA,"A Student","Rachel",1
+NA,"A Student","Ross",1
+NA,"A Waiter","Joey",1
+NA,"A Waiter","Monica",1
+NA,"A Waiter","The Waiter",1
+NA,"A Waiter in Drag","Chandler",1
+NA,"A Waiter in Drag","Helena",1
+NA,"A Waiter in Drag","Monica",1
+NA,"A Waiter in Drag","Waiter in Drag",1
+NA,"Airline Employee","Chandler",1
+NA,"Airline Employee","Monica",1
+NA,"Alex","Chandler",1
+NA,"Alex","Joey",1
+NA,"Alex","The Director",1
+NA,"Alice","Chandler",4
+NA,"Alice","Dan",1
+NA,"Alice","Dr. Harad",1
+NA,"Alice","Dr. Zane",1
+NA,"Alice","Frank",7
+NA,"Alice","Joey",3
+NA,"Alice","Joey's Doctor",1
+NA,"Alice","Monica",4
+NA,"Alice","Phoebe",9
+NA,"Alice","Phoebe Sr",1
+NA,"Alice","Rachel",4
+NA,"Alice","Ross",2
+NA,"Amanda","Ross",1
+NA,"Anchorwoman","Chandler",1
+NA,"Anchorwoman","Joey",1
+NA,"Anchorwoman","Ross",1
+NA,"Annabelle","Customer",1
+NA,"Annabelle","Hombre Man",3
+NA,"Annabelle","Joey",3
+NA,"Annabelle","Store Guy",1
+NA,"Another Scientist","Another Tour Guide",1
+NA,"Another Scientist","Joey",1
+NA,"Another Scientist","Older Scientist",1
+NA,"Another Scientist","Ross",1
+NA,"Another Scientist","Tour Guide",1
+NA,"Another Tour Guide","Joey",1
+NA,"Another Tour Guide","Older Scientist",1
+NA,"Another Tour Guide","Ross",1
+NA,"Another Tour Guide","Tour Guide",1
+NA,"Anxious Wedding Guest","Chandler",1
+NA,"Anxious Wedding Guest","Ross",1
+NA,"Aunt Lisa","Chandler",2
+NA,"Aunt Lisa","Joey",2
+NA,"Aunt Lisa","Man",2
+NA,"Aunt Lisa","Monica",2
+NA,"Aunt Lisa","Mr. Geller",2
+NA,"Aunt Lisa","Mrs. Geller",2
+NA,"Aunt Lisa","Parker",2
+NA,"Aunt Lisa","Phoebe",2
+NA,"Aunt Lisa","Rachel",2
+NA,"Aunt Lisa","Ross",2
+NA,"Aunt Lisa","Uncle Dan",1
+NA,"Aunt Lisa","Woman",2
+NA,"Ballerina","Chandler",1
+NA,"Ballerina","Cowgirl",1
+NA,"Ballerina","Eric",1
+NA,"Ballerina","Girl",1
+NA,"Ballerina","Joey",1
+NA,"Ballerina","Kids",1
+NA,"Ballerina","Mona",1
+NA,"Ballerina","Monica",1
+NA,"Ballerina","Phoebe",1
+NA,"Ballerina","Rachel",1
+NA,"Ballerina","Ross",1
+NA,"Ballerina","Ursula",1
+NA,"Bandleader","Chandler",2
+NA,"Bandleader","Dennis Phillips",2
+NA,"Bandleader","Fat Girl",1
+NA,"Bandleader","Gert",1
+NA,"Bandleader","Joey",2
+NA,"Bandleader","Little Girl",1
+NA,"Bandleader","Mona",2
+NA,"Bandleader","Monica",2
+NA,"Bandleader","Mr. Geller",1
+NA,"Bandleader","Mrs. Bing",1
+NA,"Bandleader","Phoebe",2
+NA,"Bandleader","Rachel",2
+NA,"Bandleader","Ross",2
+NA,"Bandleader","Second Girl",1
+NA,"Bank Officer","Chandler",1
+NA,"Bank Officer","Ms. Lambert",1
+NA,"Bank Officer","Ross",1
+NA,"Bass Singer","Julio",1
+NA,"Bass Singer","Man",1
+NA,"Bass Singer","Quartet",1
+NA,"Ben","Carol",3
+NA,"Ben","Chandler",5
+NA,"Ben","Joey",4
+NA,"Ben","Monica",5
+NA,"Ben","Phoebe",7
+NA,"Ben","Rachel",9
+NA,"Ben","Ross",10
+NA,"Ben","The Teacher",1
+NA,"Big Nosed Rachel","Chandler",1
+NA,"Big Nosed Rachel","Fat Monica",1
+NA,"Big Nosed Rachel","Monica",1
+NA,"Big Nosed Rachel","Mr. Geller",1
+NA,"Big Nosed Rachel","Mrs. Geller",1
+NA,"Big Nosed Rachel","Ross",1
+NA,"Blackjack Dealer","Chandler",1
+NA,"Blackjack Dealer","Joey",1
+NA,"Blackjack Dealer","Phoebe",1
+NA,"Bob","Chandler",5
+NA,"Bob","Mr. Franklin",2
+NA,"Bob","Phoebe",1
+NA,"Bob","Ross",1
+NA,"Bobby","Dina",2
+NA,"Bobby","Joey",2
+NA,"Bobby","Rachel",2
+NA,"Bonnie","Rachel",1
+NA,"Bonnie","Ross",1
+NA,"Both","Chandler",1
+NA,"Both","Monica",1
+NA,"Boy in the Cape","Chandler",1
+NA,"Boy in the Cape","Gunther",1
+NA,"Boy in the Cape","Joey",1
+NA,"Boy in the Cape","Kid",1
+NA,"Boy in the Cape","Monica",1
+NA,"Boy in the Cape","Rachel",1
+NA,"Brenda","Chandler",2
+NA,"Brenda","Monica",3
+NA,"Brenda","Rachel",1
+NA,"Buffay, the Vampire Layer","Chandler",1
+NA,"Buffay, the Vampire Layer","Joey",1
+NA,"Buffay, the Vampire Layer","Monica",1
+NA,"Buffay, the Vampire Layer","Phoebe",1
+NA,"Buffay, the Vampire Layer","Rachel",1
+NA,"Buffay, the Vampire Layer","Ross",1
+NA,"Buffay, the Vampire Layer","The Vampire",1
+NA,"Burt","Elizabeth",2
+NA,"Burt","Lydia",1
+NA,"Burt","Mel",1
+NA,"Burt","Ross",3
+NA,"C.H.E.E.S.E","Chandler",1
+NA,"C.H.E.E.S.E","Joey",1
+NA,"C.H.E.E.S.E","Mac",1
+NA,"C.H.E.E.S.E","Monica",1
+NA,"C.H.E.E.S.E","Phoebe",1
+NA,"C.H.E.E.S.E","Rachel",1
+NA,"C.H.E.E.S.E","Ross",1
+NA,"C.H.E.E.S.E.","Joey",2
+NA,"C.H.E.E.S.E.","The Producer",1
+NA,"C.H.E.E.S.E.","Wayne",1
+NA,"Caitlin","Chandler",3
+NA,"Caitlin","Grandma Tribbiani",1
+NA,"Caitlin","Joey",2
+NA,"Caitlin","Monica",2
+NA,"Caitlin","Phoebe",2
+NA,"Caitlin","Rachel",3
+NA,"Caitlin","Ross",3
+NA,"Carol","Chandler",4
+NA,"Carol","Emily",2
+NA,"Carol","Joey",7
+NA,"Carol","Monica",6
+NA,"Carol","Phoebe",4
+NA,"Carol","Rachel",4
+NA,"Carol","Raymond",1
+NA,"Carol","Ross",16
+NA,"Carol","Susan",7
+NA,"Carol","The Casting Director",2
+NA,"Casey","Chandler",1
+NA,"Casey","Joey",1
+NA,"Cashier","Rachel",1
+NA,"Cashier","Ross",1
+NA,"Casting Director #1","Joey",1
+NA,"Casting Director #2","Joey",1
+NA,"Casting Director #3","Joey",1
+NA,"Chandler","Claudia",1
+NA,"Chandler","Cookie",2
+NA,"Chandler","Cop",1
+NA,"Chandler","Cowgirl",1
+NA,"Chandler","Customer",1
+NA,"Chandler","Cynthia",1
+NA,"Chandler","Dan",3
+NA,"Chandler","Dana",2
+NA,"Chandler","Danny",2
+NA,"Chandler","Delivery Room Nurse",1
+NA,"Chandler","Dennis Phillips",2
+NA,"Chandler","Don",2
+NA,"Chandler","Doug",6
+NA,"Chandler","Dr. Harad",4
+NA,"Chandler","Drew",1
+NA,"Chandler","Drunken Gambler",2
+NA,"Chandler","Eldad",1
+NA,"Chandler","Elizabeth",2
+NA,"Chandler","Emeril",1
+NA,"Chandler","Emily",10
+NA,"Chandler","Eric",3
+NA,"Chandler","Estelle",2
+NA,"Chandler","Everyone",1
+NA,"Chandler","Fat Girl",1
+NA,"Chandler","Fat Monica",2
+NA,"Chandler","Fireman #1",1
+NA,"Chandler","Frank",7
+NA,"Chandler","Frank Sr.",1
+NA,"Chandler","Friend No. 1",2
+NA,"Chandler","Friend No. 2",2
+NA,"Chandler","Front Desk Clerk",2
+NA,"Chandler","Gary",14
+NA,"Chandler","Gavin",1
+NA,"Chandler","Gert",1
+NA,"Chandler","Ginger",3
+NA,"Chandler","Girl",1
+NA,"Chandler","Grandma Tribbiani",2
+NA,"Chandler","Gunther",25
+NA,"Chandler","Guru Saj",1
+NA,"Chandler","Guy",2
+NA,"Chandler","Gym Employee",1
+NA,"Chandler","Helena",3
+NA,"Chandler","Her Friends",1
+NA,"Chandler","Hooker",2
+NA,"Chandler","Host",1
+NA,"Chandler","Hotel Clerk",1
+NA,"Chandler","Hums While He Pees",1
+NA,"Chandler","Interviewer",1
+NA,"Chandler","Jake",1
+NA,"Chandler","Janice",14
+NA,"Chandler","Janine",9
+NA,"Chandler","Jill",2
+NA,"Chandler","Joanna",2
+NA,"Chandler","Joey",492
+NA,"Chandler","Joey's Doctor",1
+NA,"Chandler","Joeys Grandmother",1
+NA,"Chandler","Joeys Sister",1
+NA,"Chandler","Joeys Sisters",2
+NA,"Chandler","Joshua",3
+NA,"Chandler","Julie",3
+NA,"Chandler","Kara",3
+NA,"Chandler","Kathy",12
+NA,"Chandler","Kathy's Co-Star",1
+NA,"Chandler","Katie",1
+NA,"Chandler","Ken",1
+NA,"Chandler","Kid",1
+NA,"Chandler","Kids",1
+NA,"Chandler","Kim",1
+NA,"Chandler","Kori",1
+NA,"Chandler","Krista",1
+NA,"Chandler","Kristen",1
+NA,"Chandler","Leslie",1
+NA,"Chandler","Lisa",1
+NA,"Chandler","Little Girl",1
+NA,"Chandler","Mac",1
+NA,"Chandler","Maitre d'",1
+NA,"Chandler","Male Jeweler",1
+NA,"Chandler","Man",3
+NA,"Chandler","Man At The Wedding",1
+NA,"Chandler","Margha",2
+NA,"Chandler","Mary-Angela",1
+NA,"Chandler","Mary-Theresa",1
+NA,"Chandler","Matire'd",1
+NA,"Chandler","Matress King",1
+NA,"Chandler","Mike",3
+NA,"Chandler","Minister",1
+NA,"Chandler","Molly",3
+NA,"Chandler","Mona",5
+NA,"Chandler","Monica",521
+NA,"Chandler","Mr. Bing",2
+NA,"Chandler","Mr. Franklin",2
+NA,"Chandler","Mr. Geller",24
+NA,"Chandler","Mr. Treeger",1
+NA,"Chandler","Mr. Waltham",2
+NA,"Chandler","Mrs. Bing",3
+NA,"Chandler","Mrs. Geller",16
+NA,"Chandler","Mrs. Waltham",2
+NA,"Chandler","Ms. Lambert",1
+NA,"Chandler","Ms. McKenna",3
+NA,"Chandler","Nurse",2
+NA,"Chandler","Others",2
+NA,"Chandler","Parker",3
+NA,"Chandler","Patrick",1
+NA,"Chandler","Paul",3
+NA,"Chandler","Pete",4
+NA,"Chandler","Pete's Mom",1
+NA,"Chandler","Peter",1
+NA,"Chandler","Phoebe",394
+NA,"Chandler","Phoebe Sr.",1
+NA,"Chandler","Photographer",2
+NA,"Chandler","Rachel",368
+NA,"Chandler","Richard",3
+NA,"Chandler","Robert",4
+NA,"Chandler","Ross",392
+NA,"Chandler","Sarah",2
+NA,"Chandler","Sebastian",1
+NA,"Chandler","Second Girl",1
+NA,"Chandler","Singer",2
+NA,"Chandler","Sister 1",1
+NA,"Chandler","Sophie",1
+NA,"Chandler","Stripper",1
+NA,"Chandler","Susan",3
+NA,"Chandler","Tag",8
+NA,"Chandler","The Cigarette Guy",1
+NA,"Chandler","The Croupier",1
+NA,"Chandler","The Director",1
+NA,"Chandler","The Doctor",2
+NA,"Chandler","The Girls",2
+NA,"Chandler","The Guys",2
+NA,"Chandler","The Interviewer",1
+NA,"Chandler","The Man",1
+NA,"Chandler","The Museum Official",2
+NA,"Chandler","The Paramedic",1
+NA,"Chandler","The Photographer",1
+NA,"Chandler","The Potential Roommate",1
+NA,"Chandler","The Rabbi",1
+NA,"Chandler","The Stripper",2
+NA,"Chandler","The Vampire",1
+NA,"Chandler","The Woman",1
+NA,"Chandler","Ticket Agent",1
+NA,"Chandler","Ticket Counter Attendant",2
+NA,"Chandler","Tim",1
+NA,"Chandler","Tom",1
+NA,"Chandler","Tony",1
+NA,"Chandler","Uncle Dan",1
+NA,"Chandler","Ursula",2
+NA,"Chandler","Vince",1
+NA,"Chandler","Voice",1
+NA,"Chandler","Waiter in Drag",1
+NA,"Chandler","Waitress",1
+NA,"Chandler","Wayne",1
+NA,"Chandler","Wendy",4
+NA,"Chandler","Will",2
+NA,"Chandler","Woman",10
+NA,"Chandler","Woman At The Wedding",1
+NA,"Charlton Heston","Joey",1
+NA,"Chip","Monica",4
+NA,"Chip","Rachel",2
+NA,"Chip","Ross",1
+NA,"Chloe","Rachel",1
+NA,"Chloe","Ross",1
+NA,"Claudia","Ken",1
+NA,"Claudia","Others",1
+NA,"Claudia","Wendy",1
+NA,"Clerk","Monica",1
+NA,"Clerk","Richard",1
+NA,"Cookie","Gunther",1
+NA,"Cookie","Joey",2
+NA,"Cookie","Joeys Grandmother",1
+NA,"Cookie","Joeys Sister",1
+NA,"Cookie","Joeys Sisters",1
+NA,"Cookie","Mary-Angela",1
+NA,"Cookie","Mary-Theresa",1
+NA,"Cookie","Monica",1
+NA,"Cookie","Phoebe",1
+NA,"Cookie","Rachel",1
+NA,"Cookie","Ross",1
+NA,"Cookie","Sister 1",1
+NA,"Cop","Gary",1
+NA,"Cop","Guy",1
+NA,"Cop","Joey",1
+NA,"Cop","Monica",1
+NA,"Cop","Phoebe",2
+NA,"Cop","Rachel",1
+NA,"Cowgirl","Eric",1
+NA,"Cowgirl","Girl",1
+NA,"Cowgirl","Joey",1
+NA,"Cowgirl","Kids",1
+NA,"Cowgirl","Mona",1
+NA,"Cowgirl","Monica",1
+NA,"Cowgirl","Phoebe",1
+NA,"Cowgirl","Rachel",1
+NA,"Cowgirl","Ross",1
+NA,"Cowgirl","Ursula",1
+NA,"Customer","Gunther",1
+NA,"Customer","Hombre Man",1
+NA,"Customer","Joey",2
+NA,"Customer","Monica",1
+NA,"Customer","Phoebe",1
+NA,"Customer","Rachel",1
+NA,"Customer","Ross",1
+NA,"Customer","Store Guy",1
+NA,"Customer","Woman",1
+NA,"Cynthia","Joey",1
+NA,"Cynthia","Rachel",1
+NA,"Dan","Delivery Room Nurse",1
+NA,"Dan","Dr. Harad",2
+NA,"Dan","Frank",2
+NA,"Dan","Joey",1
+NA,"Dan","Joey's Doctor",1
+NA,"Dan","Monica",3
+NA,"Dan","Nurse",1
+NA,"Dan","Phoebe",2
+NA,"Dan","Rachel",2
+NA,"Dan","Ross",1
+NA,"Danny","Joey",3
+NA,"Danny","Krista",3
+NA,"Danny","Monica",7
+NA,"Danny","Phoebe",2
+NA,"Danny","Rachel",10
+NA,"Danny","Tom",1
+NA,"Dave","Joey",1
+NA,"Dave","Monica",1
+NA,"Dave","Rachel",1
+NA,"Dave","Ross",1
+NA,"David","Joey",1
+NA,"David","Monica",1
+NA,"David","Phoebe",3
+NA,"Delivery Room Nurse","Dr. Harad",1
+NA,"Delivery Room Nurse","Frank",1
+NA,"Delivery Room Nurse","Joey",1
+NA,"Delivery Room Nurse","Monica",1
+NA,"Delivery Room Nurse","Nurse",1
+NA,"Delivery Room Nurse","Phoebe",1
+NA,"Delivery Room Nurse","Rachel",1
+NA,"Delivery Room Nurse","Ross",1
+NA,"Dennis Phillips","Fat Girl",1
+NA,"Dennis Phillips","Gert",1
+NA,"Dennis Phillips","Joey",2
+NA,"Dennis Phillips","Little Girl",1
+NA,"Dennis Phillips","Mona",2
+NA,"Dennis Phillips","Monica",2
+NA,"Dennis Phillips","Mr. Geller",1
+NA,"Dennis Phillips","Mrs. Bing",1
+NA,"Dennis Phillips","Phoebe",2
+NA,"Dennis Phillips","Rachel",2
+NA,"Dennis Phillips","Ross",2
+NA,"Dennis Phillips","Second Girl",1
+NA,"Devon","Emily",1
+NA,"Devon","Liam",1
+NA,"Devon","Ross",1
+NA,"Dina","Joey",4
+NA,"Dina","Rachel",4
+NA,"Director","Dr. Drake Ramoray",1
+NA,"Director","Janine",1
+NA,"Director","Joey",8
+NA,"Director","Joey's Co-Star",1
+NA,"Director","Kash",1
+NA,"Director","Monica",3
+NA,"Director","Rachel",1
+NA,"Director","Ross",4
+NA,"Doctor","Dr. Timothy Burke",1
+NA,"Doctor","Joey",1
+NA,"Doctor","Monica",1
+NA,"Doctor","Nurse",1
+NA,"Doctor","Rachel",2
+NA,"Doctor","Ross",1
+NA,"Don","Monica",2
+NA,"Don","Phoebe",2
+NA,"Doug","Kara",3
+NA,"Doug","Monica",4
+NA,"Dr Green","Dr. Green",1
+NA,"Dr Green","Rachel",1
+NA,"Dr Green","Ross",1
+NA,"Dr. Drake Ramoray","Joey",1
+NA,"Dr. Drake Ramoray","Joey's Co-Star",1
+NA,"Dr. Drake Ramoray","Kash",1
+NA,"Dr. Drake Ramoray","Rachel",1
+NA,"Dr. Green","Joey",2
+NA,"Dr. Green","Mona",3
+NA,"Dr. Green","Phoebe",3
+NA,"Dr. Green","Rachel",6
+NA,"Dr. Green","Ross",6
+NA,"Dr. Green","Waiter",1
+NA,"Dr. Harad","Frank",4
+NA,"Dr. Harad","Joey",3
+NA,"Dr. Harad","Joey's Doctor",1
+NA,"Dr. Harad","Monica",3
+NA,"Dr. Harad","Nurse",1
+NA,"Dr. Harad","Phoebe",5
+NA,"Dr. Harad","Rachel",4
+NA,"Dr. Harad","Ross",3
+NA,"Dr. Johnson","Dr. Rhodes",1
+NA,"Dr. Johnson","Ross",1
+NA,"Dr. Ledbetter","Ross",1
+NA,"Dr. Leedbetter","Joey",1
+NA,"Dr. Leedbetter","Monica",1
+NA,"Dr. Leedbetter","Phoebe",1
+NA,"Dr. Leedbetter","Rachel",1
+NA,"Dr. Leedbetter","Ross",2
+NA,"Dr. Long","Joey",1
+NA,"Dr. Long","Nurse",1
+NA,"Dr. Long","Rachel",3
+NA,"Dr. Long","Ross",3
+NA,"Dr. Miller","Monica",1
+NA,"Dr. Miller","Rachel",1
+NA,"Dr. Oberman","Frank",1
+NA,"Dr. Oberman","Phoebe",1
+NA,"Dr. Oberman","Ross",1
+NA,"Dr. Rhodes","Ross",2
+NA,"Dr. Schiff","Nurse",1
+NA,"Dr. Schiff","Rachel",1
+NA,"Dr. Stryker Remoray","Joey",1
+NA,"Dr. Stryker Remoray","Nurse #1",1
+NA,"Dr. Stryker Remoray","Nurse #2",1
+NA,"Dr. Stryker Remoray","Terry",1
+NA,"Dr. Timothy Burke","Monica",1
+NA,"Dr. Timothy Burke","Nurse",1
+NA,"Dr. Timothy Burke","Rachel",1
+NA,"Dr. Zane","Frank",1
+NA,"Dr. Zane","Phoebe",2
+NA,"Drew","Mike",1
+NA,"Drunken Gambler","Monica",2
+NA,"Drunken Gambler","The Croupier",1
+NA,"Earl","Marge",1
+NA,"Earl","Phoebe",4
+NA,"Earl","Supervisor",1
+NA,"Earl","The ""Hey Guy"" Guy",1
+NA,"Eldad","Monica",1
+NA,"Eldad","Patrick",1
+NA,"Eldad","Phoebe",1
+NA,"Eldad","Rachel",1
+NA,"Elizabeth","First Dorm Guy",1
+NA,"Elizabeth","Joey",1
+NA,"Elizabeth","Lydia",1
+NA,"Elizabeth","Mel",1
+NA,"Elizabeth","Monica",2
+NA,"Elizabeth","Paul",7
+NA,"Elizabeth","Phoebe",2
+NA,"Elizabeth","Rachel",8
+NA,"Elizabeth","Ross",18
+NA,"Elizabeth","Sarah",1
+NA,"Elizabeth","Second Dorm Guy",1
+NA,"Elizabeth","Zoe",1
+NA,"Emeril","Monica",1
+NA,"Emily","Gunther",1
+NA,"Emily","Joey",12
+NA,"Emily","Joshua",2
+NA,"Emily","Liam",2
+NA,"Emily","Minister",1
+NA,"Emily","Monica",11
+NA,"Emily","Mr. Geller",1
+NA,"Emily","Mr. Waltham",1
+NA,"Emily","Mrs. Geller",2
+NA,"Emily","Mrs. Waltham",1
+NA,"Emily","Phoebe",12
+NA,"Emily","Rachel",11
+NA,"Emily","Ross",20
+NA,"Emily","Susan",2
+NA,"Employee","Monica",1
+NA,"Employee","Pete",1
+NA,"Employee","Secretary",1
+NA,"Eric","Girl",1
+NA,"Eric","Joey",2
+NA,"Eric","Kids",1
+NA,"Eric","Mona",2
+NA,"Eric","Monica",3
+NA,"Eric","Mr. Heckles",1
+NA,"Eric","Phoebe",7
+NA,"Eric","Rachel",3
+NA,"Eric","Ross",4
+NA,"Eric","Ursula",2
+NA,"Erin","Joey",1
+NA,"Erin","Man",1
+NA,"Erin","Ray",1
+NA,"Estelle","Joey",3
+NA,"Estelle","Monica",2
+NA,"Estelle","Phoebe",2
+NA,"Estelle","Rachel",1
+NA,"Everyone","Joey",1
+NA,"Everyone","Monica",1
+NA,"Everyone","Phoebe",1
+NA,"Everyone","Rachel",1
+NA,"Fat Girl","Gert",1
+NA,"Fat Girl","Joey",1
+NA,"Fat Girl","Little Girl",1
+NA,"Fat Girl","Mona",1
+NA,"Fat Girl","Monica",1
+NA,"Fat Girl","Mr. Geller",1
+NA,"Fat Girl","Phoebe",1
+NA,"Fat Girl","Rachel",1
+NA,"Fat Girl","Ross",1
+NA,"Fat Girl","Second Girl",1
+NA,"Fat Monica","Joey",1
+NA,"Fat Monica","Monica",2
+NA,"Fat Monica","Mr. Geller",1
+NA,"Fat Monica","Mrs. Geller",1
+NA,"Fat Monica","Phoebe",1
+NA,"Fat Monica","Rachel",1
+NA,"Fat Monica","Ross",2
+NA,"Female Clerk","Joey",1
+NA,"Female Jeweler","Male Jeweler",1
+NA,"Female Jeweler","Phoebe",1
+NA,"Fireman","Phoebe",1
+NA,"Fireman","Vince",1
+NA,"Fireman #1","Joey",1
+NA,"Fireman #1","Monica",1
+NA,"Fireman #1","Phoebe",1
+NA,"Fireman #1","Rachel",1
+NA,"Fireman #2","Phoebe",1
+NA,"Fireman #2","Rachel",1
+NA,"First Dorm Guy","Ross",1
+NA,"First Dorm Guy","Sarah",1
+NA,"First Dorm Guy","Second Dorm Guy",1
+NA,"First Dorm Guy","Zoe",1
+NA,"Flight Attendant","Rachel",2
+NA,"Flight Attendant","Ross",2
+NA,"Frank","Girl",1
+NA,"Frank","Jasmine",1
+NA,"Frank","Joey",7
+NA,"Frank","Joey's Doctor",1
+NA,"Frank","Monica",7
+NA,"Frank","Nurse",1
+NA,"Frank","Phoebe",17
+NA,"Frank","Phoebe Sr",1
+NA,"Frank","Rachel",8
+NA,"Frank","Ross",8
+NA,"Frank Sr.","Joey",1
+NA,"Frank Sr.","Monica",1
+NA,"Frank Sr.","Phoebe",2
+NA,"Frank Sr.","Rachel",1
+NA,"Frank Sr.","Ross",1
+NA,"Frannie","Monica",1
+NA,"Frannie","Ross",1
+NA,"Friend No. 1","Friend No. 2",2
+NA,"Friend No. 1","Her Friends",1
+NA,"Friend No. 1","Monica",1
+NA,"Friend No. 1","Rachel",2
+NA,"Friend No. 1","Waitress",1
+NA,"Friend No. 2","Her Friends",1
+NA,"Friend No. 2","Monica",1
+NA,"Friend No. 2","Rachel",2
+NA,"Friend No. 2","Waitress",1
+NA,"Front Desk Clerk","Joey",1
+NA,"Front Desk Clerk","Man",1
+NA,"Front Desk Clerk","Monica",2
+NA,"Front Desk Clerk","Phoebe",1
+NA,"Front Desk Clerk","Rachel",1
+NA,"Front Desk Clerk","Woman",1
+NA,"Gary","Joey",7
+NA,"Gary","Monica",8
+NA,"Gary","Phoebe",11
+NA,"Gary","Rachel",2
+NA,"Gary","Ross",6
+NA,"Gary Collins","Joey",2
+NA,"Gary Collins","PBS Volunteer",1
+NA,"Gary Collins","Phoebe",2
+NA,"Gary Collins","Stage Director",1
+NA,"Gavin","Heather",1
+NA,"Gavin","Monica",2
+NA,"Gavin","Phoebe",1
+NA,"Gavin","Rachel",3
+NA,"Gert","Joey",1
+NA,"Gert","Little Girl",1
+NA,"Gert","Mona",1
+NA,"Gert","Monica",1
+NA,"Gert","Mr. Geller",1
+NA,"Gert","Phoebe",1
+NA,"Gert","Rachel",1
+NA,"Gert","Ross",1
+NA,"Gert","Second Girl",1
+NA,"Ginger","Gunther",1
+NA,"Ginger","Joey",1
+NA,"Ginger","Phoebe",1
+NA,"Ginger","Woman",1
+NA,"Girl","Jasmine",1
+NA,"Girl","Joey",1
+NA,"Girl","Kids",1
+NA,"Girl","Leader",1
+NA,"Girl","Mona",1
+NA,"Girl","Monica",1
+NA,"Girl","Phoebe",2
+NA,"Girl","Rachel",1
+NA,"Girl","Ross",2
+NA,"Girl","Ursula",1
+NA,"Grandma Tribbiani","Joey",2
+NA,"Grandma Tribbiani","Monica",1
+NA,"Grandma Tribbiani","Phoebe",2
+NA,"Grandma Tribbiani","Rachel",2
+NA,"Grandma Tribbiani","Ross",2
+NA,"Guest #1","Phoebe",1
+NA,"Guest #1","Ross",1
+NA,"Guest #1","Steve",1
+NA,"Guest #2","Guest #3",1
+NA,"Guest #2","Phoebe",1
+NA,"Guest #2","Ross",1
+NA,"Guest #2","Steve",1
+NA,"Guest #3","Phoebe",1
+NA,"Guest #3","Ross",1
+NA,"Guest #3","Steve",1
+NA,"Gunther","Janice",2
+NA,"Gunther","Jill",1
+NA,"Gunther","Joey",31
+NA,"Gunther","Joeys Sisters",1
+NA,"Gunther","Joshua",1
+NA,"Gunther","Kathy",1
+NA,"Gunther","Kid",1
+NA,"Gunther","Larry",1
+NA,"Gunther","Mark",1
+NA,"Gunther","Melissa",1
+NA,"Gunther","Monica",18
+NA,"Gunther","Mr. Geller",1
+NA,"Gunther","Mrs. Geller",1
+NA,"Gunther","Patron",1
+NA,"Gunther","Phoebe",20
+NA,"Gunther","Rachel",24
+NA,"Gunther","Robert",1
+NA,"Gunther","Ross",29
+NA,"Gunther","Sister 1",1
+NA,"Gunther","The Fan",1
+NA,"Gunther","The Stripper",1
+NA,"Gunther","Woman",2
+NA,"Guru Saj","Joey",1
+NA,"Guru Saj","Ross",1
+NA,"Guy","Helena",1
+NA,"Guy","Jim",1
+NA,"Guy","Joey",5
+NA,"Guy","Monica",6
+NA,"Guy","Phoebe",8
+NA,"Guy","Rachel",3
+NA,"Guy","Ross",2
+NA,"Guy #1","Joey",1
+NA,"Guy #1","Woman",1
+NA,"Guy #2","Joey",1
+NA,"Guy #2","The Porsche Owner",1
+NA,"Gym Employee","Ross",1
+NA,"Gym Employee","Woman",1
+NA,"Heather","Rachel",1
+NA,"Helena","Monica",3
+NA,"Helena","Waiter in Drag",1
+NA,"Her Friends","Rachel",1
+NA,"Hilda","Rachel",1
+NA,"Hilda","Tag",1
+NA,"Hombre Man","Joey",3
+NA,"Hombre Man","Store Guy",1
+NA,"Hooker","Joey",2
+NA,"Hooker","Monica",1
+NA,"Host","Joey",1
+NA,"Host","Mike",1
+NA,"Host","Phoebe",1
+NA,"Host","Rachel",1
+NA,"Host","Ross",1
+NA,"Hotel Clerk","Monica",1
+NA,"Hums While He Pees","Monica",1
+NA,"Hums While He Pees","Phoebe",1
+NA,"Hums While He Pees","Ross",1
+NA,"Hypnosis Tape","Joey",1
+NA,"Interviewer","Monica",1
+NA,"Interviewer","Phoebe",1
+NA,"Isabella","Monica",1
+NA,"Isabella","Rachel",1
+NA,"Isabella","Ross",1
+NA,"Jake","Joey",1
+NA,"Jake","Man",1
+NA,"Jake","Monica",1
+NA,"Jake","Phoebe",2
+NA,"Janice","Jester",1
+NA,"Janice","Joey",12
+NA,"Janice","Matress King",1
+NA,"Janice","Monica",5
+NA,"Janice","Phoebe",8
+NA,"Janice","Rachel",6
+NA,"Janice","Ross",6
+NA,"Janice","Ticket Counter Attendant",2
+NA,"Janine","Joey",11
+NA,"Janine","Monica",8
+NA,"Janine","Phoebe",2
+NA,"Janine","Rachel",4
+NA,"Janine","Ross",6
+NA,"Jasmine","Phoebe",1
+NA,"Jason","Phoebe",3
+NA,"Jason","Vince",1
+NA,"Jeannine","Julio",1
+NA,"Jeannine","Monica",1
+NA,"Jen","Joey",1
+NA,"Jen","Ross",2
+NA,"Jen","The Hot Girl",1
+NA,"Jen","The Man",1
+NA,"Jessica Ashley","Joey",1
+NA,"Jessica Ashley","Rachel",1
+NA,"Jester","Joey",1
+NA,"Jester","Monica",1
+NA,"Jill","Joey",3
+NA,"Jill","Monica",3
+NA,"Jill","Phoebe",2
+NA,"Jill","Rachel",8
+NA,"Jill","Ross",6
+NA,"Jill","Woman",2
+NA,"Jim","Phoebe",2
+NA,"Joanna","Mr. Posner",1
+NA,"Joanna","Mrs. Lynch",1
+NA,"Joanna","Rachel",7
+NA,"Joanna","Sophie",4
+NA,"Joey","Joey's Co-Star",1
+NA,"Joey","Joey's Date",1
+NA,"Joey","Joey's Doctor",3
+NA,"Joey","Joey's Hand Twin",2
+NA,"Joey","Joeys Grandmother",1
+NA,"Joey","Joeys Sister",1
+NA,"Joey","Joeys Sisters",2
+NA,"Joey","Joshua",3
+NA,"Joey","Julie",2
+NA,"Joey","Kash",2
+NA,"Joey","Kate",6
+NA,"Joey","Kathy",5
+NA,"Joey","Katie",3
+NA,"Joey","Kid",1
+NA,"Joey","Kids",1
+NA,"Joey","Kitchen Worker",1
+NA,"Joey","Krista",1
+NA,"Joey","Kristen",2
+NA,"Joey","Lauren",3
+NA,"Joey","Leslie",1
+NA,"Joey","Liam",1
+NA,"Joey","Little Girl",1
+NA,"Joey","Mac",1
+NA,"Joey","Man",4
+NA,"Joey","Margha",2
+NA,"Joey","Mary-Angela",1
+NA,"Joey","Mary-Theresa",1
+NA,"Joey","Matress King",1
+NA,"Joey","Melissa",1
+NA,"Joey","Mike",2
+NA,"Joey","Minister",1
+NA,"Joey","Molly",4
+NA,"Joey","Mona",8
+NA,"Joey","Monica",392
+NA,"Joey","Mr. Bing",1
+NA,"Joey","Mr. Bowmont",1
+NA,"Joey","Mr. Geller",14
+NA,"Joey","Mr. Thompson",3
+NA,"Joey","Mr. Treeger",6
+NA,"Joey","Mr. Waltham",1
+NA,"Joey","Mr. Zelner",1
+NA,"Joey","Mrs. Bing",2
+NA,"Joey","Mrs. Geller",12
+NA,"Joey","Mrs. Waltham",1
+NA,"Joey","Nurse",4
+NA,"Joey","Nurse #1",1
+NA,"Joey","Nurse #2",1
+NA,"Joey","Older Scientist",1
+NA,"Joey","Others",1
+NA,"Joey","Parker",3
+NA,"Joey","Passerby",1
+NA,"Joey","Patron",1
+NA,"Joey","Paul",2
+NA,"Joey","PBS Volunteer",1
+NA,"Joey","Pete",4
+NA,"Joey","Pete's Mom",1
+NA,"Joey","Peter",1
+NA,"Joey","Phoebe",386
+NA,"Joey","Phoebe Sr.",1
+NA,"Joey","Photographer",1
+NA,"Joey","Rachel",396
+NA,"Joey","Ray",1
+NA,"Joey","Raymond",1
+NA,"Joey","Richard",6
+NA,"Joey","Robert",2
+NA,"Joey","Ross",394
+NA,"Joey","Sarah",1
+NA,"Joey","Second Girl",1
+NA,"Joey","Singer",2
+NA,"Joey","Sister 1",1
+NA,"Joey","Smart Kid",1
+NA,"Joey","Stage Director",2
+NA,"Joey","Stanley",1
+NA,"Joey","Store Guy",1
+NA,"Joey","Stripper",1
+NA,"Joey","Student",2
+NA,"Joey","Susan",3
+NA,"Joey","Tag",9
+NA,"Joey","Terry",2
+NA,"Joey","The A.D",1
+NA,"Joey","The Acting Teacher",1
+NA,"Joey","The Assistant Director",2
+NA,"Joey","The Casting Director",3
+NA,"Joey","The Cooking Teacher",3
+NA,"Joey","The Director",11
+NA,"Joey","The Doctor",1
+NA,"Joey","The Dry Cleaner",3
+NA,"Joey","The Fan",1
+NA,"Joey","The Food Critic",1
+NA,"Joey","The Girls",2
+NA,"Joey","The Grip",1
+NA,"Joey","The Guys",2
+NA,"Joey","The Little Girl",1
+NA,"Joey","The Man",1
+NA,"Joey","The Man In The Sportscar",1
+NA,"Joey","The Old Man",1
+NA,"Joey","The Porsche Owner",1
+NA,"Joey","The Potential Roommate",2
+NA,"Joey","The Presenter",1
+NA,"Joey","The Producer",1
+NA,"Joey","The Rabbi",1
+NA,"Joey","The Security Guard",1
+NA,"Joey","The Singing Man",2
+NA,"Joey","The Stripper",2
+NA,"Joey","The Vampire",1
+NA,"Joey","The Waiter",3
+NA,"Joey","The Woman",1
+NA,"Joey","Tim",1
+NA,"Joey","Tony",1
+NA,"Joey","Tour Guide",2
+NA,"Joey","Uncle Dan",1
+NA,"Joey","Ursula",2
+NA,"Joey","Vince",1
+NA,"Joey","Voice",1
+NA,"Joey","Waiter",1
+NA,"Joey","Waitress",2
+NA,"Joey","Wayne",3
+NA,"Joey","Wendy",1
+NA,"Joey","Will",2
+NA,"Joey","Woman",13
+NA,"Joey's Co-Star","Kash",1
+NA,"Joey's Co-Star","Rachel",1
+NA,"Joey's Doctor","Monica",2
+NA,"Joey's Doctor","Phoebe",1
+NA,"Joey's Doctor","Rachel",1
+NA,"Joey's Doctor","Ross",2
+NA,"Joey's Hand Twin","Phoebe",1
+NA,"Joey's Hand Twin","The Security Guard",1
+NA,"Joeys Grandmother","Joeys Sister",1
+NA,"Joeys Grandmother","Mary-Angela",1
+NA,"Joeys Grandmother","Mary-Theresa",1
+NA,"Joeys Sister","Mary-Angela",1
+NA,"Joeys Sister","Mary-Theresa",1
+NA,"Joeys Sisters","Monica",1
+NA,"Joeys Sisters","Phoebe",1
+NA,"Joeys Sisters","Rachel",1
+NA,"Joeys Sisters","Ross",1
+NA,"Joeys Sisters","Sister 1",1
+NA,"Josh","Monica",2
+NA,"Josh","Phoebe",2
+NA,"Josh","Rachel",2
+NA,"Josh","Ross",1
+NA,"Joshua","Monica",2
+NA,"Joshua","Mr. Burgin",2
+NA,"Joshua","Mr. Waltham",3
+NA,"Joshua","Mrs. Burgin",2
+NA,"Joshua","Phoebe",2
+NA,"Joshua","Rachel",10
+NA,"Joshua","Ross",3
+NA,"Judge","Rachel",1
+NA,"Judge","Ross",1
+NA,"Julie","Monica",3
+NA,"Julie","Phoebe",4
+NA,"Julie","Rachel",5
+NA,"Julie","Ross",3
+NA,"Julio","Man",1
+NA,"Julio","Monica",2
+NA,"Julio","Quartet",1
+NA,"Kara","Monica",3
+NA,"Karin","Meg",1
+NA,"Karin","Phoebe",1
+NA,"Karin","Ross",1
+NA,"Karin","Stephanie",1
+NA,"Kash","Rachel",2
+NA,"Kash","Ross",1
+NA,"Kate","Lauren",3
+NA,"Kate","The Director",5
+NA,"Kate","Woman",1
+NA,"Kathy","Kathy's Co-Star",1
+NA,"Kathy","Monica",5
+NA,"Kathy","Phoebe",4
+NA,"Kathy","Rachel",5
+NA,"Kathy","Ross",6
+NA,"Kathy","Tag",1
+NA,"Kathy's Co-Star","Ross",1
+NA,"Katie","Monica",1
+NA,"Katie","Phoebe",1
+NA,"Katie","Rachel",4
+NA,"Katie","Ross",3
+NA,"Ken","Others",1
+NA,"Ken","Wendy",1
+NA,"Kid","Monica",1
+NA,"Kid","Rachel",1
+NA,"Kids","Mona",1
+NA,"Kids","Monica",1
+NA,"Kids","Phoebe",1
+NA,"Kids","Rachel",1
+NA,"Kids","Ross",1
+NA,"Kids","Ursula",1
+NA,"Kim","Nancy",4
+NA,"Kim","Rachel",4
+NA,"Kitchen Worker","Monica",1
+NA,"Kitchen Worker","The Waiter",1
+NA,"Kori","Monica",1
+NA,"Kori","Ross",1
+NA,"Kori","Tom",1
+NA,"Krista","Monica",1
+NA,"Krista","Rachel",3
+NA,"Kristen","Ross",3
+NA,"Kyle","Phoebe",1
+NA,"Kyle","Ross",1
+NA,"Kyle","Whitney",1
+NA,"Larry","Monica",1
+NA,"Larry","Phoebe",3
+NA,"Lauren","The Director",2
+NA,"Lauren","Woman",1
+NA,"Leader","Ross",1
+NA,"Lecturer","Rachel",1
+NA,"Lecturer","Ross",1
+NA,"Leslie","Monica",1
+NA,"Leslie","Phoebe",4
+NA,"Leslie","Singer",1
+NA,"Lewis","Morse",1
+NA,"Lewis","Ross",2
+NA,"Liam","Phoebe",1
+NA,"Liam","Ross",2
+NA,"Lisa","Monica",1
+NA,"Lisa","Richard",1
+NA,"Little Girl","Mona",1
+NA,"Little Girl","Monica",1
+NA,"Little Girl","Mr. Geller",1
+NA,"Little Girl","Phoebe",1
+NA,"Little Girl","Rachel",1
+NA,"Little Girl","Ross",1
+NA,"Little Girl","Second Girl",1
+NA,"Lydia","Mel",1
+NA,"Lydia","Ross",1
+NA,"Mac","Monica",1
+NA,"Mac","Phoebe",1
+NA,"Mac","Rachel",1
+NA,"Mac","Ross",1
+NA,"Maitre d'","Monica",1
+NA,"Malcom","Phoebe",2
+NA,"Male Jeweler","Phoebe",2
+NA,"Man","Mark",1
+NA,"Man","Monica",3
+NA,"Man","Mr. Geller",2
+NA,"Man","Mrs. Geller",2
+NA,"Man","Parker",2
+NA,"Man","Phoebe",3
+NA,"Man","Quartet",2
+NA,"Man","Rachel",3
+NA,"Man","Ray",1
+NA,"Man","Ross",3
+NA,"Man","The Bass Barber",1
+NA,"Man","Uncle Dan",1
+NA,"Man","Woman",3
+NA,"Man At The Wedding","Ross",1
+NA,"Man At The Wedding","Woman At The Wedding",1
+NA,"Manny","Mike",1
+NA,"Manny","Monica",1
+NA,"Manny","Phoebe",1
+NA,"Manny","Strange man",1
+NA,"Marge","Phoebe",1
+NA,"Margha","Monica",2
+NA,"Margha","Phoebe",2
+NA,"Margha","Rachel",2
+NA,"Margha","Ross",2
+NA,"Margha","The Guys",1
+NA,"Margha","Woman",1
+NA,"Mark","Quartet",1
+NA,"Mark","Rachel",7
+NA,"Mark","Ross",5
+NA,"Mark","The Bass Barber",1
+NA,"Mark","Woman",1
+NA,"Mary-Angela","Mary-Theresa",1
+NA,"Matire'd","Monica",1
+NA,"Matire'd","Richard",1
+NA,"Matress King","Monica",1
+NA,"Matress King","Phoebe",1
+NA,"Matress King","Ross",1
+NA,"Meg","Phoebe",1
+NA,"Meg","Ross",1
+NA,"Meg","Stephanie",1
+NA,"Megan","Monica",2
+NA,"Megan","Phoebe",2
+NA,"Megan","Rachel",2
+NA,"Mel","Ross",1
+NA,"Melissa","Monica",1
+NA,"Melissa","Phoebe",3
+NA,"Melissa","Rachel",5
+NA,"Melissa","Ross",1
+NA,"Melissa","Tag",1
+NA,"Mike","Molly",1
+NA,"Mike","Monica",3
+NA,"Mike","Phoebe",7
+NA,"Mike","Rachel",2
+NA,"Mike","Ross",2
+NA,"Mike","Strange man",1
+NA,"Minister","Mrs. Geller",1
+NA,"Minister","Rachel",1
+NA,"Minister","Ross",1
+NA,"Molly","Monica",2
+NA,"Molly","Phoebe",1
+NA,"Molly","Rachel",3
+NA,"Molly","Ross",4
+NA,"Molly","Woman",1
+NA,"Mona","Mona's Date",1
+NA,"Mona","Monica",5
+NA,"Mona","Mr. Geller",1
+NA,"Mona","Mrs. Bing",1
+NA,"Mona","Phoebe",5
+NA,"Mona","Rachel",5
+NA,"Mona","Ross",18
+NA,"Mona","Second Girl",1
+NA,"Mona","Ursula",2
+NA,"Mona's Date","Ross",1
+NA,"Monica","Mr. Bing",3
+NA,"Monica","Mr. Geller",26
+NA,"Monica","Mr. Heckles",1
+NA,"Monica","Mr. Treeger",2
+NA,"Monica","Mr. Waltham",2
+NA,"Monica","Mrs. Bing",4
+NA,"Monica","Mrs. Chatracus",1
+NA,"Monica","Mrs. Geller",18
+NA,"Monica","Mrs. Green",5
+NA,"Monica","Mrs. Waltham",2
+NA,"Monica","Nurse",3
+NA,"Monica","Others",1
+NA,"Monica","Parker",3
+NA,"Monica","Patrick",1
+NA,"Monica","Paul",2
+NA,"Monica","Pete",12
+NA,"Monica","Pete's Mom",1
+NA,"Monica","Phoebe",445
+NA,"Monica","Phoebe Sr",1
+NA,"Monica","Photographer",1
+NA,"Monica","Rachel",423
+NA,"Monica","Richard",13
+NA,"Monica","Richards Date",1
+NA,"Monica","Ross",343
+NA,"Monica","Sebastian",1
+NA,"Monica","Second Girl",1
+NA,"Monica","Secretary",1
+NA,"Monica","Singer",2
+NA,"Monica","Sister 1",1
+NA,"Monica","Spokeswoman",1
+NA,"Monica","Strange man",1
+NA,"Monica","Stu",1
+NA,"Monica","Susan",5
+NA,"Monica","Tag",7
+NA,"Monica","The Acting Teacher",1
+NA,"Monica","The Cigarette Guy",1
+NA,"Monica","The Cooking Teacher",3
+NA,"Monica","The Croupier",2
+NA,"Monica","The Doctor",1
+NA,"Monica","The Food Critic",1
+NA,"Monica","The Girls",2
+NA,"Monica","The Guys",3
+NA,"Monica","The Man",2
+NA,"Monica","The Museum Official",2
+NA,"Monica","The Paramedic",1
+NA,"Monica","The Photographer",1
+NA,"Monica","The Professor",1
+NA,"Monica","The Rabbi",1
+NA,"Monica","The Singing Man",1
+NA,"Monica","The Teacher",1
+NA,"Monica","The Vampire",1
+NA,"Monica","The Waiter",2
+NA,"Monica","The Woman",1
+NA,"Monica","Ticket Agent",1
+NA,"Monica","Tim",4
+NA,"Monica","Tom",2
+NA,"Monica","Uncle Dan",1
+NA,"Monica","Ursula",2
+NA,"Monica","Vince",1
+NA,"Monica","Waiter in Drag",1
+NA,"Monica","Waitress",2
+NA,"Monica","Wendy",1
+NA,"Monica","Will",2
+NA,"Monica","Woman",10
+NA,"Morse","Ross",2
+NA,"Mr. Bing","Mr. Geller",3
+NA,"Mr. Bing","Mrs. Bing",3
+NA,"Mr. Bing","Mrs. Geller",3
+NA,"Mr. Bing","Phoebe",3
+NA,"Mr. Bing","Rachel",2
+NA,"Mr. Bing","Ross",3
+NA,"Mr. Bing","The Rabbi",1
+NA,"Mr. Bing","Woman",1
+NA,"Mr. Bowmont","Phoebe",1
+NA,"Mr. Bowmont","Rachel",1
+NA,"Mr. Burgin","Mrs. Burgin",2
+NA,"Mr. Burgin","Rachel",2
+NA,"Mr. Franklin","Ross",1
+NA,"Mr. Geller","Mr. Waltham",1
+NA,"Mr. Geller","Mrs. Bing",3
+NA,"Mr. Geller","Mrs. Geller",17
+NA,"Mr. Geller","Mrs. Waltham",1
+NA,"Mr. Geller","Parker",2
+NA,"Mr. Geller","Phoebe",16
+NA,"Mr. Geller","Rachel",14
+NA,"Mr. Geller","Ross",24
+NA,"Mr. Geller","Second Girl",1
+NA,"Mr. Geller","Tag",1
+NA,"Mr. Geller","The Doctor",1
+NA,"Mr. Geller","The Paramedic",1
+NA,"Mr. Geller","The Rabbi",1
+NA,"Mr. Geller","Uncle Dan",1
+NA,"Mr. Geller","Woman",3
+NA,"Mr. Heckles","Phoebe",1
+NA,"Mr. Heckles","Ross",1
+NA,"Mr. Kaplan","Rachel",1
+NA,"Mr. Posner","Mrs. Lynch",1
+NA,"Mr. Posner","Rachel",1
+NA,"Mr. Simon","Mrs. Potter",1
+NA,"Mr. Simon","Phoebe",1
+NA,"Mr. Simon","Rick",1
+NA,"Mr. Thompson","Phoebe",3
+NA,"Mr. Thompson","Rachel",3
+NA,"Mr. Treeger","Phoebe",3
+NA,"Mr. Treeger","Rachel",2
+NA,"Mr. Treeger","Ross",2
+NA,"Mr. Waltham","Mrs. Geller",1
+NA,"Mr. Waltham","Mrs. Waltham",2
+NA,"Mr. Waltham","Phoebe",1
+NA,"Mr. Waltham","Rachel",6
+NA,"Mr. Waltham","Ross",2
+NA,"Mr. Zelner","Rachel",4
+NA,"Mr. Zelner","Tag",1
+NA,"Mrs. Bing","Mrs. Geller",3
+NA,"Mrs. Bing","Phoebe",4
+NA,"Mrs. Bing","Rachel",3
+NA,"Mrs. Bing","Ross",4
+NA,"Mrs. Bing","The Housekeeper",1
+NA,"Mrs. Bing","The Rabbi",1
+NA,"Mrs. Bing","Woman",1
+NA,"Mrs. Burgin","Rachel",2
+NA,"Mrs. Chatracus","Rachel",1
+NA,"Mrs. Geller","Mrs. Waltham",1
+NA,"Mrs. Geller","Parker",2
+NA,"Mrs. Geller","Phoebe",12
+NA,"Mrs. Geller","Rachel",15
+NA,"Mrs. Geller","Ross",15
+NA,"Mrs. Geller","Tag",1
+NA,"Mrs. Geller","The Doctor",1
+NA,"Mrs. Geller","The Paramedic",1
+NA,"Mrs. Geller","The Rabbi",1
+NA,"Mrs. Geller","Uncle Dan",1
+NA,"Mrs. Geller","Woman",3
+NA,"Mrs. Green","Phoebe",5
+NA,"Mrs. Green","Rachel",5
+NA,"Mrs. Green","Ross",2
+NA,"Mrs. Green","Woman",1
+NA,"Mrs. Lynch","Rachel",2
+NA,"Mrs. Lynch","Sophie",1
+NA,"Mrs. Potter","Phoebe",1
+NA,"Mrs. Potter","Rick",1
+NA,"Mrs. Verhoeven's Daughter","Rachel",1
+NA,"Mrs. Verhoeven's Daughter","Ross",2
+NA,"Mrs. Waltham","Phoebe",1
+NA,"Mrs. Waltham","Rachel",2
+NA,"Mrs. Waltham","Ross",2
+NA,"Ms. Lambert","Ross",1
+NA,"Nancy","Rachel",4
+NA,"Nurse","Phoebe",2
+NA,"Nurse","Rachel",7
+NA,"Nurse","Ross",4
+NA,"Nurse #1","Nurse #2",1
+NA,"Nurse #1","Terry",1
+NA,"Nurse #2","Terry",1
+NA,"Older Scientist","Ross",1
+NA,"Older Scientist","Tour Guide",1
+NA,"Others","Phoebe",1
+NA,"Others","Rachel",1
+NA,"Others","Ross",1
+NA,"Others","Wendy",2
+NA,"Parker","Phoebe",4
+NA,"Parker","Rachel",3
+NA,"Parker","Ross",3
+NA,"Parker","Uncle Dan",1
+NA,"Parker","Woman",2
+NA,"Passerby","Rachel",1
+NA,"Passerby","Ross",1
+NA,"Patrick","Phoebe",1
+NA,"Patrick","Rachel",1
+NA,"Paul","Phoebe",3
+NA,"Paul","Rachel",14
+NA,"Paul","Ross",10
+NA,"PBS Volunteer","Phoebe",1
+NA,"PBS Volunteer","Stage Director",1
+NA,"Pete","Pete's Mom",1
+NA,"Pete","Phoebe",4
+NA,"Pete","Rachel",3
+NA,"Pete","Ross",3
+NA,"Pete","Secretary",1
+NA,"Pete","Spokeswoman",1
+NA,"Pete's Mom","Phoebe",1
+NA,"Pete's Mom","Rachel",1
+NA,"Pete's Mom","Ross",1
+NA,"Peter","Tony",1
+NA,"Phoebe","Phoebe Sr",2
+NA,"Phoebe","Phoebe Sr.",3
+NA,"Phoebe","Photographer",2
+NA,"Phoebe","Rachel",413
+NA,"Phoebe","Rick",2
+NA,"Phoebe","Robert",4
+NA,"Phoebe","Ross",349
+NA,"Phoebe","Sebastian",1
+NA,"Phoebe","Second Girl",1
+NA,"Phoebe","Singer",2
+NA,"Phoebe","Sister 1",1
+NA,"Phoebe","Stage Director",1
+NA,"Phoebe","Stephanie",1
+NA,"Phoebe","Steve",3
+NA,"Phoebe","Strange man",1
+NA,"Phoebe","Supervisor",2
+NA,"Phoebe","Susan",2
+NA,"Phoebe","Tag",10
+NA,"Phoebe","The ""Hey Guy"" Guy",1
+NA,"Phoebe","The Cigarette Guy",1
+NA,"Phoebe","The Croupier",1
+NA,"Phoebe","The Dry Cleaner",2
+NA,"Phoebe","The Fan",1
+NA,"Phoebe","The Fireman",1
+NA,"Phoebe","The Girls",1
+NA,"Phoebe","The Guys",3
+NA,"Phoebe","The Lurker",2
+NA,"Phoebe","The Man",1
+NA,"Phoebe","The Museum Official",1
+NA,"Phoebe","The Rabbi",1
+NA,"Phoebe","The Security Guard",2
+NA,"Phoebe","The Smoking Woman",1
+NA,"Phoebe","The Teacher",3
+NA,"Phoebe","The Vampire",1
+NA,"Phoebe","The Waiter",1
+NA,"Phoebe","Tim",4
+NA,"Phoebe","Trudie Styler",1
+NA,"Phoebe","Uncle Dan",1
+NA,"Phoebe","Ursula",6
+NA,"Phoebe","Vince",3
+NA,"Phoebe","Waiter",1
+NA,"Phoebe","Waitress",1
+NA,"Phoebe","Wendy",1
+NA,"Phoebe","Whitney",2
+NA,"Phoebe","Will",2
+NA,"Phoebe","Woman",9
+NA,"Phoebe Sr","Rachel",1
+NA,"Photographer","Rachel",2
+NA,"Photographer","Ross",1
+NA,"Policeman","Rachel",2
+NA,"Policeman","Ross",2
+NA,"Quartet","Rachel",1
+NA,"Quartet","Ross",1
+NA,"Quartet","The Bass Barber",1
+NA,"Rachel","Richard",1
+NA,"Rachel","Robert",1
+NA,"Rachel","Ross",438
+NA,"Rachel","Russell",1
+NA,"Rachel","Sebastian",1
+NA,"Rachel","Second Girl",1
+NA,"Rachel","Sister 1",1
+NA,"Rachel","Sophie",5
+NA,"Rachel","Susan",2
+NA,"Rachel","Tag",25
+NA,"Rachel","The Bass Barber",1
+NA,"Rachel","The Cigarette Guy",1
+NA,"Rachel","The Doctor",1
+NA,"Rachel","The Girls",2
+NA,"Rachel","The Guys",3
+NA,"Rachel","The Museum Official",1
+NA,"Rachel","The Paramedic",1
+NA,"Rachel","The Presenter",1
+NA,"Rachel","The Professor",1
+NA,"Rachel","The Rabbi",2
+NA,"Rachel","The Salesman",1
+NA,"Rachel","The Singing Man",1
+NA,"Rachel","The Teacher",2
+NA,"Rachel","The Vampire",1
+NA,"Rachel","The Woman",1
+NA,"Rachel","Tim",1
+NA,"Rachel","Tom",1
+NA,"Rachel","Uncle Dan",1
+NA,"Rachel","Ursula",2
+NA,"Rachel","Vince",1
+NA,"Rachel","Waiter",2
+NA,"Rachel","Waitress",2
+NA,"Rachel","Wendy",1
+NA,"Rachel","Will",2
+NA,"Rachel","Woman",10
+NA,"Rachel","Woman No. 1",1
+NA,"Rachel","Woman No. 2",1
+NA,"Raymond","Ross",1
+NA,"Raymond","The Casting Director",1
+NA,"Richard","Richards Date",1
+NA,"Richard","The Assistant Director",2
+NA,"Richard","The Director",5
+NA,"Richard","Waitress",1
+NA,"Robert","Ross",4
+NA,"Ross","Russell",1
+NA,"Ross","Salesman",1
+NA,"Ross","Sarah",4
+NA,"Ross","Sebastian",1
+NA,"Ross","Second Dorm Guy",1
+NA,"Ross","Second Girl",1
+NA,"Ross","Singer",1
+NA,"Ross","Sister 1",1
+NA,"Ross","Stephanie",1
+NA,"Ross","Steve",3
+NA,"Ross","Student",1
+NA,"Ross","Susan",7
+NA,"Ross","Tag",8
+NA,"Ross","The Bass Barber",1
+NA,"Ross","The Casting Director",2
+NA,"Ross","The Conductor",1
+NA,"Ross","The Doctor",2
+NA,"Ross","The Girls",1
+NA,"Ross","The Guys",2
+NA,"Ross","The Hot Girl",1
+NA,"Ross","The Little Girl",1
+NA,"Ross","The Man",1
+NA,"Ross","The Man In The Sportscar",1
+NA,"Ross","The Old Man",1
+NA,"Ross","The Paramedic",1
+NA,"Ross","The Professor",1
+NA,"Ross","The Rabbi",1
+NA,"Ross","The Salesman",1
+NA,"Ross","The Saleswoman",1
+NA,"Ross","The Stripper",2
+NA,"Ross","The Vampire",1
+NA,"Ross","Tim",1
+NA,"Ross","Tom",1
+NA,"Ross","Tour Guide",2
+NA,"Ross","Uncle Dan",1
+NA,"Ross","Ursula",2
+NA,"Ross","Vince",1
+NA,"Ross","Wendy",1
+NA,"Ross","Whitney",2
+NA,"Ross","Will",2
+NA,"Ross","Woman",13
+NA,"Ross","Woman At The Wedding",1
+NA,"Ross","Woman On Train",1
+NA,"Ross","Zoe",1
+NA,"Sarah","Second Dorm Guy",1
+NA,"Sarah","Zoe",1
+NA,"Second Dorm Guy","Zoe",1
+NA,"Stanley","The Grip",1
+NA,"Supervisor","The ""Hey Guy"" Guy",1
+NA,"The Assistant Director","The Director",2
+NA,"The Conductor","Woman On Train",1
+NA,"The Cooking Teacher","The Food Critic",1
+NA,"The Director","Woman",1
+NA,"The Doctor","The Paramedic",1
+NA,"The Hot Girl","The Man",1
+NA,"The Little Girl","The Old Man",1
+NA,"The Lurker","The Security Guard",1
+NA,"The Producer","Wayne",1
+NA,"Ticket Agent","Woman",1
+NA,"Uncle Dan","Woman",1
+NA,"Waiter","Waiter No. 2",1
+NA,"Waitress","Woman",1
+NA,"Woman No. 1","Woman No. 2",1
