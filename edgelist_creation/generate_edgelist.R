@@ -1,17 +1,23 @@
-raw_results <- data.frame(season = integer(), from = character(), to = character())
+library(dplyr)
+source('scrape_friends.R')
+source('unique_pairs.R')
+
+raw_results <- data.frame(season = integer(), from = character(), to = character(), stringsAsFactors = FALSE)
 
 for (season in 1:10) {
   
-  season_results <- data.frame(from = character(), to = character())
+  season_results <- data.frame(from = character(), to = character(), stringsAsFactors = FALSE)
   
   for (episode in 1:25) {
-    print(paste("Scraping Season", season, "Episode", episode))
+    
+    message(paste("Scraping Season", season, "Episode", episode))
+    
     scrape <- tryCatch(
       scrape_friends(season, episode),
-      error = function(e) {data.frame(from = character(), to = character())}
+      error = function(e) {data.frame(from = character(), to = character(), stringsAsFactors = FALSE)}
     )
     
-    result <- data.frame(from = character(), to = character())
+    result <- data.frame(from = character(), to = character(), stringsAsFactors = FALSE)
     
     if (nrow(scrape) > 0) {
       for (i in 1:max(scrape$scene)) {
@@ -24,7 +30,7 @@ for (season in 1:10) {
           dplyr::bind_rows(result_new) 
       } 
     } else {
-      result <- data.frame(from = character(), to = character())
+      result <- data.frame(from = character(), to = character(), stringsAsFactors = FALSE)
     }
     
    season_results <- season_results %>% 
@@ -53,4 +59,4 @@ if (!dir.exists("data")) {
   dir.create("data")
 }
 
-write.csv(edges, "data/friends_edgelist.csv", row.names = FALSE)
+saveRDS(edges, "data/friends_edgelist.RDS")

@@ -1,4 +1,5 @@
 library(rvest)
+library(stringr)
 
 scrape_friends <- function(season = 1, episode = 1) {
   
@@ -16,20 +17,25 @@ scrape_friends <- function(season = 1, episode = 1) {
   for (i in 1: length(nodes)) {
     if (grepl("Scene:", html_text(nodes[i]))) {
       node_text[i] <- "New Scene"
-    } else if (length(rvest::html_nodes(nodes[i], "b")) == 0) {
+    } else if (length(rvest::html_nodes(nodes[i], "b")) == 0 & length(rvest::html_nodes(nodes[i], "strong")) == 0) {
       node_text[i] <- "Nothing"
-    } else if (grepl("Commercial|Credits|End", html_text(nodes[i]))) {
-      node_text[i] <- "Nothing"
+    } else if (season == 10) {
+      node_text[i] <- nodes[i] %>% 
+        stringr::str_extract("(?<=<strong>).+?(?=</strong>:)")
     } else {
       node_text[i] <- nodes[i] %>% 
-        rvest::html_nodes("b") %>% 
-        rvest::html_text() %>% 
-        subset(grepl(".:", .)) %>% 
-        gsub(":", "", .) 
+        stringr::str_extract("(?<=<b>).+?(?=:</b>)")
     }
+
+      
   }
   
-  node_text <- node_text[!grepl(" and |All|Nothing", node_text)]
+  node_text <- node_text[!grepl("/| and |All|Nothing", node_text)]
+  node_text <- node_text[nchar(node_text) < 20]
+  node_text <- gsub("<b>", "", node_text)
+  node_text <- gsub("father", "dad", node_text)
+  node_text <- gsub("mother", "mom", node_text)
+  
   
   scene_count <- c()
   
