@@ -23,9 +23,9 @@ for (i in 1:10) {
            dplyr::select(-season) %>% 
            as.data.frame()
   
-  for (i in 1:nrow(df)) {
+  for (j in 1:nrow(df)) {
     
-    df[i, c("from", "to")] <- sort(df[i, c("from", "to")])
+    df[j, c("from", "to")] <- sort(df[j, c("from", "to")])
     
   }
   
