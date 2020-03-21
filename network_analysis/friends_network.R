@@ -3,6 +3,8 @@ library(readr)
 library(igraph)
 
 friends_network <- function(season = NULL, edgelist = NULL, type = c("mds", "sphere")) {
+  
+  friends <- c("Phoebe", "Monica", "Rachel", "Joey", "Ross", "Chandler")
 
   edgelist_matrix <- as.matrix(edgelist[ ,c("from", "to")])
   
@@ -41,7 +43,7 @@ friends_network <- function(season = NULL, edgelist = NULL, type = c("mds", "sph
   
   # only label central characters
   
-  v_labels <- which(V(graph)$name %in% high_btwn_nodes)
+  v_labels <- which(V(graph)$name %in% friends)
   
   for (i in 1:length(V(graph))) {
     if (!(i %in% v_labels)) {
