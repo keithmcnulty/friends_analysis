@@ -67,7 +67,7 @@ scrape_friends <- function(season = 1, episode = 1) {
   # manual leaveouts and replacements - gets us 98% of the way I reckon 
   nodes <- nodes[!is.na(nodes)]
   nodes <- trimws(nodes)
-  nodes <- nodes[!grepl("/| and |all|everybody|&|by|position|aired|both|,|from|at 8|end|time|commercial|\\(|\\[|letters| to |it's|it was|kudrow|perry|cox|aniston|schwimmer|leblanc|look|could|walks|everyone|teleplay|story", tolower(nodes))]
+  nodes <- nodes[!grepl("/| and |all|everybody|&|by|position|aired|both|,|from|at 8|end|time|commercial|\\(|\\[|letters| to |it's|it was|kudrow|perry|cox|aniston|schwimmer|leblanc|look|could|walks|everyone|teleplay|story|together", tolower(nodes))]
   nodes <- nodes[nchar(nodes) < 20]
   nodes <- nodes[!grepl("^[a-z]|^[0-9]|^[[:punct:]]", nodes)]
   nodes <- gsub("<b>|\n", "", nodes)
@@ -81,7 +81,8 @@ scrape_friends <- function(season = 1, episode = 1) {
   nodes <- ifelse(nodes == "Phoe", "Phoebe", nodes)
   nodes <- ifelse(nodes == "Rach", "Rachel", nodes)
   nodes <- ifelse(nodes == "Chan", "Chandler", nodes)
-  
+  nodes <- ifelse(nodes == "Billy", "Billy Crystal", nodes)
+  nodes <- ifelse(nodes == "Robin", "Robin Williams", nodes)
   
   # number each scene
   scene_count <- c()

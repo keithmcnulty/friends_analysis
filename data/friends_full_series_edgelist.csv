@@ -319,21 +319,11 @@
 "Bill","Owen",2
 "Bill","Phoebe",1
 "Bill","Rachel",1
-"Billy","Billy Crystal",1
-"Billy","Chandler",1
-"Billy","Joey",1
-"Billy","Monica",1
-"Billy","Phoebe",1
-"Billy","Rachel",1
-"Billy","Robin",1
-"Billy","Robin Williams",1
-"Billy","Ross",1
 "Billy Crystal","Chandler",1
 "Billy Crystal","Joey",1
 "Billy Crystal","Monica",1
 "Billy Crystal","Phoebe",1
 "Billy Crystal","Rachel",1
-"Billy Crystal","Robin",1
 "Billy Crystal","Robin Williams",1
 "Billy Crystal","Ross",1
 "Bitter Lady","Chandler",2
@@ -381,7 +371,6 @@
 "Boys","Ross",1
 "Boys","Stephanie",1
 "Boys","Terry",1
-"Boys","Together",1
 "Burt","Elizabeth",3
 "Burt","Lydia",1
 "Burt","Mel",1
@@ -456,7 +445,6 @@
 "Caroline","Ross",1
 "Caroline","Stephanie",1
 "Caroline","Terry",1
-"Caroline","Together",1
 "Casey","Chandler",1
 "Casey","Joey",1
 "Cashier","Rachel",1
@@ -698,7 +686,6 @@
 "Chandler","Richard's Date",1
 "Chandler","Rob",3
 "Chandler","Robert",4
-"Chandler","Robin",1
 "Chandler","Robin Williams",1
 "Chandler","Roger",2
 "Chandler","Ronni",3
@@ -752,7 +739,6 @@
 "Chandler","Ticket Agent",1
 "Chandler","Tilly",1
 "Chandler","Tim",1
-"Chandler","Together",1
 "Chandler","Tom",1
 "Chandler","Tommy",2
 "Chandler","Tony",1
@@ -1000,7 +986,6 @@
 "Doctor","Ross",3
 "Doctor","Stephanie",1
 "Doctor","Terry",1
-"Doctor","Together",1
 "Doctor","Woman Giving Birth",1
 "Doctor Connelly","Monica",1
 "Don","Monica",2
@@ -1831,7 +1816,6 @@
 "Joey","Richard",11
 "Joey","Rob",1
 "Joey","Robert",2
-"Joey","Robin",1
 "Joey","Robin Williams",1
 "Joey","Roger",2
 "Joey","Ronni",3
@@ -1896,7 +1880,6 @@
 "Joey","The Woman Dealer",1
 "Joey","The Writer",1
 "Joey","Tim",1
-"Joey","Together",1
 "Joey","Tony",1
 "Joey","Tour Guide",2
 "Joey","Trainer",1
@@ -2022,7 +2005,6 @@
 "Kid","Ross",3
 "Kid","Stephanie",1
 "Kid","Terry",1
-"Kid","Together",1
 "Kids","Mona",1
 "Kids","Monica",2
 "Kids","Phoebe",2
@@ -2348,7 +2330,6 @@
 "Monica","Richard",35
 "Monica","Richard's Date",2
 "Monica","Rob",3
-"Monica","Robin",1
 "Monica","Robin Williams",1
 "Monica","Roger",3
 "Monica","Ronni",1
@@ -2409,7 +2390,6 @@
 "Monica","The Woman",3
 "Monica","Ticket Agent",1
 "Monica","Tim",4
-"Monica","Together",1
 "Monica","Tom",2
 "Monica","Tommy",1
 "Monica","Trainer",1
@@ -2686,7 +2666,6 @@
 "Phoebe","Rita",1
 "Phoebe","Rob",4
 "Phoebe","Robert",4
-"Phoebe","Robin",1
 "Phoebe","Robin Williams",1
 "Phoebe","Roger",4
 "Phoebe","Ross",649
@@ -2745,7 +2724,6 @@
 "Phoebe","The Woman",1
 "Phoebe","Ticket Agent",1
 "Phoebe","Tim",4
-"Phoebe","Together",1
 "Phoebe","Tom",1
 "Phoebe","Tommy",1
 "Phoebe","Trainer",1
@@ -2797,7 +2775,6 @@
 "Rachel","Rob",3
 "Rachel","Robbie",2
 "Rachel","Robert",1
-"Rachel","Robin",1
 "Rachel","Robin Williams",1
 "Rachel","Roger",3
 "Rachel","Ronni",1
@@ -2847,7 +2824,6 @@
 "Rachel","The Woman",2
 "Rachel","Ticket Agent",2
 "Rachel","Tim",1
-"Rachel","Together",1
 "Rachel","Tom",2
 "Rachel","Tommy",3
 "Rachel","Trainer",1
@@ -2891,8 +2867,6 @@
 "Robbie","Ross",1
 "Robbie","Susan",1
 "Robert","Ross",4
-"Robin","Robin Williams",1
-"Robin","Ross",1
 "Robin Williams","Ross",1
 "Roger","Ross",3
 "Ross","Roy",1
@@ -2949,7 +2923,6 @@
 "Ross","The Woman",2
 "Ross","Ticket Agent",2
 "Ross","Tim",1
-"Ross","Together",1
 "Ross","Tom",1
 "Ross","Tommy",3
 "Ross","Tour Guide",2
@@ -2999,7 +2972,6 @@
 "Soothing Male Voice","Teacher",1
 "Stanley","The Grip",1
 "Stephanie","Terry",1
-"Stephanie","Together",1
 "Steve","Tv",1
 "Steve","Waiter",2
 "Steve","Waitress",1
@@ -3010,7 +2982,6 @@
 "Susie","Van Damme",1
 "Teacher","Woman",2
 "Terry","The Director",1
-"Terry","Together",1
 "The Colonel","The Waitress",1
 "The Conductor","Woman on Train",1
 "The Cooking Teacher","The Food Critic",1
