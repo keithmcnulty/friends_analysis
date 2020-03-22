@@ -8,7 +8,7 @@ var svg = d3.select("svg"),
 var search = d3.select("body").append('center').append('form').attr('onsubmit', 'return false;');
 
 // A slider that removes nodes below the input threshold.
-var slider = d3.select('body').append('p').append('center').text('Minimum number of scenes for connection: ').style('font-size', '60%');
+var slider = d3.select('body').append('p').append('center').text('Minimum number of scenes for connection: ').style('font-size', '75%');
 
 
 var change = function() {
