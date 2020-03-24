@@ -12,7 +12,7 @@ var slider = d3.select('body').append('p').append('center').text('Minimum number
 
 
 var change = function() {
-  var source = "https://raw.githubusercontent.com/keithmcnulty/friends_analysis/master/data/friends_network_s" + dropdown.node().options[dropdown.node().selectedIndex].value + ".json";
+  var source = "https://raw.githubusercontent.com/keithmcnulty/friends_analysis/master/data-by-season/friends_network_s" + dropdown.node().options[dropdown.node().selectedIndex].value + ".json";
 
   svg.selectAll("*").remove();
   search.selectAll("*").remove();
