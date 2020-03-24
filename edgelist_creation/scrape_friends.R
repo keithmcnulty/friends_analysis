@@ -88,6 +88,7 @@ scrape_friends <- function(season = 1, episode = 1) {
   nodes <- ifelse(nodes == "Billy", "Billy Crystal", nodes)
   nodes <- ifelse(nodes == "Robin", "Robin Williams", nodes)
   nodes <- ifelse(tolower(nodes) == "amger", "amber", nodes)
+  nodes <- ifelse(tolower(nodes) == "gunter", "gunther", nodes)
   
   # number each scene
   scene_count <- c()
