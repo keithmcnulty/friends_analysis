@@ -73,8 +73,8 @@
 "Alexandra Steele","Rachel",1
 "Alice","Chandler",4
 "Alice","Dan",1
-"Alice","Dr. Harad",1
-"Alice","Dr. Zane",1
+"Alice","Dr Harad",1
+"Alice","Dr Zane",1
 "Alice","Frank",8
 "Alice","Joey",3
 "Alice","Joey's Doctor",1
@@ -87,9 +87,9 @@
 "Alison","Janice",1
 "Alison","Joey",1
 "Alison","Monica",1
-"Alison","Mr. Boyle",1
-"Alison","Mr. Heckles",1
-"Alison","Mr. Treeger",1
+"Alison","Mr Boyle",1
+"Alison","Mr Heckles",1
+"Alison","Mr Treeger",1
 "Alison","Phoebe",1
 "Alison","Rachel",1
 "Alison","Ross",1
@@ -101,8 +101,7 @@
 "Amanda","Ross",1
 "Amber","Chandler",2
 "Amber","Dr Horton",1
-"Amber","Dr. Horton",1
-"Amber","Dr. Remore",2
+"Amber","Dr Remore",2
 "Amber","Intercom",1
 "Amber","Joey",1
 "Amber","Monica",2
@@ -137,8 +136,8 @@
 "Andrea","Chandler",1
 "Andrea","Joey",1
 "Andrea","Monica",1
-"Andrea","Mr. Geller",1
-"Andrea","Mrs. Geller",1
+"Andrea","Mr Geller",1
+"Andrea","Mrs Geller",1
 "Andrea","Phoebe",1
 "Andrea","Rachel",1
 "Andrea","Ross",1
@@ -199,7 +198,7 @@
 "Ashley","Little Girl",1
 "Ashley","Mona",1
 "Ashley","Monica",1
-"Ashley","Mr. Geller",1
+"Ashley","Mr Geller",1
 "Ashley","Phoebe",1
 "Ashley","Rachel",1
 "Ashley","Ross",1
@@ -209,16 +208,16 @@
 "Aunt Iris","Phoebe",1
 "Aunt Iris","Rachel",1
 "Aunt Lillian","Monica",1
-"Aunt Lillian","Mr. Geller",1
-"Aunt Lillian","Mrs. Geller",2
+"Aunt Lillian","Mr Geller",1
+"Aunt Lillian","Mrs Geller",2
 "Aunt Lillian","Nurse",1
 "Aunt Lillian","Ross",2
 "Aunt Lisa","Chandler",2
 "Aunt Lisa","Joey",2
 "Aunt Lisa","Man",2
 "Aunt Lisa","Monica",2
-"Aunt Lisa","Mr. Geller",2
-"Aunt Lisa","Mrs. Geller",2
+"Aunt Lisa","Mr Geller",2
+"Aunt Lisa","Mrs Geller",2
 "Aunt Lisa","Parker",2
 "Aunt Lisa","Phoebe",2
 "Aunt Lisa","Rachel",2
@@ -243,8 +242,8 @@
 "Bandleader","Little Girl",1
 "Bandleader","Mona",2
 "Bandleader","Monica",2
-"Bandleader","Mr. Geller",1
-"Bandleader","Mrs. Bing",1
+"Bandleader","Mr Geller",1
+"Bandleader","Mrs Bing",1
 "Bandleader","Phoebe",2
 "Bandleader","Rachel",2
 "Bandleader","Ross",2
@@ -252,15 +251,15 @@
 "Bandleader","Waiter",1
 "Bandleader","Woman",1
 "Bank Officer","Chandler",1
-"Bank Officer","Ms. Lambert",1
+"Bank Officer","Ms Lambert",1
 "Bank Officer","Ross",1
 "Barry","Bernice",3
 "Barry","Best Man",1
 "Barry","Carol",1
 "Barry","Mindy",2
 "Barry","Monica",1
-"Barry","Mr. Wineburg",1
-"Barry","Mrs. Wineburg",1
+"Barry","Mr Wineburg",1
+"Barry","Mrs Wineburg",1
 "Barry","Rachel",9
 "Barry","Richard",1
 "Barry","Robbie",2
@@ -279,8 +278,8 @@
 "Ben","Susan",1
 "Ben","The Teacher",1
 "Benjamin","Charlie",2
-"Benjamin","Dr. Biely",1
-"Benjamin","Dr. Li",1
+"Benjamin","Dr Biely",1
+"Benjamin","Dr Li",1
 "Benjamin","Ross",4
 "Bernice","Carol",1
 "Bernice","Mindy",1
@@ -299,8 +298,8 @@
 "Big Nosed Rachel","Chandler",1
 "Big Nosed Rachel","Fat Monica",1
 "Big Nosed Rachel","Monica",1
-"Big Nosed Rachel","Mr. Geller",1
-"Big Nosed Rachel","Mrs. Geller",1
+"Big Nosed Rachel","Mr Geller",1
+"Big Nosed Rachel","Mrs Geller",1
 "Big Nosed Rachel","Ross",1
 "Bill","Chandler",2
 "Bill","Colleen",2
@@ -328,7 +327,7 @@
 "Bob","Chandler",5
 "Bob","Joey",2
 "Bob","Monica",1
-"Bob","Mr. Franklin",2
+"Bob","Mr Franklin",2
 "Bob","Phoebe",1
 "Bob","Ross",1
 "Bonnie","Chandler",6
@@ -401,8 +400,8 @@
 "Carl","Ross",1
 "Carl","The Doctor",1
 "Carol","Chandler",12
-"Carol","Dr. Franzblau",4
-"Carol","Dr. Oberman",1
+"Carol","Dr Franzblau",4
+"Carol","Dr Oberman",1
 "Carol","Emily",2
 "Carol","Helen",1
 "Carol","Joey",12
@@ -412,8 +411,8 @@
 "Carol","Minister",1
 "Carol","Monica",11
 "Carol","Mr a",1
+"Carol","Mr Green",1
 "Carol","Mrs Green",1
-"Carol","Mrs. Green",1
 "Carol","Nina",1
 "Carol","Nurse",2
 "Carol","Phoebe",9
@@ -487,12 +486,11 @@
 "Chandler","Doctor Connelly",1
 "Chandler","Don",2
 "Chandler","Doug",10
+"Chandler","Dr Baldhara",1
+"Chandler","Dr Franzblau",2
+"Chandler","Dr Harad",4
 "Chandler","Dr Horton",1
-"Chandler","Dr. Baldhara",1
-"Chandler","Dr. Franzblau",2
-"Chandler","Dr. Harad",4
-"Chandler","Dr. Horton",1
-"Chandler","Dr. Remore",2
+"Chandler","Dr Remore",2
 "Chandler","Drew",1
 "Chandler","Drunk Man",1
 "Chandler","Drunken Gambler",2
@@ -628,25 +626,25 @@
 "Chandler","Mona",5
 "Chandler","Monica",938
 "Chandler","Mr a",1
-"Chandler","Mr. Bing",2
-"Chandler","Mr. Boyle",1
-"Chandler","Mr. Douglas",3
-"Chandler","Mr. Franklin",2
-"Chandler","Mr. Geller",30
-"Chandler","Mr. Greene",3
-"Chandler","Mr. Heckles",4
-"Chandler","Mr. Treeger",3
-"Chandler","Mr. Tribbiani",3
-"Chandler","Mr. Waltham",2
+"Chandler","Mr Bing",2
+"Chandler","Mr Boyle",1
+"Chandler","Mr Douglas",3
+"Chandler","Mr Franklin",2
+"Chandler","Mr Geller",30
+"Chandler","Mr Green",1
+"Chandler","Mr Greene",3
+"Chandler","Mr Heckles",4
+"Chandler","Mr Treeger",3
+"Chandler","Mr Tribbiani",3
+"Chandler","Mr Waltham",2
+"Chandler","Mrs Bing",6
+"Chandler","Mrs Geller",24
 "Chandler","Mrs Green",1
-"Chandler","Mrs. Bing",6
-"Chandler","Mrs. Geller",24
-"Chandler","Mrs. Green",1
-"Chandler","Mrs. Greene",3
-"Chandler","Mrs. Tedlock",1
-"Chandler","Mrs. Waltham",5
-"Chandler","Ms. Lambert",1
-"Chandler","Ms. Mckenna",3
+"Chandler","Mrs Greene",3
+"Chandler","Mrs Tedlock",1
+"Chandler","Mrs Waltham",5
+"Chandler","Ms Lambert",1
+"Chandler","Ms Mckenna",3
 "Chandler","Nina",4
 "Chandler","Nurse",8
 "Chandler","Others",2
@@ -767,7 +765,7 @@
 "Charlie","Matthew Ashford",1
 "Charlie","Mike",2
 "Charlie","Monica",8
-"Charlie","Mr. Oberblau",1
+"Charlie","Mr Oberblau",1
 "Charlie","Paleontologist",1
 "Charlie","Phoebe",10
 "Charlie","Professor Spafford",2
@@ -789,8 +787,8 @@
 "Cheryl","Ross",3
 "Chip","Joey",1
 "Chip","Monica",5
-"Chip","Mr. Geller",1
-"Chip","Mrs. Geller",1
+"Chip","Mr Geller",1
+"Chip","Mrs Geller",1
 "Chip","Phoebe",1
 "Chip","Rachel",3
 "Chip","Ross",2
@@ -872,7 +870,7 @@
 "Cut to","Monica",1
 "Cynthia","Joey",1
 "Cynthia","Rachel",1
-"Dan","Dr. Harad",2
+"Dan","Dr Harad",2
 "Dan","Frank",2
 "Dan","Joey",1
 "Dan","Joey's Doctor",1
@@ -911,7 +909,7 @@
 "David","Sandy",1
 "David","Zack",1
 "Delivery Girl","Ross",1
-"Delivery Guy","Dr. Burke",1
+"Delivery Guy","Dr Burke",1
 "Delivery Guy","Joey",1
 "Delivery Guy","Monica",1
 "Dennis Phillips","Fat Girl",1
@@ -921,8 +919,8 @@
 "Dennis Phillips","Little Girl",1
 "Dennis Phillips","Mona",2
 "Dennis Phillips","Monica",2
-"Dennis Phillips","Mr. Geller",1
-"Dennis Phillips","Mrs. Bing",1
+"Dennis Phillips","Mr Geller",1
+"Dennis Phillips","Mrs Bing",1
 "Dennis Phillips","Phoebe",2
 "Dennis Phillips","Rachel",2
 "Dennis Phillips","Ross",2
@@ -946,7 +944,7 @@
 "Dina","Rachel",4
 "Dina","The Director",2
 "Dina","The Writer",1
-"Director","Dr. Drake Ramoray",1
+"Director","Dr Drake Ramoray",1
 "Director","Extra",1
 "Director","Girl",1
 "Director","Janine",1
@@ -964,8 +962,8 @@
 "Dirk","Monica",1
 "Dirk","Rachel",1
 "Dirk","Ross",1
-"Doctor","Dr. Long",1
-"Doctor","Dr. Timothy Burke",1
+"Doctor","Dr Long",1
+"Doctor","Dr Timothy Burke",1
 "Doctor","Erica",2
 "Doctor","Joey",2
 "Doctor","Kid",1
@@ -993,117 +991,107 @@
 "Doug","Monica",4
 "Doug","Phil",1
 "Doug","Stevens",2
-"Dr Green","Dr. Green",1
-"Dr Green","Rachel",1
-"Dr Green","Ross",1
-"Dr Horton","Dr. Horton",1
-"Dr Horton","Dr. Remore",1
+"Dr Baldhara","Joey",1
+"Dr Baldhara","Ross",1
+"Dr Biely","Dr Li",1
+"Dr Biely","Ross",1
+"Dr Burke","Monica",4
+"Dr Burke","Phoebe",2
+"Dr Drake Ramoray","Joey",1
+"Dr Drake Ramoray","Joey's Co-Star",1
+"Dr Drake Ramoray","Kash",1
+"Dr Drake Ramoray","Rachel",1
+"Dr Drake Remoray","Dr Wesley",1
+"Dr Drake Remoray","Hope",1
+"Dr Drake Remoray","Nurse",1
+"Dr Drake Remoray","Rachel",1
+"Dr Franzblau","Joey",1
+"Dr Franzblau","Monica",1
+"Dr Franzblau","Nurse",2
+"Dr Franzblau","Phoebe",1
+"Dr Franzblau","Rachel",4
+"Dr Franzblau","Ross",2
+"Dr Franzblau","Susan",2
+"Dr Gettleman","Rachel",1
+"Dr Gettleman","Receptionist",1
+"Dr Gettleman","Ross",1
+"Dr Green","Joey",2
+"Dr Green","Mona",3
+"Dr Green","Nurse",1
+"Dr Green","Phoebe",3
+"Dr Green","Rachel",7
+"Dr Green","Ross",7
+"Dr Green","Waiter",1
+"Dr Harad","Frank",4
+"Dr Harad","Joey",3
+"Dr Harad","Joey's Doctor",1
+"Dr Harad","Monica",3
+"Dr Harad","Nurse",1
+"Dr Harad","Phoebe",5
+"Dr Harad","Rachel",4
+"Dr Harad","Ross",3
+"Dr Horton","Dr Remore",1
 "Dr Horton","Intercom",1
 "Dr Horton","Monica",1
 "Dr Horton","Phoebe",1
 "Dr Horton","Rachel",1
 "Dr Horton","Ross",1
-"Dr. Baldhara","Joey",1
-"Dr. Baldhara","Ross",1
-"Dr. Biely","Dr. Li",1
-"Dr. Biely","Ross",1
-"Dr. Burke","Monica",4
-"Dr. Burke","Phoebe",2
-"Dr. Drake Ramoray","Joey",1
-"Dr. Drake Ramoray","Joey's Co-Star",1
-"Dr. Drake Ramoray","Kash",1
-"Dr. Drake Ramoray","Rachel",1
-"Dr. Drake Remoray","Dr. Wesley",1
-"Dr. Drake Remoray","Hope",1
-"Dr. Drake Remoray","Nurse",1
-"Dr. Drake Remoray","Rachel",1
-"Dr. Franzblau","Joey",1
-"Dr. Franzblau","Monica",1
-"Dr. Franzblau","Nurse",2
-"Dr. Franzblau","Phoebe",1
-"Dr. Franzblau","Rachel",4
-"Dr. Franzblau","Ross",2
-"Dr. Franzblau","Susan",2
-"Dr. Gettleman","Rachel",1
-"Dr. Gettleman","Receptionist",1
-"Dr. Gettleman","Ross",1
-"Dr. Green","Joey",2
-"Dr. Green","Mona",3
-"Dr. Green","Nurse",1
-"Dr. Green","Phoebe",3
-"Dr. Green","Rachel",7
-"Dr. Green","Ross",7
-"Dr. Green","Waiter",1
-"Dr. Harad","Frank",4
-"Dr. Harad","Joey",3
-"Dr. Harad","Joey's Doctor",1
-"Dr. Harad","Monica",3
-"Dr. Harad","Nurse",1
-"Dr. Harad","Phoebe",5
-"Dr. Harad","Rachel",4
-"Dr. Harad","Ross",3
-"Dr. Horton","Dr. Remore",1
-"Dr. Horton","Intercom",1
-"Dr. Horton","Monica",1
-"Dr. Horton","Phoebe",1
-"Dr. Horton","Rachel",1
-"Dr. Horton","Ross",1
-"Dr. Johnson","Dr. Rhodes",1
-"Dr. Johnson","Ross",1
-"Dr. Ledbetter","Ross",1
-"Dr. Leedbetter","Joey",1
-"Dr. Leedbetter","Monica",1
-"Dr. Leedbetter","Phoebe",1
-"Dr. Leedbetter","Rachel",1
-"Dr. Leedbetter","Ross",2
-"Dr. Li","Ross",1
-"Dr. Long","Joey",1
-"Dr. Long","Julie",1
-"Dr. Long","Man",1
-"Dr. Long","Marc",1
-"Dr. Long","Nurse",1
-"Dr. Long","Rachel",8
-"Dr. Long","Ross",8
-"Dr. Long","Woman",1
-"Dr. Long","Woman Giving Birth",1
-"Dr. Miller","Monica",1
-"Dr. Miller","Rachel",1
-"Dr. Miller","The Doctor",1
-"Dr. Mitchell","Dr. Rosen",1
-"Dr. Mitchell","Monica",1
-"Dr. Mitchell","Rachel",1
-"Dr. Oberman","Frank",1
-"Dr. Oberman","Phoebe",1
-"Dr. Oberman","Ross",2
-"Dr. Oberman","Susan",1
-"Dr. Remore","Intercom",1
-"Dr. Remore","Joey",1
-"Dr. Remore","Monica",2
-"Dr. Remore","Phoebe",1
-"Dr. Remore","Rachel",2
-"Dr. Remore","Ross",2
-"Dr. Rhodes","Ross",2
-"Dr. Roger","Monica",1
-"Dr. Rosen","Monica",1
-"Dr. Rosen","Rachel",1
-"Dr. Schiff","Nurse",1
-"Dr. Schiff","Rachel",1
-"Dr. Stryker Remoray","Joey",1
-"Dr. Stryker Remoray","Nurse #1",1
-"Dr. Stryker Remoray","Nurse #2",1
-"Dr. Stryker Remoray","Terry",1
-"Dr. Stryker Remoray","The Director",1
-"Dr. Timothy Burke","Monica",1
-"Dr. Timothy Burke","Nurse",1
-"Dr. Timothy Burke","Rachel",1
-"Dr. Wesley","Hope",1
-"Dr. Wesley","Nurse",1
-"Dr. Wesley","Rachel",1
-"Dr. Zane","Frank",1
-"Dr. Zane","Phoebe",2
+"Dr Johnson","Dr Rhodes",1
+"Dr Johnson","Ross",1
+"Dr Ledbetter","Ross",1
+"Dr Leedbetter","Joey",1
+"Dr Leedbetter","Monica",1
+"Dr Leedbetter","Phoebe",1
+"Dr Leedbetter","Rachel",1
+"Dr Leedbetter","Ross",2
+"Dr Li","Ross",1
+"Dr Long","Joey",1
+"Dr Long","Julie",1
+"Dr Long","Man",1
+"Dr Long","Marc",1
+"Dr Long","Nurse",1
+"Dr Long","Rachel",8
+"Dr Long","Ross",8
+"Dr Long","Woman",1
+"Dr Long","Woman Giving Birth",1
+"Dr Miller","Monica",1
+"Dr Miller","Rachel",1
+"Dr Miller","The Doctor",1
+"Dr Mitchell","Dr Rosen",1
+"Dr Mitchell","Monica",1
+"Dr Mitchell","Rachel",1
+"Dr Oberman","Frank",1
+"Dr Oberman","Phoebe",1
+"Dr Oberman","Ross",2
+"Dr Oberman","Susan",1
+"Dr Remore","Intercom",1
+"Dr Remore","Joey",1
+"Dr Remore","Monica",2
+"Dr Remore","Phoebe",1
+"Dr Remore","Rachel",2
+"Dr Remore","Ross",2
+"Dr Rhodes","Ross",2
+"Dr Roger","Monica",1
+"Dr Rosen","Monica",1
+"Dr Rosen","Rachel",1
+"Dr Schiff","Nurse",1
+"Dr Schiff","Rachel",1
+"Dr Stryker Remoray","Joey",1
+"Dr Stryker Remoray","Nurse #1",1
+"Dr Stryker Remoray","Nurse #2",1
+"Dr Stryker Remoray","Terry",1
+"Dr Stryker Remoray","The Director",1
+"Dr Timothy Burke","Monica",1
+"Dr Timothy Burke","Nurse",1
+"Dr Timothy Burke","Rachel",1
+"Dr Wesley","Hope",1
+"Dr Wesley","Nurse",1
+"Dr Wesley","Rachel",1
+"Dr Zane","Frank",1
+"Dr Zane","Phoebe",2
 "Drew","Mike",1
 "Drunk Man","Monica",1
-"Drunk Man","Mr. Geller",1
+"Drunk Man","Mr Geller",1
 "Drunk Man","Ross",1
 "Drunken Gambler","Monica",2
 "Drunken Gambler","The Croupier",1
@@ -1139,7 +1127,7 @@
 "Elizabeth","Zoe",1
 "Emeril","Monica",1
 "Emil Alexander","Joey",1
-"Emil Alexander","Mr. Bowmont",1
+"Emil Alexander","Mr Bowmont",1
 "Emil Alexander","Phoebe",1
 "Emil Alexander","Rachel",1
 "Emily","Felicity",1
@@ -1150,10 +1138,10 @@
 "Emily","Minister",2
 "Emily","Minster",1
 "Emily","Monica",16
-"Emily","Mr. Geller",3
-"Emily","Mr. Waltham",3
-"Emily","Mrs. Geller",4
-"Emily","Mrs. Waltham",3
+"Emily","Mr Geller",3
+"Emily","Mr Waltham",3
+"Emily","Mrs Geller",4
+"Emily","Mrs Waltham",3
 "Emily","Phoebe",13
 "Emily","Rachel",12
 "Emily","Ross",29
@@ -1173,7 +1161,7 @@
 "Eric","Kids",1
 "Eric","Mona",2
 "Eric","Monica",3
-"Eric","Mr. Heckles",1
+"Eric","Mr Heckles",1
 "Eric","Phoebe",7
 "Eric","Rachel",3
 "Eric","Ross",4
@@ -1223,15 +1211,15 @@
 "Fat Girl","Little Girl",1
 "Fat Girl","Mona",1
 "Fat Girl","Monica",1
-"Fat Girl","Mr. Geller",1
+"Fat Girl","Mr Geller",1
 "Fat Girl","Phoebe",1
 "Fat Girl","Rachel",1
 "Fat Girl","Ross",1
 "Fat Girl","Second Girl",1
 "Fat Monica","Joey",1
 "Fat Monica","Monica",2
-"Fat Monica","Mr. Geller",1
-"Fat Monica","Mrs. Geller",1
+"Fat Monica","Mr Geller",1
+"Fat Monica","Mrs Geller",1
 "Fat Monica","Phoebe",1
 "Fat Monica","Rachel",1
 "Fat Monica","Ross",2
@@ -1244,10 +1232,10 @@
 "Fbob","Russ",2
 "Fbob","Waiter",1
 "Felicity","Joey",2
-"Felicity","Mr. Geller",1
-"Felicity","Mr. Waltham",1
-"Felicity","Mrs. Geller",1
-"Felicity","Mrs. Waltham",1
+"Felicity","Mr Geller",1
+"Felicity","Mr Waltham",1
+"Felicity","Mrs Geller",1
+"Felicity","Mrs Waltham",1
 "Felicity","Phoebe",1
 "Felicity","Rachel",1
 "Felicity","Ross",1
@@ -1290,7 +1278,7 @@
 "Frank","Joey",7
 "Frank","Joey's Doctor",1
 "Frank","Monica",7
-"Frank","Mrs Buffay",1
+"Frank","Mr Buffay",1
 "Frank","Nurse",1
 "Frank","Phoebe",19
 "Frank","Phoebe Sr",1
@@ -1319,7 +1307,7 @@
 "Funny","Joey",1
 "Funny","Mona",1
 "Funny","Monica",1
-"Funny","Mrs. Bing",1
+"Funny","Mrs Bing",1
 "Funny","Phoebe",1
 "Funny","Rachel",1
 "Funny","Ross",1
@@ -1352,7 +1340,7 @@
 "Gavin","Heather",1
 "Gavin","Molly",1
 "Gavin","Monica",2
-"Gavin","Mr. Zelner",2
+"Gavin","Mr Zelner",2
 "Gavin","Phoebe",1
 "Gavin","Rachel",8
 "Gavin","Ross",2
@@ -1366,7 +1354,7 @@
 "Gert","Little Girl",1
 "Gert","Mona",1
 "Gert","Monica",1
-"Gert","Mr. Geller",1
+"Gert","Mr Geller",1
 "Gert","Phoebe",1
 "Gert","Rachel",1
 "Gert","Ross",1
@@ -1396,9 +1384,9 @@
 "Girl's Voice","Guy",1
 "Girl's Voice","Joey",1
 "Girl's Voice","Monica",1
-"Girl's Voice","Mr. Greene",1
-"Girl's Voice","Mrs. Geller",1
-"Girl's Voice","Mrs. Greene",1
+"Girl's Voice","Mr Greene",1
+"Girl's Voice","Mrs Geller",1
+"Girl's Voice","Mrs Greene",1
 "Girl's Voice","Phoebe",1
 "Girl's Voice","Rachel",1
 "Girl's Voice","Ross",1
@@ -1430,9 +1418,9 @@
 "Gunter","Guy",1
 "Gunter","Joey",1
 "Gunter","Monica",1
-"Gunter","Mr. Greene",1
-"Gunter","Mrs. Geller",1
-"Gunter","Mrs. Greene",1
+"Gunter","Mr Greene",1
+"Gunter","Mrs Geller",1
+"Gunter","Mrs Greene",1
 "Gunter","Phoebe",1
 "Gunter","Rachel",1
 "Gunter","Ross",1
@@ -1453,10 +1441,10 @@
 "Gunther","Melissa",1
 "Gunther","Mike",1
 "Gunther","Monica",28
-"Gunther","Mr. Geller",1
-"Gunther","Mr. Greene",1
-"Gunther","Mrs. Geller",2
-"Gunther","Mrs. Greene",1
+"Gunther","Mr Geller",1
+"Gunther","Mr Greene",1
+"Gunther","Mrs Geller",2
+"Gunther","Mrs Greene",1
 "Gunther","Patron",1
 "Gunther","Phoebe",31
 "Gunther","Professor Spafford",1
@@ -1478,9 +1466,9 @@
 "Guy","Lydia",1
 "Guy","Mich",1
 "Guy","Monica",10
-"Guy","Mr. Greene",1
-"Guy","Mrs. Geller",1
-"Guy","Mrs. Greene",1
+"Guy","Mr Greene",1
+"Guy","Mrs Geller",1
+"Guy","Mrs Greene",1
 "Guy","Phoebe",16
 "Guy","Rachel",10
 "Guy","Ross",10
@@ -1500,8 +1488,8 @@
 "Guys","Kiki",1
 "Guys","Leslie",1
 "Guys","Monica",5
-"Guys","Mr. Greene",1
-"Guys","Mrs. Greene",1
+"Guys","Mr Greene",1
+"Guys","Mrs Greene",1
 "Guys","Phoebe",5
 "Guys","Rachel",5
 "Guys","Ross",5
@@ -1567,7 +1555,7 @@
 "Intercom","Joey",1
 "Intercom","Luisa",1
 "Intercom","Monica",3
-"Intercom","Mr. Heckles",1
+"Intercom","Mr Heckles",1
 "Intercom","Phoebe",2
 "Intercom","Rachel",3
 "Intercom","Ross",2
@@ -1620,9 +1608,9 @@
 "Janice","Matress King",1
 "Janice","Max",1
 "Janice","Monica",16
-"Janice","Mr. Boyle",1
-"Janice","Mr. Heckles",1
-"Janice","Mr. Treeger",1
+"Janice","Mr Boyle",1
+"Janice","Mr Heckles",1
+"Janice","Mr Treeger",1
 "Janice","Nurse",1
 "Janice","Phoebe",15
 "Janice","Rachel",13
@@ -1650,14 +1638,14 @@
 "Jason","Vince",1
 "Jay Leno","Joey",2
 "Jay Leno","Monica",2
-"Jay Leno","Mrs. Bing",1
+"Jay Leno","Mrs Bing",1
 "Jay Leno","Paolo",1
 "Jay Leno","Phoebe",2
 "Jay Leno","Rachel",2
 "Jay Leno","Ross",2
 "Jeanette","Zack",1
 "Jeannie","Joey",1
-"Jeannie","Mr. Douglas",1
+"Jeannie","Mr Douglas",1
 "Jeannine","Julio",1
 "Jeannine","Monica",1
 "Jen","Joey",1
@@ -1685,8 +1673,8 @@
 "Jim","Phoebe",2
 "Jo Lynn","Joey",1
 "Jo Lynn","Monica",1
-"Joanna","Mr. Posner",1
-"Joanna","Mrs. Lynch",1
+"Joanna","Mr Posner",1
+"Joanna","Mrs Lynch",1
 "Joanna","Rachel",10
 "Joanna","Sophie",5
 "Joanne","Joey",1
@@ -1758,25 +1746,25 @@
 "Joey","Monica",700
 "Joey","Mover",1
 "Joey","Mr a",1
-"Joey","Mr. Bing",1
-"Joey","Mr. Bowmont",1
-"Joey","Mr. Boyle",1
-"Joey","Mr. Douglas",1
-"Joey","Mr. Geller",20
-"Joey","Mr. Greene",3
-"Joey","Mr. Heckles",4
-"Joey","Mr. Thompson",3
-"Joey","Mr. Treeger",8
-"Joey","Mr. Tribbiani",5
-"Joey","Mr. Waltham",2
-"Joey","Mr. Zelner",1
+"Joey","Mr Bing",1
+"Joey","Mr Bowmont",1
+"Joey","Mr Boyle",1
+"Joey","Mr Douglas",1
+"Joey","Mr Geller",20
+"Joey","Mr Green",1
+"Joey","Mr Greene",3
+"Joey","Mr Heckles",4
+"Joey","Mr Thompson",3
+"Joey","Mr Treeger",8
+"Joey","Mr Tribbiani",5
+"Joey","Mr Waltham",2
+"Joey","Mr Zelner",1
+"Joey","Mrs Bing",5
+"Joey","Mrs Geller",21
 "Joey","Mrs Green",1
-"Joey","Mrs. Bing",5
-"Joey","Mrs. Geller",21
-"Joey","Mrs. Green",1
-"Joey","Mrs. Greene",3
-"Joey","Mrs. Tribbiani",1
-"Joey","Mrs. Waltham",4
+"Joey","Mrs Greene",3
+"Joey","Mrs Tribbiani",1
+"Joey","Mrs Waltham",4
 "Joey","Nurse",8
 "Joey","Nurse #1",1
 "Joey","Nurse #2",1
@@ -1844,7 +1832,7 @@
 "Joey","The Cooking Teacher",3
 "Joey","The Director",17
 "Joey","The Doctor",2
-"Joey","The Dry Cleaner",3
+"Joey","The Dr Cleaner",3
 "Joey","The Fan",1
 "Joey","The Food Critic",1
 "Joey","The Girls",5
@@ -1937,9 +1925,9 @@
 "Josh","Rachel",2
 "Josh","Ross",1
 "Joshua","Monica",3
-"Joshua","Mr. Burgin",2
-"Joshua","Mr. Waltham",3
-"Joshua","Mrs. Burgin",2
+"Joshua","Mr Burgin",2
+"Joshua","Mr Waltham",3
+"Joshua","Mrs Burgin",2
 "Joshua","Phoebe",3
 "Joshua","Rachel",12
 "Joshua","Ross",4
@@ -1952,7 +1940,7 @@
 "Julie","Man",2
 "Julie","Marc",2
 "Julie","Monica",8
-"Julie","Mrs. Geller",1
+"Julie","Mrs Geller",1
 "Julie","Phoebe",8
 "Julie","Rachel",18
 "Julie","Rahcel",1
@@ -2062,7 +2050,7 @@
 "Little Bully","Ross",4
 "Little Girl","Mona",1
 "Little Girl","Monica",1
-"Little Girl","Mr. Geller",1
+"Little Girl","Mr Geller",1
 "Little Girl","Phoebe",1
 "Little Girl","Rachel",1
 "Little Girl","Ross",1
@@ -2073,7 +2061,7 @@
 "Lorraine","Phoebe",1
 "Lorraine","Ross",1
 "Luisa","Monica",1
-"Luisa","Mr. Heckles",1
+"Luisa","Mr Heckles",1
 "Luisa","Phoebe",1
 "Luisa","Rachel",1
 "Luisa","Ross",1
@@ -2112,8 +2100,8 @@
 "Man","Marc",1
 "Man","Mark",2
 "Man","Monica",5
-"Man","Mr. Geller",2
-"Man","Mrs. Geller",2
+"Man","Mr Geller",2
+"Man","Mrs Geller",2
 "Man","Parker",2
 "Man","Phoebe",9
 "Man","Quartet",2
@@ -2142,7 +2130,7 @@
 "Manny","Monica",1
 "Manny","Phoebe",1
 "Manny","Strange Man",1
-"Marc","Mrs. Geller",1
+"Marc","Mrs Geller",1
 "Marc","Rachel",2
 "Marc","Ross",2
 "Marc","Woman",1
@@ -2235,24 +2223,24 @@
 "Mike's Mom","Phoebe",2
 "Mike's Mom","Rachel",2
 "Mike's Mom","Ross",2
-"Mindy","Mr. Wineburg",1
-"Mindy","Mrs. Wineburg",1
+"Mindy","Mr Wineburg",1
+"Mindy","Mrs Wineburg",1
 "Mindy","Rachel",3
 "Mindy","Ross",1
 "Minister","Minster",1
 "Minister","Monica",2
 "Minister","Mr a",1
+"Minister","Mr Green",1
+"Minister","Mrs Geller",1
 "Minister","Mrs Green",1
-"Minister","Mrs. Geller",1
-"Minister","Mrs. Green",1
-"Minister","Mrs. Waltham",1
+"Minister","Mrs Waltham",1
 "Minister","Phoebe",2
 "Minister","Rachel",2
 "Minister","Ross",3
 "Minister","Susan",1
 "Minister","Woman",1
 "Minster","Monica",1
-"Minster","Mrs. Waltham",1
+"Minster","Mrs Waltham",1
 "Minster","Phoebe",1
 "Minster","Ross",1
 "Mischa","Monica",2
@@ -2266,8 +2254,8 @@
 "Molly","Woman",1
 "Mona","Mona's Date",1
 "Mona","Monica",5
-"Mona","Mr. Geller",1
-"Mona","Mrs. Bing",1
+"Mona","Mr Geller",1
+"Mona","Mrs Bing",1
 "Mona","Phoebe",5
 "Mona","Rachel",6
 "Mona","Ross",20
@@ -2278,22 +2266,22 @@
 "Mona","Woman",1
 "Mona's Date","Ross",1
 "Monica","Mr a",1
-"Monica","Mr. Bing",3
-"Monica","Mr. Boyle",1
-"Monica","Mr. Geller",42
-"Monica","Mr. Greene",3
-"Monica","Mr. Heckles",6
-"Monica","Mr. Treeger",4
-"Monica","Mr. Tribbiani",3
-"Monica","Mr. Waltham",3
-"Monica","Mrs Green",1
-"Monica","Mrs. Bing",6
-"Monica","Mrs. Burkart",3
-"Monica","Mrs. Chatracus",1
-"Monica","Mrs. Geller",39
-"Monica","Mrs. Green",6
-"Monica","Mrs. Greene",3
-"Monica","Mrs. Waltham",5
+"Monica","Mr Bing",3
+"Monica","Mr Boyle",1
+"Monica","Mr Geller",42
+"Monica","Mr Green",1
+"Monica","Mr Greene",3
+"Monica","Mr Heckles",6
+"Monica","Mr Treeger",4
+"Monica","Mr Tribbiani",3
+"Monica","Mr Waltham",3
+"Monica","Mrs Bing",6
+"Monica","Mrs Burkart",3
+"Monica","Mrs Chatracus",1
+"Monica","Mrs Geller",39
+"Monica","Mrs Green",6
+"Monica","Mrs Greene",3
+"Monica","Mrs Waltham",5
 "Monica","Nurse",9
 "Monica","Others",1
 "Monica","Oven",1
@@ -2408,157 +2396,156 @@
 "Monica","Zack",3
 "Morse","Ross",2
 "Mover","Ross",1
+"Mr a","Mr Green",1
 "Mr a","Mrs Green",1
-"Mr a","Mrs. Green",1
 "Mr a","Phoebe",1
 "Mr a","Rachel",1
 "Mr a","Ross",1
 "Mr a","Susan",1
 "Mr a","Woman",1
+"Mr Bing","Mr Geller",3
+"Mr Bing","Mrs Bing",3
+"Mr Bing","Mrs Geller",3
+"Mr Bing","Phoebe",3
+"Mr Bing","Rachel",2
+"Mr Bing","Ross",3
+"Mr Bing","The Rabbi",1
+"Mr Bing","Woman",1
+"Mr Bowmont","Phoebe",1
+"Mr Bowmont","Rachel",1
+"Mr Boyle","Mr Heckles",1
+"Mr Boyle","Mr Treeger",1
+"Mr Boyle","Phoebe",1
+"Mr Boyle","Rachel",1
+"Mr Boyle","Ross",1
+"Mr Buffay","Phoebe",1
+"Mr Burgin","Mrs Burgin",2
+"Mr Burgin","Rachel",2
 "Mr Campbell","Mr Zellner",1
 "Mr Campbell","Rachel",1
+"Mr Douglas","Nina",1
+"Mr Franklin","Ross",1
+"Mr Geller","Mr Waltham",3
+"Mr Geller","Mrs Bing",3
+"Mr Geller","Mrs Geller",32
+"Mr Geller","Mrs Waltham",2
+"Mr Geller","Nurse",1
+"Mr Geller","Parker",2
+"Mr Geller","Phoebe",20
+"Mr Geller","Rachel",20
+"Mr Geller","Richard",4
+"Mr Geller","Ross",38
+"Mr Geller","Roy",1
+"Mr Geller","Second Girl",1
+"Mr Geller","Tag",1
+"Mr Geller","The Doctor",1
+"Mr Geller","The Girls",1
+"Mr Geller","The Paramedic",1
+"Mr Geller","The Rabbi",1
+"Mr Geller","Uncle Dan",1
+"Mr Geller","Video",1
+"Mr Geller","Waiter",1
+"Mr Geller","Woman",1
+"Mr Green","Mrs Green",1
+"Mr Green","Phoebe",1
+"Mr Green","Rachel",1
+"Mr Green","Ross",1
+"Mr Green","Susan",1
+"Mr Green","Woman",1
+"Mr Greene","Mrs Geller",1
+"Mr Greene","Mrs Greene",3
+"Mr Greene","Phoebe",3
+"Mr Greene","Rachel",2
+"Mr Greene","Ross",2
+"Mr Heckles","Mr Treeger",1
+"Mr Heckles","Phoebe",6
+"Mr Heckles","Rachel",6
+"Mr Heckles","Ross",4
+"Mr Heckles","Woman No. 1",1
+"Mr Heckles","Woman No. 2",1
+"Mr Kaplan","Rachel",1
+"Mr Oberblau","Paleontologist",1
+"Mr Oberblau","Professore Clerk",1
+"Mr Oberblau","Ross",1
+"Mr Oberblau","Woman",1
+"Mr Posner","Mrs Lynch",1
+"Mr Posner","Rachel",1
+"Mr Simon","Mrs Potter",1
+"Mr Simon","Phoebe",1
+"Mr Simon","Rick",1
+"Mr Thompson","Phoebe",3
+"Mr Thompson","Rachel",3
+"Mr Treeger","Phoebe",4
+"Mr Treeger","Rachel",4
+"Mr Treeger","Ross",4
+"Mr Tribbiani","Phoebe",2
+"Mr Tribbiani","Rachel",2
+"Mr Tribbiani","Roger",1
+"Mr Tribbiani","Ronni",2
+"Mr Tribbiani","Ross",1
+"Mr Waltham","Mrs Geller",3
+"Mr Waltham","Mrs Waltham",4
+"Mr Waltham","Phoebe",1
+"Mr Waltham","Rachel",7
+"Mr Waltham","Ross",5
+"Mr Wineburg","Mrs Wineburg",1
+"Mr Wineburg","Rachel",1
+"Mr Wineburg","Ross",1
 "Mr Zellner","Rachel",1
-"Mr Zelner","Ross",2
-"Mr. Bing","Mr. Geller",3
-"Mr. Bing","Mrs. Bing",3
-"Mr. Bing","Mrs. Geller",3
-"Mr. Bing","Phoebe",3
-"Mr. Bing","Rachel",2
-"Mr. Bing","Ross",3
-"Mr. Bing","The Rabbi",1
-"Mr. Bing","Woman",1
-"Mr. Bowmont","Phoebe",1
-"Mr. Bowmont","Rachel",1
-"Mr. Boyle","Mr. Heckles",1
-"Mr. Boyle","Mr. Treeger",1
-"Mr. Boyle","Phoebe",1
-"Mr. Boyle","Rachel",1
-"Mr. Boyle","Ross",1
-"Mr. Burgin","Mrs. Burgin",2
-"Mr. Burgin","Rachel",2
-"Mr. Douglas","Nina",1
-"Mr. Franklin","Ross",1
-"Mr. Geller","Mr. Waltham",3
-"Mr. Geller","Mrs. Bing",3
-"Mr. Geller","Mrs. Geller",32
-"Mr. Geller","Mrs. Waltham",2
-"Mr. Geller","Nurse",1
-"Mr. Geller","Parker",2
-"Mr. Geller","Phoebe",20
-"Mr. Geller","Rachel",20
-"Mr. Geller","Richard",4
-"Mr. Geller","Ross",38
-"Mr. Geller","Roy",1
-"Mr. Geller","Second Girl",1
-"Mr. Geller","Tag",1
-"Mr. Geller","The Doctor",1
-"Mr. Geller","The Girls",1
-"Mr. Geller","The Paramedic",1
-"Mr. Geller","The Rabbi",1
-"Mr. Geller","Uncle Dan",1
-"Mr. Geller","Video",1
-"Mr. Geller","Waiter",1
-"Mr. Geller","Woman",1
-"Mr. Greene","Mrs. Geller",1
-"Mr. Greene","Mrs. Greene",3
-"Mr. Greene","Phoebe",3
-"Mr. Greene","Rachel",2
-"Mr. Greene","Ross",2
-"Mr. Heckles","Mr. Treeger",1
-"Mr. Heckles","Phoebe",6
-"Mr. Heckles","Rachel",6
-"Mr. Heckles","Ross",4
-"Mr. Heckles","Woman No. 1",1
-"Mr. Heckles","Woman No. 2",1
-"Mr. Kaplan","Rachel",1
-"Mr. Oberblau","Paleontologist",1
-"Mr. Oberblau","Professore Clerk",1
-"Mr. Oberblau","Ross",1
-"Mr. Oberblau","Woman",1
-"Mr. Posner","Mrs. Lynch",1
-"Mr. Posner","Rachel",1
-"Mr. Simon","Mrs. Potter",1
-"Mr. Simon","Phoebe",1
-"Mr. Simon","Rick",1
-"Mr. Thompson","Phoebe",3
-"Mr. Thompson","Rachel",3
-"Mr. Treeger","Phoebe",4
-"Mr. Treeger","Rachel",4
-"Mr. Treeger","Ross",4
-"Mr. Tribbiani","Phoebe",2
-"Mr. Tribbiani","Rachel",2
-"Mr. Tribbiani","Roger",1
-"Mr. Tribbiani","Ronni",2
-"Mr. Tribbiani","Ross",1
-"Mr. Waltham","Mrs. Geller",3
-"Mr. Waltham","Mrs. Waltham",4
-"Mr. Waltham","Phoebe",1
-"Mr. Waltham","Rachel",7
-"Mr. Waltham","Ross",5
-"Mr. Wineburg","Mrs. Wineburg",1
-"Mr. Wineburg","Rachel",1
-"Mr. Wineburg","Ross",1
-"Mr. Zelner","Rachel",6
-"Mr. Zelner","Ross",1
-"Mr. Zelner","Tag",1
-"Mrs Buffay","Phoebe",1
-"Mrs Green","Mrs. Green",1
-"Mrs Green","Phoebe",1
-"Mrs Green","Rachel",1
-"Mrs Green","Ross",1
+"Mr Zelner","Rachel",6
+"Mr Zelner","Ross",3
+"Mr Zelner","Tag",1
+"Mrs Bing","Mrs Geller",3
+"Mrs Bing","Paolo",1
+"Mrs Bing","Phoebe",6
+"Mrs Bing","Rachel",5
+"Mrs Bing","Ross",7
+"Mrs Bing","The Housekeeper",1
+"Mrs Bing","The Rabbi",1
+"Mrs Bing","Waiter",1
+"Mrs Bing","Woman",2
+"Mrs Burgin","Rachel",2
+"Mrs Burkart","Phoebe",3
+"Mrs Chatracus","Rachel",1
+"Mrs Geller","Mrs Greene",1
+"Mrs Geller","Mrs Waltham",3
+"Mrs Geller","Nurse",1
+"Mrs Geller","Oven",1
+"Mrs Geller","Parker",2
+"Mrs Geller","Phoebe",21
+"Mrs Geller","Rachel",26
+"Mrs Geller","Richard",3
+"Mrs Geller","Ross",35
+"Mrs Geller","Roy",1
+"Mrs Geller","Tag",1
+"Mrs Geller","The Doctor",1
+"Mrs Geller","The Girls",1
+"Mrs Geller","The Paramedic",1
+"Mrs Geller","The Rabbi",1
+"Mrs Geller","Uncle Dan",1
+"Mrs Geller","Waiter",1
+"Mrs Geller","Woman",1
+"Mrs Green","Phoebe",6
+"Mrs Green","Rachel",6
+"Mrs Green","Ross",3
 "Mrs Green","Susan",1
-"Mrs Green","Woman",1
-"Mrs. Bing","Mrs. Geller",3
-"Mrs. Bing","Paolo",1
-"Mrs. Bing","Phoebe",6
-"Mrs. Bing","Rachel",5
-"Mrs. Bing","Ross",7
-"Mrs. Bing","The Housekeeper",1
-"Mrs. Bing","The Rabbi",1
-"Mrs. Bing","Waiter",1
-"Mrs. Bing","Woman",2
-"Mrs. Burgin","Rachel",2
-"Mrs. Burkart","Phoebe",3
-"Mrs. Chatracus","Rachel",1
-"Mrs. Geller","Mrs. Greene",1
-"Mrs. Geller","Mrs. Waltham",3
-"Mrs. Geller","Nurse",1
-"Mrs. Geller","Oven",1
-"Mrs. Geller","Parker",2
-"Mrs. Geller","Phoebe",21
-"Mrs. Geller","Rachel",26
-"Mrs. Geller","Richard",3
-"Mrs. Geller","Ross",35
-"Mrs. Geller","Roy",1
-"Mrs. Geller","Tag",1
-"Mrs. Geller","The Doctor",1
-"Mrs. Geller","The Girls",1
-"Mrs. Geller","The Paramedic",1
-"Mrs. Geller","The Rabbi",1
-"Mrs. Geller","Uncle Dan",1
-"Mrs. Geller","Waiter",1
-"Mrs. Geller","Woman",1
-"Mrs. Green","Phoebe",6
-"Mrs. Green","Rachel",6
-"Mrs. Green","Ross",3
-"Mrs. Green","Susan",1
-"Mrs. Green","Woman",2
-"Mrs. Greene","Phoebe",3
-"Mrs. Greene","Rachel",2
-"Mrs. Greene","Ross",2
-"Mrs. Lynch","Rachel",2
-"Mrs. Lynch","Sophie",1
-"Mrs. Potter","Phoebe",1
-"Mrs. Potter","Rick",1
-"Mrs. Tedlock","Woman",1
-"Mrs. Waltham","Phoebe",3
-"Mrs. Waltham","Rachel",2
-"Mrs. Waltham","Ross",6
-"Mrs. Wineburg","Rachel",1
-"Mrs. Wineburg","Ross",1
-"Ms. Geller","Rachel",1
-"Ms. Geller","Ross",1
-"Ms. Lambert","Ross",1
+"Mrs Green","Woman",2
+"Mrs Greene","Phoebe",3
+"Mrs Greene","Rachel",2
+"Mrs Greene","Ross",2
+"Mrs Lynch","Rachel",2
+"Mrs Lynch","Sophie",1
+"Mrs Potter","Phoebe",1
+"Mrs Potter","Rick",1
+"Mrs Tedlock","Woman",1
+"Mrs Waltham","Phoebe",3
+"Mrs Waltham","Rachel",2
+"Mrs Waltham","Ross",6
+"Mrs Wineburg","Rachel",1
+"Mrs Wineburg","Ross",1
+"Ms Geller","Rachel",1
+"Ms Geller","Ross",1
+"Ms Lambert","Ross",1
 "Nancy","Rachel",4
 "Narrator","Rachel",1
 "Narrator","Ross",1
@@ -2693,7 +2680,7 @@
 "Phoebe","The Croupier",1
 "Phoebe","The Cute Guy",1
 "Phoebe","The Doctor",1
-"Phoebe","The Dry Cleaner",2
+"Phoebe","The Dr Cleaner",2
 "Phoebe","The Fan",1
 "Phoebe","The Fireman",1
 "Phoebe","The Girls",5
