@@ -281,6 +281,10 @@ d3.select('#play').on('click', () => {
         clearInterval(intervalId);
     })
 if (counter === 11) {
+    document.getElementsByClassName('fa-play')[0].classList.toggle('highlight');
+    document.getElementsByClassName('fa-stop')[0].classList.toggle('highlight');
+    document.getElementById('play').disabled = false;
+    document.getElementById('stop').disabled = true;
     clearInterval(intervalId);
   }
 }, 4000);
