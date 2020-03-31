@@ -18,7 +18,10 @@ for (season in 1:10) {
     # pass empty df if scrape fails
     scrape <- tryCatch(
       scrape_friends(season, episode),
-      error = function(e) {data.frame(from = character(), to = character(), stringsAsFactors = FALSE)}
+      error = function(e) {
+        message(paste("Scrape failed for Episode", episode, "Season", season))
+        data.frame(from = character(), to = character(), stringsAsFactors = FALSE)
+        }
     )
     
     result <- data.frame(from = character(), to = character(), stringsAsFactors = FALSE)
@@ -33,9 +36,7 @@ for (season in 1:10) {
         result <- result %>% 
           dplyr::bind_rows(result_new) 
       } 
-    } else {
-      result <- data.frame(from = character(), to = character(), stringsAsFactors = FALSE)
-    }
+    } 
     
    season_results <- season_results %>% 
      dplyr::bind_rows(result)
