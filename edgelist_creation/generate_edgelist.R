@@ -27,15 +27,11 @@ for (season in 1:10) {
     result <- data.frame(from = character(), to = character(), stringsAsFactors = FALSE)
     
     if (nrow(scrape) > 0) {
-      for (i in 1:max(scrape$scene)) {
-        result_new <- scrape %>% 
-          dplyr::filter(scene == i) %>% 
-          dplyr::pull(character) %>% 
-          unique_pairs()
-        
-        result <- result %>% 
-          dplyr::bind_rows(result_new) 
-      } 
+      result <- scrape %>% 
+        dplyr::group_by(scene) %>% 
+        dplyr::summarise(unique_pairs(character)) %>% 
+        dplyr::ungroup() %>% 
+        dplyr::select(-scene)
     } 
     
    season_results <- season_results %>% 
