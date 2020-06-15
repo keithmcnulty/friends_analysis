@@ -43,8 +43,8 @@ if (!dir.exists("img")) {
 
 for (i in 1:10) {
   
-  jpeg(paste0("img/friends_s", i, "_sphere.jpeg"), width = 1200, height = 1200)
-  friends_network(i, get(paste0("edgelist_s", i)), type = "sphere")
+  jpeg(paste0("img/friends_s", i, "_mds.jpeg"), width = 1200, height = 1200)
+  friends_network(i, get(paste0("edgelist_s", i)), type = "mds")
   dev.off()
   
 }

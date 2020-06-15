@@ -1,0 +1,348 @@
+Community Detection in R using communities of Friends characters
+================
+Keith McNulty
+15/06/2020
+
+In this article I will use the community detection capabilities in the
+`igraph` package in R to show how to detect communities in a network. By
+the end of the article we will able to see how the Louvain community
+detection algorithm breaks up the *Friends* characters into distinct
+communities (ignoring the obvious community of the six main characters),
+and if you are a fan of the show you can decide if this analysis makes
+sense to you.
+
+## Data for assembling the network of Friends characters
+
+In my earlier articles I showed how you can [scrape scripts of Friends
+episodes](https://drkeithmcnulty.com/2020/03/25/scraping-structured-data-from-semi-structured-documents/)
+and [use iterative
+programming](https://drkeithmcnulty.com/2020/03/30/simple-iterative-programming-and-error-handling-in-r/)
+to generate a network edgelist for the entire series of Friends. A
+network edgelist is a simple dataset that contains the following:
+
+1.  `from` and `to` columns to determine connections between character
+    pairs in our (undirected) network, each character will be a node and
+    each connection will be an edge.
+2.  A `weight` column (which is a property of the edges) indicating the
+    strength of the connection between the pair. In this case this is
+    determined by the number of different scenes the pair have appeared
+    in together.
+
+The edgelist I am using was generated using the techniques in the
+previous two articles, and loaded to Github in the
+[repo](https://github.com/keithmcnulty/friends_analysis) for this
+project. I will now pull the dataset for all ten seasons down and we can
+take a look at it.
+
+``` r
+library(tidyverse)
+library(readr)
+library(igraph)
+```
+
+``` r
+# get friends full series edgelist
+
+edgefile_url <- "https://github.com/keithmcnulty/friends_analysis/blob/master/data/friends_full_series_edgelist.RDS?raw=true"
+download.file(edgefile_url, "edgelist.RDS")
+
+edgelist <- readRDS("edgelist.RDS")
+
+knitr::kable(edgelist %>% head(10))
+```
+
+| from                | to           | weight |
+| :------------------ | :----------- | -----: |
+| a Casino Boss       | a Tourist    |      1 |
+| a Casino Boss       | Chandler     |      1 |
+| a Casino Boss       | Joey         |      1 |
+| a Casino Boss       | Phoebe       |      1 |
+| a Casino Boss       | Rachel       |      1 |
+| a Crew Member       | Alex         |      1 |
+| a Crew Member       | Chandler     |      1 |
+| a Crew Member       | Joey         |      1 |
+| a Crew Member       | The Director |      1 |
+| a Disembodied Voice | Phoebe       |      1 |
+
+This looks as we expect. So we are ready to start some work.
+
+## Using the Louvain algorithm in `igraph` to find communities
+
+Now, first, we are going to pretend that the six main characters don’t
+know each other and delete all edges between them in our network. This
+is because we are interested in how the other characters form
+communities around the main characters. If we were to leave the main
+character connections intact, we know that they would form a very strong
+community amongst themselves, which was of course the whole point of the
+show.
+
+``` r
+friends <- c("Phoebe", "Monica", "Rachel", "Joey", "Ross", "Chandler")
+edgelist_without <- edgelist %>% 
+  dplyr::filter(!(from %in% friends & to %in% friends))
+```
+
+Now we will convert our new edgelist into a matrix and then use that to
+build a graph object that has the `weight` column as a property of the
+edges:
+
+``` r
+edgelist_matrix <- as.matrix(edgelist_without[ ,c("from", "to")])
+  
+friends_graph <- igraph::graph_from_edgelist(edgelist_matrix, directed = FALSE) %>% 
+  igraph::set.edge.attribute("weight", value = edgelist_without$weight)
+```
+
+We can now take a quick basic look at our *Friends* graph:
+
+![](friends_character_networks_files/figure-gfm/pressure-1.png)<!-- -->
+
+OK, what a mess - not surprising given that there are 650 vertices
+(characters) and 2961 edges (connections) in this network. We’ll have to
+do some formatting for some nice plots at a later point. But now we are
+ready to ask the Louvain algorithm to break this network into distinct
+communities. The algorithm will try to maximize the strengths of
+connections inside a community and minimize connections between
+different communities.
+
+``` r
+# run louvain with edge weights
+louvain_partition <- igraph::cluster_louvain(friends_graph, weights = E(friends_graph)$weight)
+
+# assign communities to graph
+friends_graph$community <- louvain_partition$membership
+
+# see how many communities there are
+
+unique(friends_graph$community)
+```
+
+    ## [1] 4 6 1 7 3 8 5 2
+
+In looks like the algorithm found 8 communities. But we have no idea who
+is in them. We can do a few things to try to understand each community
+better.
+
+1.  We can look at how big each community is. Sometimes communities can
+    be tiny and represent almost completely disconnected parts of a
+    network (like a random scene between some characters that never
+    appeared again).
+2.  We can look at the “most important” person (vertex) in each
+    community. One way of doing this is to look for the vertex with the
+    highest betweenness centrality, that is the person who connects the
+    most characters in that community.
+
+<!-- end list -->
+
+``` r
+communities <- data.frame()
+
+for (i in unique(friends_graph$community)) {
+  # create subgraphs for each community
+  subgraph <- induced_subgraph(friends_graph, v = which(friends_graph$community == i))
+  # get size of each subgraph
+  size <- igraph::gorder(subgraph)
+  # get betweenness centrality
+  btwn <-  igraph::betweenness(subgraph)
+  communities <- communities %>% 
+    dplyr::bind_rows(
+      data.frame(community = i,
+                 n_characters = size,
+                 most_important = names(which(btwn == max(btwn)))
+    )
+  )
+}
+
+knitr::kable(communities %>% 
+               dplyr::select(community, n_characters, most_important))
+```
+
+| community | n\_characters | most\_important |
+| --------: | ------------: | :-------------- |
+|         4 |           128 | Chandler        |
+|         6 |           109 | Joey            |
+|         1 |           105 | Phoebe          |
+|         7 |            93 | Rachel          |
+|         3 |           105 | Monica          |
+|         8 |            94 | Ross            |
+|         5 |             8 | Intercom        |
+|         2 |             8 | Bandleader      |
+|         2 |             8 | Dennis Phillips |
+
+OK - we see there are a couple of communities that seem to be fairly
+small and probably quite disconnected (we will look at those in the
+appendix), but the main six communities orient around the six friends
+which is what we would expect. This confirms that each of the six
+characters, despite their closeness to each other, also fostered fairly
+independent communities throughout the series.
+
+We can try to get a sense of those communities by looking at the top
+five most important characters in each community (excluding the small
+communities). This time we will look at a more simple measure of
+performance - the number of connections each character has, or their
+*degree* in the network.
+
+``` r
+top_five <- data.frame()
+
+for (i in unique(friends_graph$community)) {
+# create subgraphs for each community
+  subgraph <- induced_subgraph(friends_graph, v = which(friends_graph$community == i))
+  
+  # for larger communities
+  if (igraph::gorder(subgraph) > 20) {
+    # get degree
+    degree <-  igraph::degree(subgraph)
+    # get top ten degrees
+    top <- names(head(sort(degree, decreasing = TRUE), 5))
+    result <- data.frame(community = i, rank = 1:5, character = top)
+  } else {
+    result <- data.frame(community = NULL, rank = NULL, character = NULL)
+  }
+  
+  top_five <- top_five %>% 
+    dplyr::bind_rows(result)
+}
+
+knitr::kable(
+  top_five %>% 
+    tidyr::pivot_wider(names_from = rank, values_from = character)
+)
+```
+
+| community | 1        | 2            | 3          | 4        | 5              |
+| --------: | :------- | :----------- | :--------- | :------- | :------------- |
+|         4 | Chandler | Janice       | Bill       | Doug     | Security Guard |
+|         6 | Joey     | The Director | Gunther    | Director | Terry          |
+|         1 | Phoebe   | Guy          | Mike       | Steve    | Frank          |
+|         7 | Rachel   | Man          | Nurse      | Dr Long  | Amy            |
+|         3 | Monica   | Mr Geller    | Mrs Geller | Richard  | Pete           |
+|         8 | Ross     | Woman        | Carol      | Susan    | Charlie        |
+
+We see some generic character names here like ‘guy’ or ‘woman’. If we
+ignore these, we can see the following communities of characters:
+
+  - **Phoebe and the men in her life**: Her eventual husband Mike, her
+    drug-addicted massage client Steve, and her half-brother Frank (also
+    her father’s name)
+
+  - **Monica, her parents and boyfriends**: Chandler is missing here of
+    course, by construction\!
+
+  - **Chandler and Janice**: Outside of the six friends, Chandler has
+    limited other connections with recurring characters outside of
+    Janice.
+
+  - **Joey and his acting connections**: Outside of Gunther - who falls
+    into Joey’s community - Joey is mostly involved with directors and
+    agents.
+
+  - **Rachel, her baby and her sister**: Rachel’s community orients
+    mostly around the birth of her baby in Season 8.
+
+  - **Ross, Carol and Susan**: Ross’s community is dominated by the
+    scenes with his ex-wife Carol and her girlfriend Susan, as well as
+    his Paleontology professor girlfriend Charlie Wheeler.
+
+## Visualizing the communities
+
+We can now try to visualize these communities as part of the entire
+network. To make it a bit easier to digest we are going to remove the
+labels for everyone except the six friends, and then we will color code
+the vertices and edges by community.
+
+``` r
+# give our nodes some properties, incl scaling them by degree and coloring them by community
+  
+V(friends_graph)$size <- 3
+V(friends_graph)$frame.color <- "white"
+V(friends_graph)$color <- friends_graph$community
+V(friends_graph)$label <- V(friends_graph)$name
+V(friends_graph)$label.cex <- 1.5
+
+# also color edges according to their starting node
+edge.start <- ends(friends_graph, es = E(friends_graph), names = F)[,1]
+E(friends_graph)$color <- V(friends_graph)$color[edge.start]
+E(friends_graph)$arrow.mode <- 0
+
+# only label central characters
+
+v_labels <- which(V(friends_graph)$name %in% friends)
+
+for (i in 1:length(V(friends_graph))) {
+  if (!(i %in% v_labels)) {
+    V(friends_graph)$label[i] <- ""
+  }
+}
+```
+
+Now we can plot our graph. The ‘prettiest’ plot is probably a spherical
+layout:
+
+``` r
+l1 <- layout_on_sphere(friends_graph)
+plot(friends_graph, rescale = T, layout = l1, main = "'Friends' Network - All Seasons")
+```
+
+<img src="friends_character_networks_files/figure-gfm/plot sphere-1.png" style="display: block; margin: auto;" />
+
+But to better separate the communities for visual purposes, a
+force-directed plot is better:
+
+``` r
+l2 <- layout_with_mds(friends_graph)
+plot(friends_graph, rescale = T, layout = l2, main = "'Friends' Network - All Seasons")
+```
+
+<img src="friends_character_networks_files/figure-gfm/plot mds-1.png" style="display: block; margin: auto;" />
+
+The second image is more helpful as it implies that Joey and Ross may
+lead more ‘independent’ lives and have more of a community of their own
+compared to the four other characters given that the force-directed
+algorithm has distanced them further from the others.
+
+## Appendix: Who are the smaller communities?
+
+Let’s have a look at the two smaller communities which popped up in our
+earlier analysis. Let’s look at who is in these communities.
+
+``` r
+small_communities <- data.frame()
+
+for (i in unique(friends_graph$community)) {
+# create subgraphs for each community
+  subgraph <- induced_subgraph(friends_graph, v = which(friends_graph$community == i))
+  
+  # for larger communities
+  if (igraph::gorder(subgraph) < 20) {
+    # get degree
+    degree <-  igraph::degree(subgraph)
+    # get top ten degrees
+    top <- names(sort(degree, decreasing = TRUE))
+    result <- data.frame(community = i, rank = 1:length(top), character = top)
+  } else {
+    result <- data.frame(community = NULL, rank = NULL, character = NULL)
+  }
+  
+  small_communities <- small_communities %>% 
+    dplyr::bind_rows(result)
+}
+
+knitr::kable(
+  small_communities %>% 
+    tidyr::pivot_wider(names_from = rank, values_from = character)
+)
+```
+
+| community | 1          | 2               | 3      | 4           | 5           | 6           | 7           | 8         |
+| --------: | :--------- | :-------------- | :----- | :---------- | :---------- | :---------- | :---------- | :-------- |
+|         5 | Intercom   | Mr Heckles      | Luisa  | Woman No. 1 | Woman No. 2 | Amber       | Dr Horton   | Dr Remore |
+|         2 | Bandleader | Dennis Phillips | Ashley | Fat Girl    | Gert        | Little Girl | Second Girl | Funny     |
+
+Interestingly our algorithm appears to have picked up on a couple of
+specific episodes and regarded scenes inside them as disconnected
+networks of their own.
+
+  - The first of these communities appears to be from *The One Where Dr
+    Remore Dies*
+  - The second appears to be from *The One After I Do*
