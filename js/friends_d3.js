@@ -184,8 +184,10 @@ var change = function() {
 
         });
 
-        // add photos to all six main characters
-        var friends = ["Joey", "Rachel", "Phoebe", "Monica", "Ross", "Chandler"];
+        // add photos to all main community characters
+        var friends = ["Joey", "Rachel", "Phoebe", "Monica", "Ross", "Chandler", "Janice", 
+        "Susan", "Carol", "Charlie", "Mrs Geller", "Mr Geller", "Mike", "Steve", "Frank", "Richard",
+        "Pete", "Gunther", "Terry", "Dr Long", "Amy"];
 
         var imgPath = './img/'
         
@@ -194,7 +196,7 @@ var change = function() {
             node.filter(x => friends.includes(x.name))
                 .append("defs")
                 .append("pattern")
-                .attr('id', d => 'image-' + d.name)
+                .attr('id', d => 'image-' + d.name.split(" ").join(""))
                 .attr('patternUnits', 'userSpaceOnUse')
                 .attr('x', d => -degreeSize(d.degree))
                 .attr('y', d => -degreeSize(d.degree))
@@ -203,16 +205,17 @@ var change = function() {
                 .append("image")
                 .attr('height', d => degreeSize(d.degree) * 2)
                 .attr('width', d => degreeSize(d.degree) * 2)
-                .attr('xlink:href', d => imgPath + d.name.toLowerCase() + '.jpg');
+                .attr('xlink:href', d => imgPath + d.name.toLowerCase().split(" ").join("") + '.jpg');
             
             node.filter(x => friends.includes(x.name))
                 .append("circle")
                 .attr('r', d => 0.9 * degreeSize(d.degree))
-                .attr('fill', d => 'url(#image-' + d.name + ')');
+                .attr('fill', d => 'url(#image-' + d.name.split(" ").join("") + ')');
             
                 
             })
       });
+
 
   function dragstarted(d) {
     if (!d3.event.active) simulation.alphaTarget(0.3).restart();
